@@ -11,10 +11,12 @@
             "id": "2a09ad9e71ec79a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-18 19.06.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-18 19.06.30.excalidraw"
             }
           }
         ]
@@ -164,6 +166,7 @@
   },
   "active": "2a09ad9e71ec79a7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-18 19.06.30.excalidraw.md",
     "Excalidraw/test 1.md",
     "Excalidraw/Lecture 1 2025-09-18 19.02.04.excalidraw.md",
     "Fall2025/MATH338/Drawing 2025-09-18 18.56.35.excalidraw.md",

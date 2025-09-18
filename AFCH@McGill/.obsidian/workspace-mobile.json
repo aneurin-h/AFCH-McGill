@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Lecture 1"
             }
+          },
+          {
+            "id": "6262ae5d341fc554",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/MATH338/Drawing 2025-09-18 18.56.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-18 18.56.35.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +179,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a09ad9e71ec79a7",
+  "active": "6262ae5d341fc554",
   "lastOpenFiles": [
-    "Fall2025/MATH338/Drawing 2025-09-18 18.54.31.excalidraw.md",
     "Fall2025/MATH338/Lecture 1.md",
+    "Fall2025/MATH338/Drawing 2025-09-18 18.56.35.excalidraw.md",
+    "Fall2025/MATH338/Drawing 2025-09-18 18.54.31.excalidraw.md",
     "Excalidraw/Lecture 1 2025-09-18 18.50.52.excalidraw.md",
     "Excalidraw/Drawing 2025-09-18 18.54.03.excalidraw.md",
     "TEST.md",

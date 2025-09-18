@@ -43,7 +43,7 @@
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "mobile",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,

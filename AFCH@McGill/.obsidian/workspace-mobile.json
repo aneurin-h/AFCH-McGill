@@ -11,13 +11,30 @@
             "id": "c8f28202ce709270",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH338/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 1"
+            }
+          },
+          {
+            "id": "a6b6474a22892818",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-18 18.54.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-18 18.54.03.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,15 +179,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ccdec92385a92bb",
+  "active": "a6b6474a22892818",
   "lastOpenFiles": [
     "Fall2025/MATH338/Lecture 1.md",
+    "Excalidraw/Drawing 2025-09-18 18.54.03.excalidraw.md",
+    "TEST.md",
     "Fall2025/MATH338",
     "Fall2025",
     "Excalidraw/Lecture 1 2025-09-18 18.50.52.excalidraw.md",
     "Testing mobile sync.md",
     "Excalidraw/test 1.md",
-    "TEST.md",
     "Excalidraw",
     "Untitled.base",
     "Untitled.canvas"

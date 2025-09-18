@@ -22,5 +22,6 @@
     "editor:configure-toolbar",
     "obsidian-math-plus:insert-math-block",
     "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab"
-  ]
+  ],
+  "promptDelete": false
 }

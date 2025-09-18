@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1e1e0aa6b7a6d88",
+        "id": "b58fb7cb8dd62840",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9ba8555e7a72a0",
+            "id": "cd844a279d4338db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,7 +168,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6c9ba8555e7a72a0",
+  "active": "cd844a279d4338db",
   "lastOpenFiles": [
     "Fall2025/MATH338/Lecture 1.md",
     "Excalidraw/Lecture 1 2025-09-18 18.50.52.excalidraw.md",

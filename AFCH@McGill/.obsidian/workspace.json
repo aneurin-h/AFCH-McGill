@@ -166,11 +166,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e511d3471d99f357",
+  "active": "4b50ab165f386577",
   "lastOpenFiles": [
+    "Testing mobile sync.md",
     "Welcome.md",
     "TEST.md"
   ]

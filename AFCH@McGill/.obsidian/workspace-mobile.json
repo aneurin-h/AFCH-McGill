@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Testing mobile sync.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,8 +172,10 @@
   },
   "active": "439e956b18c093bb",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Excalidraw/test 1.md",
     "Testing mobile sync.md",
+    "Excalidraw",
+    "Untitled.base",
     "Untitled.canvas",
     "TEST.md"
   ]

@@ -1,2 +1,4 @@
 - You must do 30h of professional development for OIQ each year for currency
+- Should retain independence from influence including from client/employer
+	- If term violates code or law, is null
 - 

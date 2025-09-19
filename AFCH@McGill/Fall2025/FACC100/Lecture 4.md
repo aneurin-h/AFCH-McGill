@@ -3,4 +3,7 @@
 	- If term violates code or law, is null
 - Apparent conflict of interest
 	- Perception of conflict of interest, when none is actually present
-- 
+- Standards of Responsibility
+	- Malpractice
+	- Reasonable Care
+	- Good Works

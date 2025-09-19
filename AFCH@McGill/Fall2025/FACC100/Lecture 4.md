@@ -53,4 +53,7 @@
 			- Public panic bad
 			- All public statements were to reassure the public and justify works
 		- D
-			- 
+			- In fixing of issues he did act with reasonable care
+			- Continued to ensure that the issue was addressed
+			- During the initial phase he did not
+			- To neglect quartering winds is a large problem

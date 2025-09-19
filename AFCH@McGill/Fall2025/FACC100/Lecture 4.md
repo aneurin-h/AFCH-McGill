@@ -49,4 +49,4 @@
 			- Decision to involve external engineers and firms is very good
 			- Good to remain involved on project, to ensure steps are taken
 		- C
-			- 
+			- Decision to speak publicly, but in a reduced capacity to avoid public panic 

@@ -17,4 +17,10 @@
 		- B
 			- Concern over the cover up (and lack of transparency)
 			- Lack of seriousness with which evacuation was considered
+			- Going above and beyond for quartering winds
+			- No communication/analysis about decision to bolt
+		- C
+			- Differences:
+			- Morgenstern assigns much less blame (espeically to LeMessiur)
+			- Kremer more objectivity (assign blame, but also praise good actions)
 			- 

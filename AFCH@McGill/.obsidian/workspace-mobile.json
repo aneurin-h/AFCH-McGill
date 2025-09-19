@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ea0eb90488257d9d",
+        "id": "a3be80755a6179ca",
         "type": "tabs",
         "children": [
           {
-            "id": "2a09ad9e71ec79a7",
+            "id": "aa2a6590cc792c36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH338/Lecture 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 1"
-            }
-          },
-          {
-            "id": "3f74d23a5ed5b3e3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Lecture 1 2025-09-18 21.18.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 1 2025-09-18 21.18.56.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +162,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3f74d23a5ed5b3e3",
+  "active": "aa2a6590cc792c36",
   "lastOpenFiles": [
+    "Excalidraw/Template.excalidraw.md",
     "Fall2025/MATH338/Lecture 1.md",
     "Excalidraw/Lecture 1 2025-09-18 21.18.56.excalidraw.md",
     "Excalidraw/Template.md",

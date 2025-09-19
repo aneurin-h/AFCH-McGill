@@ -27,4 +27,26 @@
 				- Majority preferred the first (more narrative) style
 	- 2
 		- A
+			- Not taking action wouldn't have prevented the consequences
+				- Someone else might have taken blame
+			- Obligated to take action to address issue
+			- Going through proper channels like he did good
+			- Being completely sure of the issue beforehand is critical
+		- B
+			- Social commitment
+				- to the people in the building
+			- Importance of public before own professional reputation
+			- Ethically, knowing about the issue and not bringing it up is similar to being cause
+			- LeMesseurier did not try and pass the blame
+	- 3
+		- A
+			- Yes to both
+			- Aware that this was extraordinary circumstances
+			- Code is minimum
+			- When the type of building is very different from the norm, you should go far beyond the code
+		- B
+			- Did supervise pretty adequately
+			- Decision to involve external engineers and firms is very good
+			- Good to remain involved on project, to ensure steps are taken
+		- C
 			- 

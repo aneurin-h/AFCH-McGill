@@ -15,4 +15,6 @@
 			- When and how to report the discovery
 			- How to present the issue to the public
 		- B
+			- Concern over the cover up (and lack of transparency)
+			- Lack of seriousness with which evacuation was considered
 			- 

@@ -8,4 +8,11 @@
 	- Reasonable Care
 	- Good Works
 - Discussions
-	- 
+	- 1
+		- A
+			- Fear of reprecussions
+			- Challenge of fixing the issue (Material & Work)
+			- When and how to report the discovery
+			- How to present the issue to the public
+		- B
+			- 

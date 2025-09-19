@@ -23,4 +23,8 @@
 			- Differences:
 			- Morgenstern assigns much less blame (espeically to LeMessiur)
 			- Kremer more objectivity (assign blame, but also praise good actions)
+			- First showed more of how people responded, second showed more of outcome
+				- Majority preferred the first (more narrative) style
+	- 2
+		- A
 			- 

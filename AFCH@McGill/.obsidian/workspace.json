@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "338e1c0e2a0f56c5",
+  "active": "c91ba8b6767a2314",
   "lastOpenFiles": [
     "Fall2025/FACC100/Lecture 4.md",
     "Fall2025/FACC100",

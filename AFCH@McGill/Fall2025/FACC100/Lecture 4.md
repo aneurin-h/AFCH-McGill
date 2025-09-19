@@ -1,1 +1,2 @@
+- You must do 30h of professional development for OIQ each year for currency
 - 

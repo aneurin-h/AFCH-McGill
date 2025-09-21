@@ -11,10 +11,14 @@
             "id": "b44be9bcb1c6949a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/FACC100/Lecture 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 4"
             }
           }
         ]
@@ -169,8 +173,9 @@
   },
   "active": "b44be9bcb1c6949a",
   "lastOpenFiles": [
-    "Fall2025/MATH338/Lecture 10.md",
+    "Untitled.md",
     "Fall2025/FACC100/Lecture 4.md",
+    "Fall2025/MATH338/Lecture 10.md",
     "Fall2025/FACC100",
     "Excalidraw/Lecture 2025-09-19 08.33.47.excalidraw.md",
     "Excalidraw/Lecture 1 2025-09-18 21.18.56.excalidraw.md",
@@ -181,7 +186,6 @@
     "Excalidraw/Drawing 2025-09-18 19.10.53.excalidraw.md",
     "Excalidraw/Lecture 1 2025-09-18 18.50.52.excalidraw.md",
     "Excalidraw/test 1.md",
-    "Untitled.md",
     "Fall2025/MATH338",
     "Fall2025",
     "TEST.md",

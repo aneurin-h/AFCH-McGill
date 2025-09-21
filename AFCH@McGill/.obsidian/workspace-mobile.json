@@ -11,10 +11,14 @@
             "id": "4127b08446a19d4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/FACC100/Lecture 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 4"
             }
           }
         ]
@@ -162,7 +166,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4127b08446a19d4c",
+  "active": "6ccdec92385a92bb",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-09-20 22.05.08.excalidraw.md",
     "Untitled.md",

@@ -27,4 +27,6 @@
 	- Method signature is name + list of parameter types
 - Overriding
 	- Reimplementing a method with same signature & return as one defined in superclass
-	- 
+- Write code when needed
+	- DRY
+- 

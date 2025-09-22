@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f4a5785edf24290",
+  "active": "c91ba8b6767a2314",
   "lastOpenFiles": [
     "Excalidraw/Template.excalidraw.md",
     "Fall2025/ECSE 250/ECSE 250 Lecture 6.md",

@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2116e55e104bf5b1",
+        "id": "7ca2d0ec3cdf0f43",
         "type": "tabs",
         "children": [
           {
-            "id": "567dbab4cf19ae1c",
+            "id": "68d0342ce2fc1de8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Lecture 2025-09-19 08.33.47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 2025-09-19 08.33.47.excalidraw"
-            }
-          },
-          {
-            "id": "872882a34665ebcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 11"
-            }
-          },
-          {
-            "id": "db86c8901cf11490",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Lecture 11 2025-09-22 08.30.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Lecture 11 2025-09-22 08.30.35.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,11 +162,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "872882a34665ebcb",
+  "active": "68d0342ce2fc1de8",
   "lastOpenFiles": [
-    "Excalidraw/Lecture 11 2025-09-22 08.30.35.excalidraw.md",
     "Excalidraw/Lecture 2025-09-19 08.33.47.excalidraw.md",
-    "Lecture 11.md",
+    "Excalidraw/MATH 338 Lecture 11 2025-09-22 08.30.35.excalidraw.md",
+    "MATH 338 Lecture 11.md",
     "Fall2025/MATH338/Lecture 10.md",
     "Fall2025/MATH338/Drawing 2025-09-21 20.45.51.excalidraw.md",
     "Fall2025/FACC100/Lecture 4.md",

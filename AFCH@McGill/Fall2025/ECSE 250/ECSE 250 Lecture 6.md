@@ -4,4 +4,8 @@
 	- Static methods can only access static variables
 - Non-static
 	- Associated with the instance
+- Unified Modelling Language (UML)
+	- Class Name
+	- Fields
+	- Methods
 - 

@@ -24,4 +24,5 @@
 		- hiding - Declaring field with the same name as private field in superclass (Don't do)
 - Overloading
 	- Multiple methods with same name but different signatures
-	- 
+	- Method signature is name + list of parameter types
+- 

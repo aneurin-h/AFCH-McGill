@@ -17,3 +17,9 @@
 - Inheritance
 	- Subclass derived from superclass
 	- Inherits all non private non constructor fields and methods
+
+```math
+||{"id":336528578361}||
+
+
+```

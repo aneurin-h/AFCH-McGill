@@ -1,0 +1,1 @@
+![[MATH 133 Tutorial 4 2025-09-22 11.32.38.excalidraw]]

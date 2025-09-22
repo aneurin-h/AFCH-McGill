@@ -30,4 +30,6 @@
 - Write code when needed
 	- DRY
 - `super`
+	- Can only chain super using reflection
+	- Can invoke a superclass constructor
 	- 

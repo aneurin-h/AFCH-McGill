@@ -17,3 +17,8 @@
 - Inheritance
 	- Subclass derived from superclass
 	- Inherits all non private non constructor fields and methods
+- Access control
+	- `protected`
+		- Class can extend only if superclass is visible
+		- Superclass is either `public` or `default
+		- 

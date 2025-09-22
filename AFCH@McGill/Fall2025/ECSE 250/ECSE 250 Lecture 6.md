@@ -11,4 +11,7 @@
 	- ![[Pasted image 20250922161633.png]]
 	- - means private, + means public
 	- underline means static
+	- JetUML
+		- Makes UML diagrams
+		- Could be cool
 	- 

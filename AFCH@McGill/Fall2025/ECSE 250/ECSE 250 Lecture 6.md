@@ -1,6 +1,7 @@
 ![[Pasted image 20250922160650.png]]
 - Static
 	- Associated with the class
+	- Static methods can only access static variables
 - Non-static
 	- Associated with the instance
 - 

@@ -21,4 +21,7 @@
 	- `protected`
 		- Class can extend only if superclass is visible
 		- Superclass is either `public` or `default
-		- 
+		- hiding - Declaring field with the same name as private field in superclass (Don't do)
+- Overloading
+	- Multiple methods with same name but different signatures
+	- 

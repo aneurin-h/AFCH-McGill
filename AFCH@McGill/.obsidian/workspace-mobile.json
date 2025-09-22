@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24ecaac4d38287ac",
+        "id": "2116e55e104bf5b1",
         "type": "tabs",
         "children": [
           {
-            "id": "4127b08446a19d4c",
+            "id": "567dbab4cf19ae1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH338/Lecture 10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 10"
+              "title": "New tab"
             }
           }
         ]
@@ -166,14 +162,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4127b08446a19d4c",
+  "active": "567dbab4cf19ae1c",
   "lastOpenFiles": [
+    "Excalidraw/Lecture 2025-09-19 08.33.47.excalidraw.md",
+    "Fall2025/MATH338/Lecture 10.md",
+    "Fall2025/MATH338/Drawing 2025-09-21 20.45.51.excalidraw.md",
     "Fall2025/FACC100/Lecture 4.md",
     "Excalidraw/Drawing 2025-09-20 22.05.08.excalidraw.md",
     "Untitled.md",
     "Fall2025/MATH133",
-    "Excalidraw/Lecture 2025-09-19 08.33.47.excalidraw.md",
-    "Fall2025/MATH338/Lecture 10.md",
     "Excalidraw/Template.excalidraw.md",
     "Fall2025/MATH338/Lecture 1.md",
     "Excalidraw/Lecture 1 2025-09-18 21.18.56.excalidraw.md",

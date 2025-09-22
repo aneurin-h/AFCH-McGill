@@ -25,4 +25,6 @@
 - Overloading
 	- Multiple methods with same name but different signatures
 	- Method signature is name + list of parameter types
-- 
+- Overriding
+	- Reimplementing a method with same signature & return as one defined in superclass
+	- 

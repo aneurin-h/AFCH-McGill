@@ -14,4 +14,5 @@
 	- JetUML
 		- Makes UML diagrams
 		- Could be cool
+- Inheritance
 	- 

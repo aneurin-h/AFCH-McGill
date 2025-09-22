@@ -8,4 +8,7 @@
 	- Class Name
 	- Fields
 	- Methods
-- 
+	- ![[Pasted image 20250922161633.png]]
+	- - means private, + means public
+	- underline means static
+	- 

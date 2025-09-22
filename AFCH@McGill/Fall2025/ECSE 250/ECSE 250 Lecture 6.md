@@ -17,4 +17,3 @@
 - Inheritance
 	- Subclass derived from superclass
 	- Inherits all non private non constructor fields and methods
-	- 

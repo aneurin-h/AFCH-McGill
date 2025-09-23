@@ -21,9 +21,10 @@
 | 1       | 1   | 1   | 1   | 0   |
 Minimal form is f=x'+y+z'
 
-4 Var
+# 4 Var
 ![[Pasted image 20250923093329.png]]
 Cells can be adjacent over vertical and horizontal edges
+
 
 
 000 001 011 111 101 100 110  010

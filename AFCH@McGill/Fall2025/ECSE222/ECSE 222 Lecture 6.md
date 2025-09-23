@@ -4,5 +4,6 @@
 		- Maximum size of each implicant
 			- Group size must be between 0 and n (num of variables)
 		- Extract function by ORing expressions that represent each implicant
+		- Largest implicants results in lowest cost
 		- 
 

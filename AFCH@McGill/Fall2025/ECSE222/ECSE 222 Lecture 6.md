@@ -8,5 +8,7 @@
 			- Not always certain to provide minimum cost
 			- 85% of the time it will
 		- x+x'y
-		- 
-
+		- ![[Pasted image 20250923091149.png]]
+		- XOR would have cost 1, unless we are not allowed to use it
+		- K-Map does not give minimal cost if it would use more complex gates
+	- 

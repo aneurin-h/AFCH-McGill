@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Test.excalidraw"
+                "file": "Fall2025/ECSE222/ECSE222 PP1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Test"
+              "title": "ECSE222 PP1"
             }
           }
         ]
@@ -169,16 +169,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b50ab165f386577",
+  "active": "9bf29640926b1f52",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-22 23.25.04.excalidraw.md",
+    "Fall2025/ECSE222/PP1_-_F251.pdf",
+    "Fall2025/ECSE222/Drawing 2025-09-22 23.28.20.excalidraw.md",
     "Excalidraw/Test.excalidraw",
+    "Excalidraw/Drawing 2025-09-22 23.25.04.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 23.25.04.excalidraw - Copy.md",
     "Excalidraw/Drawing 2025-09-22 23.22.34.excalidraw.md",
     "Fall2025/ECSE222/ECSE222 PP1.md",
     "Fall2025/ECSE222/Drawing 2025-09-22 22.59.53.excalidraw.md",
     "Fall2025/ECSE222/ECSE222 PP1.pdf",
-    "Fall2025/ECSE222/PP1_-_F251.pdf",
     "Fall2025/ECSE222",
     "Fall2025/MATH133/MATH133 Lecture 0922 - 8.md",
     "Assets/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md",
@@ -208,7 +209,6 @@
     "Excalidraw/Drawing 2025-09-18 19.11.22.excalidraw.md",
     "Excalidraw/Drawing 2025-09-18 19.10.53.excalidraw.md",
     "Excalidraw/Lecture 1 2025-09-18 18.50.52.excalidraw.md",
-    "Excalidraw/test 1.md",
     "Fall2025/MATH338",
     "Fall2025"
   ]

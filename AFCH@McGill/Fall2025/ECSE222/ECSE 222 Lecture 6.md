@@ -1,2 +1,3 @@
-- Karnaugh Maps
+- Karnaugh Maps (K Maps)
+	- Minimization Using K-Maps
 	- 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1203b84f6634efb4",
+        "id": "45fe085cf2b53fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "9353fc910522673a",
+            "id": "bf419e36081ea8b7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -169,7 +169,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9353fc910522673a",
+  "active": "bf419e36081ea8b7",
   "lastOpenFiles": [
     "Fall2025/ECSE222/ECSE222 PP1.md",
     "Fall2025/ECSE222/ECSE222 PP1.pdf",

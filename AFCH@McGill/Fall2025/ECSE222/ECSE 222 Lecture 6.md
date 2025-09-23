@@ -2,4 +2,5 @@
 	- Minimization Using K-Maps
 		- Fewest Implicants
 		- Maximum size of each implicant
-			- Group size must be between 0 and n ( num o)
+			- Group size must be between 0 and n (num of variables)
+			- 

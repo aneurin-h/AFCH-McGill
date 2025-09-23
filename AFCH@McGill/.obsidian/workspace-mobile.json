@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0942d92fa3bf756",
+        "id": "0e945911f593cdc2",
         "type": "tabs",
         "children": [
           {
-            "id": "360a9f0b9e7315a5",
+            "id": "aaf7104cb56a42ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-22 20.50.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-22 20.50.34.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +162,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "360a9f0b9e7315a5",
+  "active": "aaf7104cb56a42ad",
   "lastOpenFiles": [
+    "Fall2025/ECSE222/PP1_-_F25 work.pdf",
+    "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
+    "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
+    "Fall2025/ECSE222/ECSE 222 PP1-work.md",
+    "Fall2025/ECSE222/ECSE 222 Lecture 6.md",
+    "Assets/Pasted image 20250923094425.png",
+    "Assets/Pasted image 20250923094418.png",
+    "Assets/Pasted image 20250923094346.png",
+    "Assets/Pasted image 20250923093329.png",
+    "Assets/Pasted image 20250923091149.png",
     "Excalidraw/Drawing 2025-09-22 20.50.34.excalidraw.md",
     "Fall2025/ECSE222/PP1_-_F251.pdf",
     "Fall2025/ECSE222",
@@ -191,9 +199,6 @@
     "Fall2025/MATH338/Drawing 2025-09-18 18.56.35.excalidraw.md",
     "Fall2025/MATH338/Drawing 2025-09-18 18.54.31.excalidraw.md",
     "Fall2025/MATH338/Drawing 2025-09-18 19.05.35.excalidraw.md",
-    "Excalidraw/Lecture 1 2025-09-18 18.50.52.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-18 18.54.03.excalidraw.md",
-    "TEST.md",
     "Fall2025/MATH338",
     "Fall2025",
     "Excalidraw",

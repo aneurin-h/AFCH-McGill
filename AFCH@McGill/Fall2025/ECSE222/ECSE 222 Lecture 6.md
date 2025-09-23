@@ -7,5 +7,6 @@
 		- Largest implicants results in lowest cost
 			- Not always certain to provide minimum cost
 			- 85% of the time it will
+		- x+x'y
 		- 
 

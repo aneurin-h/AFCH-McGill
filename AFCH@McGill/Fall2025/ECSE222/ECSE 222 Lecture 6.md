@@ -30,3 +30,4 @@ Cells can be adjacent over vertical and horizontal edges
 ![[Pasted image 20250923094425.png]]
 Used because if we simply had 3 vars along the top, then adjacency would not be coherent
 
+

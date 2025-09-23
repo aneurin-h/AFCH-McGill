@@ -5,7 +5,7 @@
 			- Group size must be between 0 and n (num of variables)
 		- Extract function by ORing expressions that represent each implicant
 		- Largest implicants results in lowest cost
-			- Not always certain to provide minimal cost
-			- 85%
-			- 
+			- Not always certain to provide minimum cost
+			- 85% of the time it will
+		- 
 

@@ -12,4 +12,11 @@
 	- 
 		- XOR would have cost 1, unless we are not allowed to use it
 		- K-Map does not give minimal cost if it would use more complex gates
-- 
+- Minimization continued
+	- f=x'yz+xyz'+y'z'+x'z+z
+
+| z    xy | 00  | 01  | 11  | 10  |
+| ------- | --- | --- | --- | --- |
+| 0       | 1   | 1   | 1   | 1   |
+| 1       | 1   | 1   | 1   | 0   |
+Minimal form is f=x'+y+z'

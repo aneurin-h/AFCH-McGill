@@ -801,12 +801,12 @@
   ],
   "showSplashscreen": true,
   "pdfSettings": {
-    "pageSize": "A4",
+    "pageSize": "Letter",
     "pageOrientation": "portrait",
-    "fitToPage": 1,
+    "fitToPage": 12,
     "paperColor": "white",
     "customPaperColor": "#ffffff",
-    "alignment": "center",
-    "margin": "normal"
+    "alignment": "top-center",
+    "margin": "none"
   }
 }

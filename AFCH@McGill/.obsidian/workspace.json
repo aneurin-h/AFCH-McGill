@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "MATH133 Lecture 0922 - 8"
             }
+          },
+          {
+            "id": "16c09cec2aaa6d49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +184,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c01e2ae9ac3f6794",
+  "active": "16c09cec2aaa6d49",
   "lastOpenFiles": [
-    "Assets/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md",
     "Fall2025/MATH133/MATH133 Lecture 0922 - 8.md",
+    "Assets/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md",
+    "MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidra.md",
     "Fall2025/ECSE 250/ECSE 250 Lecture 6.md",
     "Excalidraw/Template.excalidraw.md",
     "Assets/Pasted image 20250922161633.png",

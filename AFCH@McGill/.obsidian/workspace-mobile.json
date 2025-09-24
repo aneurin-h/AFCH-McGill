@@ -11,10 +11,14 @@
             "id": "78edc892f0e1d55b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH133/MATH 133 Lecture 0922 9.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MATH 133 Lecture 0922 9"
             }
           }
         ]
@@ -164,9 +168,9 @@
   },
   "active": "78edc892f0e1d55b",
   "lastOpenFiles": [
+    "Fall2025/MATH133/MATH 133 Lecture 0922 9.md",
     "Fall2025/MATH338/MATH 338 Lecture 12.md",
     "Assets/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
-    "Untitled.md",
     "Assets/MATH 338 Lecture 12 2025-09-24 08.35.35.excalidraw.md",
     "Fall2025/ECSE222/ECSE 222 PP1-work.md",
     "Fall2025/ECSE222/PP1_-_F25 work.pdf",

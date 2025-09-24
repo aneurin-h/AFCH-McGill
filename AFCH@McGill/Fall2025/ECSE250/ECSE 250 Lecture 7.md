@@ -7,6 +7,6 @@
 **Abstract classes** contain abstract methods (and fields and other methods)
 	Also uses `abstract` keyword
 	Cannot be instantiated
-	
+	Subclasses must implement all abstract methods or be `abstract` themselves
 
 ## ArrayList

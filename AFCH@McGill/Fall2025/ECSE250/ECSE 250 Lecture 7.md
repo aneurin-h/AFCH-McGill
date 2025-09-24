@@ -23,4 +23,7 @@ Typical Functionalities
 	isEmpty()
 	size()```
 ![[Pasted image 20250924163159.png]]
-
+Initial Capacity: size of underlying array when object created
+Simple Function implementations:
+	```j
+	```

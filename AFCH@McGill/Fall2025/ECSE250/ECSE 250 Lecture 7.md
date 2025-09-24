@@ -78,10 +78,18 @@ public class DogList{}
 		size++;
 	}
 	
-	public void shiftDown(int i){
+	private void shiftDown(int i){
 		for(int j = size; j > i; j--){
 			arr[j] = arr[j-1];
 		}
+	}
+	
+	public Dog remove(int i){
+		for(int j = i; j < size-1; j++){
+			arr[j] = arr[j+1];
+		}
+		
+		size--;
 	}
 }
 ```

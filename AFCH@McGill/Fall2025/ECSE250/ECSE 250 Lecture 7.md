@@ -43,10 +43,10 @@ public class DogList{}
 		}
 	}
 	
-	public Dog set(int i, Dog e){
+	public Dog set(int i, Dog d){
 		if(i >= 0 && i < size){
 		Dog temp = arr[i];
-		arr[i] = e;
+		arr[i] = d;
 		return temp
 		}
 	}
@@ -67,6 +67,21 @@ public class DogList{}
 		this.arr = this.bigger;
 	}
 	
+	public void add(int i, Dog d){
+		if(arr.length == size){
+			resize();
+		}
+		
+		shiftDown(i);
+		
+		arr[i] = d;
+		size++;
+	}
 	
+	public void shiftDown(int i){
+		for(int j = size; j > i; j--){
+			arr[j] = arr[j-1];
+		}
+	}
 }
 ```

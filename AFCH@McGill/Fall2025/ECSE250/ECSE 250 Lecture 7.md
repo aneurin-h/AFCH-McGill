@@ -2,6 +2,8 @@
 
 # OOP Part 3:
 ## Abstract
-
+**Abstract methods** are not defined in superclass
+	Uses `abstract` keyword, and not implementation block
+**Abstract classes** contain abstract methods (and fields and other methods)
 
 ## ArrayList

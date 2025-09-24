@@ -25,5 +25,48 @@ Typical Functionalities
 ![[Pasted image 20250924163159.png]]
 Initial Capacity: size of underlying array when object created
 Simple Function implementations:
-	```j
-	```
+```java
+public class DogList{}
+	private Dog[] arr;
+	private int size;
+	
+	public DogList(){
+		arr = new Dog[10] //Some initial guess for size
+		size = 0;
+	}
+	
+	public Dog get(int i){
+		if(i >= 0 && i < size){
+			return arr[i];
+		} else {
+			//Throw an exception
+		}
+	}
+	
+	public Dog set(int i, Dog e){
+		if(i >= 0 && i < size){
+		Dog temp = arr[i];
+		arr[i] = e;
+		return temp
+		}
+	}
+	
+	public void add(Dog d){
+		if(arr.length == size){
+			resize();
+		}
+		arr[size] = d;
+		size = size + 1;
+	}
+
+	private void resize(){
+		Dog[] bigger = new Dog[2*arr.length];
+		for(int i = 0; i < arr.length; i++){
+			bigger[i] = arr[i];
+		}
+		this.arr = this.bigger;
+	}
+	
+	
+}
+```

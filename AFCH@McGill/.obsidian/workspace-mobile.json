@@ -11,12 +11,14 @@
             "id": "b44aed6cbdce7424",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 PP1-work.md"
+                "file": "Fall2025/MATH338/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ECSE 222 PP1-work"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -167,6 +169,7 @@
   "active": "b44aed6cbdce7424",
   "lastOpenFiles": [
     "Fall2025/ECSE222/ECSE 222 PP1-work.md",
+    "Fall2025/MATH338/Untitled.md",
     "Fall2025/ECSE222/PP1_-_F25 work.pdf",
     "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",

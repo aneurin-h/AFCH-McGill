@@ -90,6 +90,8 @@ public class DogList{}
 		}
 		
 		size--;
+		
+		return arr[size];
 	}
 }
 ```

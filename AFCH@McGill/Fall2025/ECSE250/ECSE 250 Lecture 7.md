@@ -22,4 +22,5 @@ Typical Functionalities
 	clear()
 	isEmpty()
 	size()```
+![[Pasted image 20250924163159.png]]
 

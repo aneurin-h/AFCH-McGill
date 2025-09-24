@@ -10,4 +10,16 @@
 		Constructors will be called when subclass is instantiated
 	Subclasses must implement all abstract methods or be `abstract` themselves
 ## ArrayList
-	
+Datastructures
+	Ways of handling a list of elements
+Typical Functionalities
+	```get(i)
+	set(i,e)
+	add(e)
+	add(i,e)
+	remove(i)
+	remove(e)
+	clear()
+	isEmpty()
+	size()```
+

@@ -25,12 +25,14 @@
             "id": "8ab0f6f81dc0ec11",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Assets/MATH 133 Lecture 0922 - 9 2025-09-24.excalidraw.md"
+                "file": "Fall2025/ECSE250/ECSE 250 Lecture 7.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 133 Lecture 0922 - 9 2025-09-24.excalidraw"
+              "icon": "lucide-file",
+              "title": "ECSE 250 Lecture 7"
             }
           }
         ],
@@ -181,8 +183,8 @@
   },
   "active": "8ab0f6f81dc0ec11",
   "lastOpenFiles": [
-    "Fall2025/MATH133/MATH 133 Lecture 0922 - 9.md",
     "Assets/MATH 133 Lecture 0922 - 9 2025-09-24.excalidraw.md",
+    "Fall2025/MATH133/MATH 133 Lecture 0922 - 9.md",
     "Fall2025/MATH338/MATH 338 Lecture 12.md",
     "Assets/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
     "Assets/MATH 338 Lecture 12 2025-09-24 08.35.35.excalidraw.md",

@@ -31,5 +31,5 @@ Notation in a Karnaugh Map:
 ![[Pasted image 20250925091707.png]]
 
 Can choose which to consider as 0s and which to consider as 1s
-- Can pick combinations of 0s and 1s to provide optimum/simplest output
-- 
+- Can pick combinations of 0s and 1s to provide optimum/simplest logic function
+

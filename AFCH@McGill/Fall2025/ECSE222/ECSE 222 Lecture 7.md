@@ -22,4 +22,9 @@ DeMorgan (TODO)
 - Can take the complement, $\bar{f}$ by switching 0s and 1s, finding SoP of this will find PoS of the the normal $f$
 	- Complementing $f$ switches PoS and SoP
 
-## 
+## Incompletely Specified Functions
+If certain input combinations of a function cannot occur or do not matter, the function is called incompletely specified/
+- The input combinations that cannot occur or do not matter are called don't care
+Notation in a truth table:
+![[Pasted image 20250925091447.png]]
+ 

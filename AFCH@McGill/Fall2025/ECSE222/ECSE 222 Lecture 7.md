@@ -76,3 +76,5 @@ $f=\bar{x_1}\bar{x_2}\bar{x_3}\bar{x_4}+\bar{x_2} x_3 x_4+x_2 x_3\bar{x_4}+x_1x_
 
 ## Multiple Output Functions
 ![[Pasted image 20250925094842.png]]
+Merging two circuits to save complexity
+- Fewer gates, etc

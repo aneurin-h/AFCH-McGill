@@ -75,3 +75,4 @@ Karnaugh Map
 $f=\bar{x_1}\bar{x_2}\bar{x_3}\bar{x_4}+\bar{x_2} x_3 x_4+x_2 x_3\bar{x_4}+x_1x_4$
 
 ## Multiple Output Functions
+![[Pasted image 20250925094842.png]]

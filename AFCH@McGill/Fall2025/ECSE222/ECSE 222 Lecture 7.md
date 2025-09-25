@@ -30,3 +30,5 @@ Notation in a truth table:
 Notation in a Karnaugh Map:
 ![[Pasted image 20250925091707.png]]
 
+Can choose which to consider as 0s and which to consider as 1s
+

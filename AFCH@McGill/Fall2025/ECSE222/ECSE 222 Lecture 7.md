@@ -1,3 +1,4 @@
+# Lecture 6 (cont)
 ## POS & SOP Forms
 Resulting expression from POS & SOP can be different
 - Count number of ones and zeros in K-Map, reason about groupings of either to determine which to use
@@ -33,3 +34,9 @@ Notation in a Karnaugh Map:
 Can choose which to consider as 0s and which to consider as 1s
 - Can pick combinations of 0s and 1s to provide optimum/simplest logic function
 
+# Lecture 7
+## Minimization Design
+BCD
+- Binary coded digit (0-9)
+	- 4 bits (Not consider a BCD after 9/1001)
+	- 001100110011 -> 333, because 3->0011, so 333 -> 0011 0011 0011

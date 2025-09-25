@@ -18,7 +18,8 @@ K-Maps give minimal form, not minimum form
 Cost Comparison
 - Costs can differ
 - ![[Pasted image 20250925090124.png]]
-DeMorgan
+DeMorgan (TODO)
 - Can take the complement, $\bar{f}$ by switching 0s and 1s, finding SoP of this will find PoS of the the normal $f$
 	- Complementing $f$ switches PoS and SoP
-- 
+
+## 

@@ -11,10 +11,12 @@
             "id": "2678dea34d239eff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/MATH 133 Lecture 0924 - 9 2025-09-24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 133 Lecture 0924 - 9 2025-09-24.excalidraw"
             }
           }
         ]

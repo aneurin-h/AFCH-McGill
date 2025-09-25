@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6da7bcb9c1c42102",
+        "id": "826f2397462c3e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "1bc6627cc8c105a3",
+            "id": "a17c14ec56da13e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 Lecture 7.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ECSE 222 Lecture 7"
+              "title": "New tab"
             }
           }
         ]
@@ -171,13 +167,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1bc6627cc8c105a3",
+  "active": "a17c14ec56da13e0",
   "lastOpenFiles": [
+    "Fall2025/MATH314/Webwork 1.md",
+    "Fall2025/ECSE222/ECSE 222 Lecture 7.md",
+    "Fall2025/MATH314",
     "Assets/Pasted image 20250925094842.png",
     "Assets/Pasted image 20250925091707.png",
     "Assets/Pasted image 20250925091447.png",
     "Assets/Pasted image 20250925090124.png",
-    "Fall2025/ECSE222/ECSE 222 Lecture 7.md",
     "Excalidraw/MATH 133 Lecture 0924 - 9 2025-09-24.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",
     "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
@@ -197,7 +195,6 @@
     "Assets/Pasted image 20250923094425.png",
     "Assets/Pasted image 20250923094418.png",
     "Assets/Pasted image 20250923094346.png",
-    "Assets/Pasted image 20250923093329.png",
     "Fall2025/ECSE222/ECSE222 PP1.md",
     "Excalidraw/Drawing 2025-09-22 23.25.04.excalidraw.md",
     "Fall2025/ECSE222/ECSE222 PP1.pdf",
@@ -217,7 +214,6 @@
     "Fall2025/FACC100/FACC 100 Lecture 4.md",
     "Untitled.md",
     "Fall2025/MATH133",
-    "Fall2025/MATH338/MATH 338 Lecture 11.md",
-    "Fall2025/FACC100"
+    "Fall2025/MATH338/MATH 338 Lecture 11.md"
   ]
 }

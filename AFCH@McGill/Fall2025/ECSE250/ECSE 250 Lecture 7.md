@@ -93,5 +93,4 @@ public class DogList{}
 		
 		return arr[size];
 	}
-}
-```
+}```

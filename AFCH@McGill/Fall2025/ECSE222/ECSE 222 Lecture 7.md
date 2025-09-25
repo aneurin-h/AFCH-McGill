@@ -15,3 +15,5 @@ Output of either can be minimized further in some cases
 *In exam setting, anything below minimal cost is accepted*
 K-Maps give minimal form, not minimum form
 
+Cost Comparison
+- Costs can differ

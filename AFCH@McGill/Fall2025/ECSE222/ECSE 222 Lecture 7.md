@@ -17,3 +17,4 @@ K-Maps give minimal form, not minimum form
 
 Cost Comparison
 - Costs can differ
+- ![[Pasted image 20250925090124.png]]

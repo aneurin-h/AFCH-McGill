@@ -19,3 +19,4 @@ Cost Comparison
 - Costs can differ
 - ![[Pasted image 20250925090124.png]]
 DeMorgan
+- Can complment $f$ by switching 0s and 1s, finding SoP of this will find PoS of the the normal f $\bar{f}$

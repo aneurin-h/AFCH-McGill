@@ -8,3 +8,11 @@ Kant's Formalism
 Locke's rights
 Laws (?)
 
+## Duties
+Society
+Employers
+Clients
+Colleagues
+Employees
+Engineering Profession
+Oneself

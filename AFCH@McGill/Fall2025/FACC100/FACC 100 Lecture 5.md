@@ -1,0 +1,2 @@
+- Assigment 3 Check-in due 10/3 (TODO)
+- 

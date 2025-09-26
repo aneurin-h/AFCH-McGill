@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "826f2397462c3e1a",
+        "id": "9431abfe684bde55",
         "type": "tabs",
         "children": [
           {
-            "id": "a17c14ec56da13e0",
+            "id": "a5098a3cf8c225c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 Tutorial 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ECSE 222 Tutorial 3"
+              "title": "New tab"
             }
           }
         ]
@@ -171,10 +167,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a17c14ec56da13e0",
+  "active": "a5098a3cf8c225c1",
   "lastOpenFiles": [
-    "Fall2025/MATH314/Webwork 1.md",
     "Fall2025/ECSE222/ECSE 222 Tutorial 3.md",
+    "Fall2025/MATH314/Webwork 1.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 7.md",
     "Fall2025/MATH314",
     "Assets/Pasted image 20250925094842.png",

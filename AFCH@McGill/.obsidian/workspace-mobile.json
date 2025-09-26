@@ -11,13 +11,30 @@
             "id": "2e744046de78c148",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH338/MATH 338 Lecture 13.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MATH 338 Lecture 13"
+            }
+          },
+          {
+            "id": "dfe5288f1953236e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 338 Lecture 13 2025-09-26.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +179,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2e744046de78c148",
+  "active": "dfe5288f1953236e",
   "lastOpenFiles": [
+    "Fall2025/MATH338/MATH 338 Lecture 13.md",
+    "Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
     "Fall2025/MATH314/Webwork 1.md",
     "Assets/Webwork 1 2025-09-25.excalidraw.md",
     "Fall2025/MATH314",
@@ -202,8 +221,6 @@
     "Excalidraw/MATH 133 Tutorial 4 2025-09-22 11.32.38.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 11.md",
     "Excalidraw/Lecture 2025-09-19 08.33.47.excalidraw.md",
-    "Excalidraw/MATH 338 Lecture 11 2025-09-22 08.30.35.excalidraw.md",
-    "MATH 338 Lecture 11.md",
     "Fall2025/MATH133",
     "Fall2025/MATH338",
     "Fall2025",

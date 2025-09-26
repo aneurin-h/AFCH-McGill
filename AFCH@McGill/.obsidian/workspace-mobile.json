@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9b44f12b9a83e98a",
+        "id": "786ed02bcab462b2",
         "type": "tabs",
         "children": [
           {
-            "id": "78edc892f0e1d55b",
+            "id": "2e744046de78c148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH314/Webwork 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Webwork 1"
-            }
-          },
-          {
-            "id": "fbca17f01e497bc9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Assets/Webwork 1 2025-09-25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Webwork 1 2025-09-25.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +162,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbca17f01e497bc9",
+  "active": "2e744046de78c148",
   "lastOpenFiles": [
     "Fall2025/MATH314/Webwork 1.md",
     "Assets/Webwork 1 2025-09-25.excalidraw.md",

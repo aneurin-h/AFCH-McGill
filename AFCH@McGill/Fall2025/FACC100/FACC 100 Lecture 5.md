@@ -39,3 +39,7 @@ Tests
 	- w/o this it is hard to be confident in companies ability to prevent in future
 		- Issue will become known eventually
 		- Company still held responsible for issue in production
+		- 
+This ethical dilemma is an interesting one, as all (or at least all reasonable) solutions involve a similar approach, just to varying extents. As our company has definitely provided Company A with batteries that will not meet the agreed specifications, the ethical dilemma becomes at what level to accept the responsibility, and what is the correct way to respond to the mistake. Here the option of trying to hide the issue, as was so important to the ethics of LeMessurier, is not viable, because of the fact that it is inherent to shipped products.
+
+I will consider several courses of action, notably: blaming the Engineer In Training, blaming the engineer, and blaming no single employee publicly. When examined using 

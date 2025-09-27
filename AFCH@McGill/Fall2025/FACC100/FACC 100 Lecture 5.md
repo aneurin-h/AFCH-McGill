@@ -30,4 +30,12 @@ Don't publicize the EIT issue
 Tests
 - Transparency
 	- Publicly acknowledging that there is an issue, and what is being done to address it is likely enough
-	- Sufficient to not acknowledge 
+	- Sufficient to not acknowledge that ChatGPT was used
+	- Company A will likely be satisfied to know what was affected, and how it is being resolved
+- Exemplary
+	- Making internal changes sets good examples
+- Reciprocity
+	- Would want confirmation that a company has made an issue, and would doubly want evidence of them addressing it
+	- w/o this it is hard to be confident in companies ability to prevent in future
+		- Issue will become known eventually
+		- Company still held responsible for issue in production

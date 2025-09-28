@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Scratchpad"
             }
+          },
+          {
+            "id": "e1bc37165488409b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Scratchpad 2025-09-27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Scratchpad 2025-09-27.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +179,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2e744046de78c148",
+  "active": "e1bc37165488409b",
   "lastOpenFiles": [
-    "Fall2025/FACC100/FACC 100 Lecture 5.md",
     "Fall2025/MATH133/Scratchpad.md",
+    "Excalidraw/Scratchpad 2025-09-27.excalidraw.md",
+    "Fall2025/FACC100/FACC 100 Lecture 5.md",
     "Assets/Webwork 1 2025-09-25.excalidraw.md",
     "Fall2025/MATH314/Webwork 1.md",
     "Fall2025/MATH338/MATH 338 Lecture 13.md",
@@ -208,7 +222,6 @@
     "Excalidraw/Drawing 2025-09-22 20.50.34.excalidraw.md",
     "Fall2025/ECSE222/PP1_-_F251.pdf",
     "Fall2025/ECSE222",
-    "Assets/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md",
     "Fall2025/MATH133",
     "Fall2025/MATH338",
     "Fall2025",

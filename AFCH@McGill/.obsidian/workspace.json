@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9431abfe684bde55",
+        "id": "2b9eafc367274df7",
         "type": "tabs",
         "children": [
           {
-            "id": "a5098a3cf8c225c1",
+            "id": "11180a0fadfb85c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,7 +171,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a5098a3cf8c225c1",
+  "active": "4b50ab165f386577",
   "lastOpenFiles": [
     "Fall2025/FACC100/FACC 100 Lecture 5.md",
     "Assets/Webwork 1 2025-09-25.excalidraw.md",
@@ -184,9 +184,9 @@
     "Assets/Pasted image 20250925091447.png",
     "Assets/Pasted image 20250925090124.png",
     "Excalidraw/MATH 133 Lecture 0924 - 9 2025-09-24.excalidraw.md",
-    "Fall2025/ECSE250/MATH133/MATH 133 Lecture 0924 - 9.md",
-    "Fall2025/ECSE250/MATH133/MATH 133 Lecture 0922 - 8.md",
-    "Fall2025/ECSE250/MATH133/MATH 133 Tutorial 4.md",
+    "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",
+    "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
+    "Fall2025/MATH133/MATH 133 Tutorial 4.md",
     "Excalidraw/MATH 133 Tutorial 4 2025-09-22 11.32.38.excalidraw.md",
     "Fall2025/ECSE250/ECSE 250 Lecture 7.md",
     "Assets/Pasted image 20250924163633.png",
@@ -218,6 +218,6 @@
     "Excalidraw/Template.excalidraw.md",
     "Assets",
     "Fall2025/ECSE 250",
-    "Fall2025/ECSE250/MATH133"
+    "Fall2025/MATH133"
   ]
 }

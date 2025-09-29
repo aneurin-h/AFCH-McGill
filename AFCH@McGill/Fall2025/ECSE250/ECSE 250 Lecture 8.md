@@ -6,3 +6,4 @@ Dog snoopy2 = new Beagle();
 Animal snoopy3 = new Beagle();
 ```
 Can label with the type of the class or any superclass
+Label type does not affect what type an object is, that depends on the class used to instantiate

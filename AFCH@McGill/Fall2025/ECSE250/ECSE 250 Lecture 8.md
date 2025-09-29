@@ -14,9 +14,11 @@ Compile checks label, interpreter (JVM) checks object type
 ![[Pasted image 20250929163430.png]]
 
 ### instanceOf keyword
-returns true or false, depending on whether object is instance of specificed type
+returns true or false, depending on whether object is instance of specified type
 ```java
 Dog myDog = new Dog();
 myDog instanceOf Dog // True
 myDog instanceOf Beagle // False
 ```
+Use to make sure that downcasting will not cause runtime error
+

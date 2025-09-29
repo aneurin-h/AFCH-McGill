@@ -40,3 +40,6 @@ obj1.equals(obj2)
 ```
 `true` if they are equal, `false` otherwise
 String override: same sequence of characters
+![[Pasted image 20250929170348.png]]
+Common implementation
+

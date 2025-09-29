@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "786ed02bcab462b2",
+        "id": "e4293718521b9434",
         "type": "tabs",
         "children": [
           {
-            "id": "ccbb0b0b2de635d2",
+            "id": "5287dcfbaa9cf9eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH338/MATH 338 Lecture 14.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MATH 338 Lecture 14"
-            }
-          },
-          {
-            "id": "45bc66cd21cfce6d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 14 2025-09-29.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,15 +162,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "45bc66cd21cfce6d",
+  "active": "5287dcfbaa9cf9eb",
   "lastOpenFiles": [
     "Fall2025/MATH338/MATH 338 Lecture 14.md",
+    "Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 13.md",
     "Fall2025/MATH338/MATH 338 Lecture 12.md",
     "Fall2025/MATH338/MATH 338 Lecture 11.md",
     "Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
-    "Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
     "Excalidraw/Scratchpad 2025-09-27.excalidraw.md",
     "Fall2025/MATH133/Scratchpad.md",
     "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",

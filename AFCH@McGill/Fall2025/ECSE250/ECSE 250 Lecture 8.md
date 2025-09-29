@@ -31,6 +31,12 @@ Has methods:
 - hashCode
 - equals
 Overriding toString allows displaying the content of an Object with private fields
-
 ### Hash code
 32 bit integer represented in hexadecimal
+
+### equals()
+```java
+obj1.equals(obj2)
+```
+`true` if they are equal, `false` otherwise
+String override: same sequence of characters

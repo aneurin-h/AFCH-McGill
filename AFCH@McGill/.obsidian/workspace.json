@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83c99dd15ec2f845",
+        "id": "132593933ce1f248",
         "type": "tabs",
         "children": [
           {
-            "id": "5a6f8c15f69bc4ac",
+            "id": "7907ca5a144c71eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MATH 133 Lecture 0922 - 8"
+              "title": "New tab"
             }
           }
         ]
@@ -171,10 +167,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5a6f8c15f69bc4ac",
+  "active": "7907ca5a144c71eb",
   "lastOpenFiles": [
-    "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",
     "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
+    "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",
     "Excalidraw/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md",
     "Fall2025/FACC100/FACC 100 Lecture 5.md",
     "Fall2025/MATH133/Scratchpad.md",

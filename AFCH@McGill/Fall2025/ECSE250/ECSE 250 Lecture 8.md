@@ -22,3 +22,11 @@ myDog instanceOf Beagle // False
 ```
 Use to make sure that downcasting will not cause runtime error
 
+## Object
+Only class in Java that doesn't have a superclass
+Default superclass
+Has a constructor that does nothing
+Has methods:
+- toString
+- hashCode
+- equals

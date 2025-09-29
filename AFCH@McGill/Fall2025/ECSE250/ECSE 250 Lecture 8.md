@@ -30,3 +30,7 @@ Has methods:
 - toString
 - hashCode
 - equals
+Overriding toString allows displaying the content of an Object with private fields
+
+### Hash code
+32 bit integer represented in hexadecimal

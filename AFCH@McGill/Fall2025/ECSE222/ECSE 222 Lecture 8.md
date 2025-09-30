@@ -16,3 +16,4 @@ Can pick selection of prime and non prime implicants to find optimal multi-outpu
 There are likely multiple combinations to check
 	Have to check all, and compare costs
 
+##

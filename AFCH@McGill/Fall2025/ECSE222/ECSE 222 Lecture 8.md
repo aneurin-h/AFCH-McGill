@@ -34,4 +34,9 @@ Typically efficient for functions with few variables
 Need to use multiple levels to deal with Fan-In problems
 ![[Pasted image 20250930093936.png|494x189]]
 
-Levels introduce timing issues
+Levels introduce timing issues (TODO)
+## Methodology to Solve Fan-In
+Use factoring and functional decomposition
+- Factoring is based on distributive property
+# Lecture 8 Slides
+## 

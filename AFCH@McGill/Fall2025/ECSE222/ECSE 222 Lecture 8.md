@@ -1,5 +1,5 @@
 # Lecture 7 Slides
-## Multiple Output Circuits
+## Multiple Output Circuits & Joint Implementation
 Combining multiple functions in order to save cost
 Share gates between the functions
 

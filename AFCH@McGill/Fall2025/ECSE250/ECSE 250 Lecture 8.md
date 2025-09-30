@@ -27,13 +27,15 @@ Only class in Java that doesn't have a superclass
 Default superclass
 Has a constructor that does nothing
 Has methods:
-- toString
-- hashCode
-- equals
+- toString()
+- hashCode()
+- equals()
 Overriding toString allows displaying the content of an Object with private fields
 ### Hash code
 32 bit integer represented in hexadecimal
-
+Converts internal address to an integer
+	When invoked on the same object more than once during an execution of a Java program it must return the same value
+If a.equals(b) = true, than a.hashCode() == b.hashCode()
 ### equals()
 ```java
 obj1.equals(obj2)

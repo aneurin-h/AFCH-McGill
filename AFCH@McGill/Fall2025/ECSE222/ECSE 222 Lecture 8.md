@@ -16,5 +16,9 @@ Can pick selection of prime and non prime implicants to find optimal multi-outpu
 There are likely multiple combinations to check
 	Have to check all, and compare costs
 Joint implementation can be worse than individual implementations
-
-## 
+## Fan-In & Fan-Out
+Fan-In
+	Number of inputs to the gate
+Fan-Out
+	Number of gates connected to its output (number of gates it can drive)
+	

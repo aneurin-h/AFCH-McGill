@@ -12,3 +12,7 @@ Steps to design:
 Won't *always* reduce cost
 Don't have to always stick solely to prime implicants
 
+Can pick selection of prime and non prime implicants to find optimal multi-output solution
+There are likely multiple combinations to check
+
+

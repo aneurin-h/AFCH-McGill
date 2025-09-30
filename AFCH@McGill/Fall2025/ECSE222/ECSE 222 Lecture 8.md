@@ -20,5 +20,6 @@ Joint implementation can be worse than individual implementations
 Fan-In
 	Number of inputs to the gate
 Fan-Out
-	Number of gates connected to its output (number of gates it can drive)
-	
+	Number of gates connected to its output (number of gates it drives)
+
+

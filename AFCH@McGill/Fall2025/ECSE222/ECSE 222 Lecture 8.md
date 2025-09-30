@@ -39,4 +39,11 @@ Levels introduce timing issues (TODO)
 Use factoring and functional decomposition
 - Factoring is based on distributive property
 # Lecture 8 Slides
-## 
+## Factoring
+![[image.png|450x200]]![[image-1.png|444x215]]
+Can be used to reduce Fan-In, at the cost of additional cost/levels
+## Relevant Boolean Algebra Properties
+![[image-2.png|521x140]]
+
+Midterm on Thurs 10/9, material up to next Thursday
+During lecture, in classroom

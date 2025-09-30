@@ -7,5 +7,7 @@ Steps to design:
 - Create individual K-Maps
 	- Group into prime implicants
 - Identify shared implicants
+- Add non-shared implicants
 - Draw combined circuit diagram reusing the overlapped implicants
-- 
+Won't *always* reduce cost
+

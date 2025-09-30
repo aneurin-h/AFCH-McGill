@@ -32,4 +32,6 @@ POS & SOP are two-level circuits
 Typically efficient for functions with few variables
 
 Need to use multiple levels to deal with Fan-In problems
-![[Pasted image 20250930093936.png|471x180]]
+![[Pasted image 20250930093936.png|494x189]]
+
+Levels introduce timing issues

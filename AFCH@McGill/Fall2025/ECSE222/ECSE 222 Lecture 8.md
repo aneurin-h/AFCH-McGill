@@ -23,5 +23,13 @@ Fan-Out
 	Number of gates connected to its output (number of gates it drives)
 	Output counts as a gate
 
+ Often imposed as requirements due to the technology used (heat, power, space, etc)
 
+## Two Level Synthesis
+POS & SOP are two-level circuits
+1st level is the AND (or OR) of the inputs, the 2nd level is the OR (or AND) of those outputs
 
+Typically efficient for functions with few variables
+
+Need to use multiple levels to deal with Fan-In problems
+![[Pasted image 20250930093936.png|471x180]]

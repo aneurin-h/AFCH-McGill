@@ -11,12 +11,14 @@
             "id": "a4a6e4886626e555",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH 133 Lecture 0929 - 10 2025-09-29.excalidraw.md"
+                "file": "Fall2025/MATH314/MATH 314 Lecture n.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 133 Lecture 0929 - 10 2025-09-29.excalidraw"
+              "icon": "lucide-file",
+              "title": "MATH 314 Lecture n"
             }
           }
         ]
@@ -166,8 +168,9 @@
   },
   "active": "a4a6e4886626e555",
   "lastOpenFiles": [
-    "Fall2025/MATH133/MATH 133 Lecture 0929 - 10.md",
     "Excalidraw/MATH 133 Lecture 0929 - 10 2025-09-29.excalidraw.md",
+    "Fall2025/MATH314/MATH 314 Lecture n.md",
+    "Fall2025/MATH133/MATH 133 Lecture 0929 - 10.md",
     "Untitled.md",
     "Fall2025/MATH133/MATH 133 Tutorial 5.md",
     "Excalidraw/MATH 133 Tutorial 5 2025-09-29.excalidraw.md",
@@ -197,7 +200,6 @@
     "Assets/Pasted image 20250925091707.png",
     "Assets/Pasted image 20250925091447.png",
     "Assets/Pasted image 20250925090124.png",
-    "Assets/MATH 133 Lecture 0922 - 9 2025-09-24.excalidraw.md",
     "Fall2025/ECSE222/PP1_-_F25 work.pdf",
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
     "Assets/Pasted image 20250923094425.png",

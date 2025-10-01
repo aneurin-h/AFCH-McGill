@@ -22,3 +22,12 @@ public void setName(<type> name){
 	this.name = name;
 }
 ```
+
+
+## Final keyword
+Value cannot be changed
+`final` instance variables (Fields) must be initialized in every constructor
+`final` class variables (static) must be initialized in place
+
+`final` classes cannot be extended
+`final` methods cannot be overriden

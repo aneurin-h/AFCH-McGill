@@ -4,6 +4,10 @@ Allows control over use/modification of data
 	Can validate data before setting
 Passing of a reference type field can result in it pointing to the original value, and thus being able to be mutated from outside the class
 
+## Deep Copying
+Uses `new` keyword
+Then fills all indices (array) with their respective data
+
 ### Getter and Setters
 Public methods to access or change data
 Most Getters look like this:

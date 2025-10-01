@@ -7,6 +7,7 @@ Passing of a reference type field can result in it pointing to the original valu
 ## Deep Copying
 Uses `new` keyword
 Then fills all indices (array) with their respective data
+	Or equivalent for Objects
 
 ### Getter and Setters
 Public methods to access or change data

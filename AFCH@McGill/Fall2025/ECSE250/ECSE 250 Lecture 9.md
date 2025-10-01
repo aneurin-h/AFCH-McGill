@@ -1,5 +1,8 @@
 ## Encapsulation
 Make fields `private` in general
+Allows control over use/modification of data
+	Can validate data before setting
+
 ### Getter and Setters
 Public methods to access or change data
 Most Getters look like this:
@@ -13,3 +16,4 @@ public void setName(<type> name){
 	this.name = name;
 }
 ```
+

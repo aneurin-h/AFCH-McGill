@@ -19,3 +19,4 @@ Identify patterns along cols/rows of K-Maps
 Identify input variables to serve as inputs to subfunction
 Choose rows or columns that correspond to the cells with 1s
 
+![[image-3.png|474x242]]

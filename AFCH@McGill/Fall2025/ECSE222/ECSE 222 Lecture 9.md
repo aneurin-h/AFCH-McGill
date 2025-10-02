@@ -6,3 +6,6 @@ Can share functions including negating output for one subcircuit (Cost likely lo
 
 Cannot apply DeMorgan's on solely one part
 
+## Functional Decomposition
+![[Pasted image 20251002090658.png|487x260]]
+

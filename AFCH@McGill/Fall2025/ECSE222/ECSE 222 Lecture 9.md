@@ -17,4 +17,5 @@ GOING TO BE ON THE EXAM FOR SURE
 
 Identify patterns along cols/rows of K-Maps
 Identify input variables to serve as inputs to subfunction
+Choose rows or columns that correspond to the cells with 1s
 

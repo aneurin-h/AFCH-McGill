@@ -20,3 +20,4 @@ Identify input variables to serve as inputs to subfunction
 Choose rows or columns that correspond to the cells with 1s
 
 ![[image-3.png|474x242]]
+Choice of $g$ and $g'$ dont matter, as they will both be present

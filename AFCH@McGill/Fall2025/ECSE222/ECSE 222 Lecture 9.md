@@ -11,3 +11,10 @@ Cannot apply DeMorgan's on solely one part
 $g$ is an xor gate here
 Can find common subcircuits, and re-use them to decrease cost
 In this example $f = gx_3 + g'x_4$ is a 2->1 MUX
+
+### Using Karnaugh Maps
+GOING TO BE ON THE EXAM FOR SURE
+
+Identify patterns along cols/rows of K-Maps
+Identify input variables to serve as inputs to subfunction
+

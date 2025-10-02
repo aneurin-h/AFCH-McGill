@@ -8,4 +8,5 @@ Cannot apply DeMorgan's on solely one part
 
 ## Functional Decomposition
 ![[Pasted image 20251002090658.png|487x260]]
+$g$ is an xor gate here
 

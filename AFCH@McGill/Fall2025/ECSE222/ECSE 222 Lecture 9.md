@@ -10,4 +10,4 @@ Cannot apply DeMorgan's on solely one part
 ![[Pasted image 20251002090658.png|487x260]]
 $g$ is an xor gate here
 Can find common subcircuits, and re-use them to decrease cost
-
+In this example $f = gx_3 + g'x_4$ is a 2->1 MUX

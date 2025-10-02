@@ -25,3 +25,4 @@ Choice of $g$ and $g'$ dont matter, as they will both be present
 Always use SoP for this
 
 Can use patterns of rows with patterns of columns
+

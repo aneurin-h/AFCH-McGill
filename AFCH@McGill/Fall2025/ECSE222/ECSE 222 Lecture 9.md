@@ -22,3 +22,5 @@ Choose rows or columns that correspond to the cells with 1s
 ![[image-3.png|474x242]]
 Choice of $g$ and $g'$ dont matter, as they will both be present
 ![[image-4.png|475x243]]
+Always use SoP for this
+

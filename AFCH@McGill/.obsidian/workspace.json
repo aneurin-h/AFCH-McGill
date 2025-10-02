@@ -11,17 +11,28 @@
             "id": "d295543e9e591baa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 Lecture 9.md",
-                "mode": "source",
-                "source": false
+                "file": "Fall2025/ECSE222/ECSE 222 PP1-work.md"
               },
-              "icon": "lucide-file",
-              "title": "ECSE 222 Lecture 9"
+              "icon": "excalidraw-icon",
+              "title": "ECSE 222 PP1-work"
+            }
+          },
+          {
+            "id": "aa8b1957da84bbcd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/ECSE222/ECSE 222 PP2-work.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ECSE 222 PP2-work"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,13 +193,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d295543e9e591baa",
+  "active": "aa8b1957da84bbcd",
   "lastOpenFiles": [
+    "Fall2025/ECSE222/ECSE 222 PP1-work.md",
+    "Fall2025/ECSE222/ECSE 222 PP2-work.md",
+    "Fall2025/ECSE222/ECSE 222 Lecture 9.md",
+    "Fall2025/ECSE222/PP2 F25.pdf",
+    "Fall2025/MATH314/Untitled.md",
+    "Fall2025/MATH314/MATH 314 Lecture 2.md",
+    "Excalidraw/MATH 314 Lecture 2 2025-10-02.excalidraw.md",
     "Assets/image-4.png",
     "Assets/image-3.png",
     "Assets/Pasted image 20251002090658.png",
     "Fall2025/ECSE250/ECSE 250 Lecture 9.md",
-    "Fall2025/ECSE222/ECSE 222 Lecture 9.md",
     "Fall2025/MATH133/MATH 133 Lecture 1001 - 11.md",
     "Excalidraw/MATH 133 Lecture 1001 - 11 2025-10-01.excalidraw.md",
     "Fall2025/ECSE250/ECSE 250 Lecture 8.md",
@@ -215,20 +232,14 @@
     "Fall2025/MATH338/MATH 338 Lecture 12.md",
     "Fall2025/MATH338/MATH 338 Lecture 13.md",
     "Fall2025/MATH338/MATH 338 Lecture 11.md",
-    "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
-    "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",
-    "Excalidraw/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md",
-    "Fall2025/FACC100/FACC 100 Lecture 5.md",
     "Fall2025/MATH133",
     "Fall2025/MATH314",
-    "Assets/Pasted image 20250925094842.png",
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
     "Fall2025/ECSE222/PP1_-_F25 work.pdf",
     "Fall2025/ECSE222/ECSE222 PP1.pdf",
     "Fall2025/ECSE222/PP1_-_F251.pdf",
     "Excalidraw/Test.excalidraw",
     "Fall2025/ECSE222",
-    "Assets",
-    "Fall2025/ECSE 250"
+    "Assets"
   ]
 }

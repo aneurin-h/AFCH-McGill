@@ -24,3 +24,4 @@ Choice of $g$ and $g'$ dont matter, as they will both be present
 ![[image-4.png|475x243]]
 Always use SoP for this
 
+Can use patterns of rows with patterns of columns

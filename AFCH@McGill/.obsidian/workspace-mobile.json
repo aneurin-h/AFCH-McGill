@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "cbc8d0907c84a015",
+        "id": "a36ce6d3b38dac79",
         "type": "tabs",
         "children": [
           {
-            "id": "3854065a34794056",
+            "id": "e54be67402ae3bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH338/MATH 338 Lecture 16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH 338 Lecture 16"
+            }
+          },
+          {
+            "id": "14b5d32a414af04e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 PP2-work.md"
+                "file": "Excalidraw/MATH 338 Lecture 16 2025-10-03.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ECSE 222 PP2-work"
+              "title": "MATH 338 Lecture 16 2025-10-03.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +179,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3854065a34794056",
+  "active": "14b5d32a414af04e",
   "lastOpenFiles": [
+    "Fall2025/MATH338/MATH 338 Lecture 16.md",
+    "Excalidraw/MATH 338 Lecture 16 2025-10-03.excalidraw.md",
+    "Fall2025/ECSE222/ECSE 222 PP2-work.md",
     "Fall2025/MATH314/MATH 314 Lecture 2.md",
     "Excalidraw/MATH 314 Lecture 2 2025-10-02.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture n.md",
@@ -192,9 +210,6 @@
     "Fall2025/MATH338/MATH 338 Lecture 11.md",
     "Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
     "Excalidraw/Scratchpad 2025-09-27.excalidraw.md",
-    "Fall2025/MATH133/Scratchpad.md",
-    "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",
-    "Fall2025/FACC100/FACC 100 Lecture 5.md",
     "Fall2025/ECSE250/MATH133",
     "Fall2025/MATH314",
     "Assets/Pasted image 20250925094842.png",

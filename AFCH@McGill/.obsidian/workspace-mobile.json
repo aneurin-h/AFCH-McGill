@@ -11,10 +11,12 @@
             "id": "3854065a34794056",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/ECSE222/ECSE 222 PP2-work.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ECSE 222 PP2-work"
             }
           }
         ]

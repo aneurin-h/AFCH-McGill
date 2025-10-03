@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d295543e9e591baa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 PP1-work.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ECSE 222 PP1-work"
-            }
-          },
-          {
             "id": "aa8b1957da84bbcd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 PP2-work.md"
+                "file": "Fall2025/FACC100/FACC 100 Lecture 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ECSE 222 PP2-work"
+              "icon": "lucide-file",
+              "title": "FACC 100 Lecture 6"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +184,10 @@
   },
   "active": "aa8b1957da84bbcd",
   "lastOpenFiles": [
+    "Fall2025/MATH338/MATH 338 Lecture 16.md",
+    "Excalidraw/MATH 338 Lecture 16 2025-10-03.excalidraw.md",
     "Fall2025/ECSE222/ECSE 222 PP2-work.md",
+    "Fall2025/FACC100/FACC 100 Lecture 6.md",
     "Fall2025/ECSE222/ECSE 222 PP1-work.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 9.md",
     "Fall2025/ECSE222/PP2 F25.pdf",
@@ -229,9 +221,6 @@
     "Excalidraw/MATH 133 Tutorial 5 2025-09-29.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 12.md",
-    "Fall2025/MATH338/MATH 338 Lecture 13.md",
-    "Fall2025/MATH338/MATH 338 Lecture 11.md",
     "Fall2025/MATH133",
     "Fall2025/MATH314",
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",

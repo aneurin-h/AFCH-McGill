@@ -11,10 +11,12 @@
             "id": "333e18350e1cab56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/ECSE222/ECSE 222 PP2-work.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ECSE 222 PP2-work"
             }
           }
         ]
@@ -178,7 +180,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b50ab165f386577",
+  "active": "333e18350e1cab56",
   "lastOpenFiles": [
     "Fall2025/ECSE222/ECSE 222 PP2-work.md",
     "Excalidraw/Drawing 2025-10-04.excalidraw.md",

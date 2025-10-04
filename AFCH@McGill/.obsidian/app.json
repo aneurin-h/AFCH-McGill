@@ -25,5 +25,11 @@
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

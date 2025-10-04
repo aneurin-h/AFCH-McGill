@@ -50,7 +50,7 @@
   "panWithRightMouseButton": false,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
-  "renderImageInMarkdownToPDF": false,
+  "renderImageInMarkdownToPDF": true,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "451dd0c5c68a8b6b",
+        "id": "6e1d3c5e1cc8da19",
         "type": "tabs",
         "children": [
           {
-            "id": "a1ea5f9d82c4d1d5",
+            "id": "fbf4760bfb176677",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH 338 Lecture 17 2025-10-06.excalidraw.md"
+                "file": "Fall2025/MATH338/MATH 338 Lecture 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 17 2025-10-06.excalidraw"
+              "icon": "lucide-file",
+              "title": "MATH 338 Lecture 10"
             }
           }
         ]
@@ -164,7 +166,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a1ea5f9d82c4d1d5",
+  "active": "fbf4760bfb176677",
   "lastOpenFiles": [
     "Excalidraw/MATH 338 Lecture 17 2025-10-06.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",

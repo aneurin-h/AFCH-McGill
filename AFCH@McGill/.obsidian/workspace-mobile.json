@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c95962fa93a56c6",
+        "id": "451dd0c5c68a8b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "44653cd8a027eafc",
+            "id": "b0906e7b670a7ebe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/MATH314/Assignment 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Assignment 2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -164,10 +162,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44653cd8a027eafc",
+  "active": "b0906e7b670a7ebe",
   "lastOpenFiles": [
-    "Fall2025/MATH314/Untitled 1.md",
     "Fall2025/MATH314/Assignment 2.md",
+    "Untitled.md",
+    "Fall2025/ECSE222/Untitled.pdf",
+    "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
+    "Fall2025/MATH314/Untitled 1.md",
     "Fall2025/ECSE222/ECSE 222 PP2-work.md",
     "Fall2025/MATH338/MATH 338 Lecture 16.md",
     "Excalidraw/MATH 338 Lecture 16 2025-10-03.excalidraw.md",
@@ -188,13 +189,11 @@
     "Excalidraw/MATH 314 Lecture n 2025-09-30.excalidraw.md",
     "Excalidraw/MATH 133 Lecture 0929 - 10 2025-09-29.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 0929 - 10.md",
-    "Untitled.md",
     "Fall2025/MATH133/MATH 133 Tutorial 5.md",
     "Excalidraw/MATH 133 Tutorial 5 2025-09-29.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 13.md",
     "Fall2025/MATH338/MATH 338 Lecture 12.md",
-    "Fall2025/MATH338/MATH 338 Lecture 11.md",
     "Fall2025/ECSE250/MATH133",
     "Fall2025/MATH314",
     "Assets/Pasted image 20250925094842.png",
@@ -210,8 +209,6 @@
     "Fall2025/ECSE222",
     "Fall2025/MATH133",
     "Fall2025/MATH338",
-    "Fall2025",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }

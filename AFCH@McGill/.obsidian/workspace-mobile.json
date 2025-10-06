@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c355eec6487aef",
+        "id": "7763009a88345c67",
         "type": "tabs",
         "children": [
           {
-            "id": "399cac6d053b3225",
+            "id": "3dba5bf0eb496e3e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/ECSE222/Problems.md"
+                "file": "Fall2025/MATH133/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problems"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -164,8 +166,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "399cac6d053b3225",
+  "active": "3dba5bf0eb496e3e",
   "lastOpenFiles": [
+    "Fall2025/MATH133/Untitled.md",
     "Fall2025/ECSE222/Problems.md",
     "Fall2025/MATH133/MATH 133 Tutorial 6.md",
     "Excalidraw/MATH 133 Tutorial 6 2025-10-06.excalidraw.md",
@@ -197,7 +200,6 @@
     "Assets/image-1.png",
     "Excalidraw/MATH 314 Lecture n 2025-09-30.excalidraw.md",
     "Excalidraw/MATH 133 Lecture 0929 - 10 2025-09-29.excalidraw.md",
-    "Fall2025/MATH133/MATH 133 Lecture 0929 - 10.md",
     "Fall2025/ECSE250/MATH133",
     "Fall2025/MATH314",
     "Assets/Pasted image 20250925094842.png",

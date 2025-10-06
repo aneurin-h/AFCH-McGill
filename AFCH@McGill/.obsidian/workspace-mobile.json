@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2025/MATH133/MATH 133 Tutorial.md",
+                "file": "Fall2025/MATH133/MATH 133 Tutorial 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH 133 Tutorial"
+              "title": "MATH 133 Tutorial 6"
+            }
+          },
+          {
+            "id": "7540c8de2bd9fecf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MATH 133 Tutorial 6 2025-10-06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 133 Tutorial 6 2025-10-06.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +179,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbf4760bfb176677",
+  "active": "7540c8de2bd9fecf",
   "lastOpenFiles": [
+    "Fall2025/MATH133/MATH 133 Tutorial 6.md",
+    "Excalidraw/MATH 133 Tutorial 6 2025-10-06.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 10.md",
-    "Fall2025/MATH133/MATH 133 Tutorial.md",
     "Fall2025/MATH133/Untitled",
     "Excalidraw/MATH 338 Lecture 17 2025-10-06.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
@@ -199,7 +213,6 @@
     "Excalidraw/MATH 133 Lecture 0929 - 10 2025-09-29.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 0929 - 10.md",
     "Fall2025/MATH133/MATH 133 Tutorial 5.md",
-    "Excalidraw/MATH 133 Tutorial 5 2025-09-29.excalidraw.md",
     "Fall2025/ECSE250/MATH133",
     "Fall2025/MATH314",
     "Assets/Pasted image 20250925094842.png",

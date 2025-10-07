@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2025/ECSE250/ECSE 250 Lecture 9.md",
+                "file": "Fall2025/ECSE222/ECSE 222 Lecture 10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ECSE 250 Lecture 9"
+              "title": "Outline of ECSE 222 Lecture 10"
             }
           },
           {
@@ -182,7 +182,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b50ab165f386577",
+  "active": "00072b047798817e",
   "lastOpenFiles": [
     "Fall2025/ECSE222/ECSE 222 PP1-work.md",
     "Fall2025/ECSE222/Untitled.pdf",

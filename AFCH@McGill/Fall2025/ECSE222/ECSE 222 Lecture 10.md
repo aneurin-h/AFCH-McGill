@@ -36,3 +36,10 @@ Faster not always better
 	Setup time and hold time
 Propogation delay
 	Time for output to reflect 50% of the input
+Rise time
+	Time for signal to go from 10% to 90% of the signal
+Fall time
+	Opposite of Rise Time
+	90% to 10%
+How to define propagation delay
+	Sum of

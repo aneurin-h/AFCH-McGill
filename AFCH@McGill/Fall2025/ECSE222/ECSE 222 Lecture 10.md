@@ -12,3 +12,8 @@ Extract $f$ by summing products of the subfunctions with their patterns
 ![[image-5.png|407x192]]
 Conversions from base $b$ to decimal
 ![[image-6.png|400x184]]
+
+## Dynamic Operation of Logic Gates
+Logic Gates use transistors
+	0 and 1 are low and high voltage respectively, actual voltage depends on tech
+Changing states -> moving charge around -> capacitors

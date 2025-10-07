@@ -17,3 +17,10 @@ Conversions from base $b$ to decimal
 Logic Gates use transistors
 	0 and 1 are low and high voltage respectively, actual voltage depends on tech
 Changing states -> moving charge around -> capacitors
+Voltage over a capacitor does not change instantaneously!
+```math
+||{"id":850565890036}||
+I_C(t) = C {dV_C(t)}/{dt}
+```
+It takes time to preform logic calculations
+

@@ -8,3 +8,4 @@ Repeat for Pattern B, ... etc
 
 Extract $f$ by summing products of the subfunctions with their patterns
 # Lecture 9 Slides
+## 

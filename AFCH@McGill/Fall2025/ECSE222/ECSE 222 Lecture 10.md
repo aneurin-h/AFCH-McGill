@@ -42,4 +42,7 @@ Fall time
 	Opposite of Rise Time
 	90% to 10%
 How to define propagation delay
-	Sum of
+	Sum of propagation delays on critical path
+	Number of gates on critical path
+Critical path
+	Path with largest propagation delay

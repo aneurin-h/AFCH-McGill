@@ -34,4 +34,5 @@ Latency also varies for gate type
 	Different implementations of transistors have different capacitances
 Faster not always better
 	Setup time and hold time
-	
+Propogation delay
+	Time for output to reflect 50% of the input

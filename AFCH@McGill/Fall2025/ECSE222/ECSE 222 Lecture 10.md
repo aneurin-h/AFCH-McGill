@@ -27,3 +27,11 @@ In reality, timing diagrams are not perfect
 ![[image-7.png|356x155]]
 Both smooth changes in level, and delay between input and output
 
+## Latency
+Time it takes for change at input to propagate to output
+Latency varies for each input, output, and direction of change
+Latency also varies for gate type
+	Different implementations of transistors have different capacitances
+Faster not always better
+	Setup time and hold time
+	

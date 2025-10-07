@@ -23,4 +23,7 @@ Voltage over a capacitor does not change instantaneously!
 I_C(t) = C {dV_C(t)}/{dt}
 ```
 It takes time to preform logic calculations
+In reality, timing diagrams are not perfect
+![[image-7.png|356x155]]
+Both smooth changes in level, and delay between input and output
 

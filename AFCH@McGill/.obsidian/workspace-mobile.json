@@ -11,20 +11,6 @@
             "id": "3aa7cf24d3e2be01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH338/MATH 338 Lecture 18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH 338 Lecture 18"
-            }
-          },
-          {
-            "id": "a954aa0a8601c6cb",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
@@ -32,9 +18,22 @@
               "icon": "excalidraw-icon",
               "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
             }
+          },
+          {
+            "id": "a954aa0a8601c6cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH338/MATH 338 Lecture 17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATH 338 Lecture 17"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +178,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a954aa0a8601c6cb",
+  "active": "3aa7cf24d3e2be01",
   "lastOpenFiles": [
-    "Fall2025/MATH338/MATH 338 Lecture 18.md",
+    "Fall2025/MATH338/MATH 338 Lecture 17.md",
     "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
+    "Fall2025/MATH338/MATH 338 Lecture 18.md",
     "Fall2025/ECSE222/Problems.md",
     "Fall2025/MATH314/MATH 314 Lecture 3.md",
     "Excalidraw/MATH 314 Lecture 3 2025-10-07.excalidraw.md",
@@ -197,7 +197,6 @@
     "Excalidraw/MATH 338 Lecture 15 2025-10-01.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 15.md",
     "Excalidraw/MATH 338 Lecture 16 2025-10-03.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 17.md",
     "Fall2025/MATH338/MATH 338 Lecture 16.md",
     "Fall2025/MATH338/MATH 338 Lecture 14.md",
     "Untitled.md",

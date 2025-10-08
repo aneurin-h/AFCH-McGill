@@ -11,12 +11,14 @@
             "id": "5ab86ca60b5b33d2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/ECSE222/Problems.md"
+                "file": "Fall2025/ECSE250/ECSE 250 Lecture 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Problems"
+              "icon": "lucide-file",
+              "title": "ECSE 250 Lecture 10"
             }
           }
         ]
@@ -166,11 +168,12 @@
   },
   "active": "5ab86ca60b5b33d2",
   "lastOpenFiles": [
+    "Fall2025/ECSE222/Problems.md",
+    "Fall2025/MATH133/Untitled",
     "Fall2025/ECSE250/ECSE 250 Lecture 10.md",
     "Fall2025/MATH338/MATH 338 Lecture 17.md",
     "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 18.md",
-    "Fall2025/ECSE222/Problems.md",
     "Fall2025/MATH314/MATH 314 Lecture 3.md",
     "Excalidraw/MATH 314 Lecture 3 2025-10-07.excalidraw.md",
     "Excalidraw/MATH 133 Lecture 1006 - 12 2025-10-06.excalidraw.md",
@@ -178,7 +181,6 @@
     "Fall2025/MATH133/MATH 133 Tutorial 6.md",
     "Excalidraw/MATH 133 Tutorial 6 2025-10-06.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 10.md",
-    "Fall2025/MATH133/Untitled",
     "Excalidraw/MATH 338 Lecture 17 2025-10-06.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 15 2025-10-01.excalidraw.md",
@@ -194,7 +196,6 @@
     "Fall2025/ECSE222/ECSE 222 PP2-work.md",
     "Fall2025/MATH314/MATH 314 Lecture 2.md",
     "Excalidraw/MATH 314 Lecture 2 2025-10-02.excalidraw.md",
-    "Fall2025/MATH314/MATH 314 Lecture n.md",
     "Assets/image.png",
     "Assets/image-2.png",
     "Assets/image-1.png",

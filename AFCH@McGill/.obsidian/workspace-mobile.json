@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2025/MATH314/MATH 314 Lecture.md",
+                "file": "Fall2025/MATH314/MATH 314 Lecture 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH 314 Lecture"
+              "title": "MATH 314 Lecture 4"
+            }
+          },
+          {
+            "id": "e66b65319f0b3893",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MATH 314 Lecture 4 2025-10-09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 314 Lecture 4 2025-10-09.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,9 +179,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd17975ee771c2bf",
+  "active": "e66b65319f0b3893",
   "lastOpenFiles": [
-    "Fall2025/MATH314/MATH 314 Lecture.md",
+    "Fall2025/MATH314/MATH 314 Lecture 4.md",
+    "Excalidraw/MATH 314 Lecture 4 2025-10-09.excalidraw.md",
     "Excalidraw/MATH 133 Lecture 1008 - 13 2025-10-08.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 1008 - 13.md",
     "Fall2025/ECSE250/ECSE 250 Lecture 10.md",
@@ -196,7 +210,6 @@
     "Fall2025/ECSE222/Untitled.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
     "Fall2025/MATH314/Untitled 1.md",
-    "Fall2025/ECSE222/ECSE 222 PP2-work.md",
     "Assets/image.png",
     "Assets/image-2.png",
     "Assets/image-1.png",

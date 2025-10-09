@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "ECSE 222 Lecture 10"
             }
+          },
+          {
+            "id": "88cf17aa949adb3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +193,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "00072b047798817e",
+  "active": "88cf17aa949adb3a",
   "lastOpenFiles": [
-    "Fall2025/ECSE250/Practice Exam 1.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 10.md",
+    "Fall2025/ECSE250/Practice Exam 1.md",
     "Fall2025/MATH314/MATH 314 Lecture 3.md",
     "Excalidraw/MATH 314 Lecture 3 2025-10-07.excalidraw.md",
     "Assets/image-7.png",

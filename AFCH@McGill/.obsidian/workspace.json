@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25b439b379799452",
+        "id": "1fe194d21df63461",
         "type": "tabs",
         "children": [
           {
-            "id": "b5276412b1733741",
+            "id": "8466ed6c6b82ad65",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
+                "file": "Fall2025/ECSE250/ECSE 250 Lecture 11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
+              "icon": "lucide-file",
+              "title": "ECSE 250 Lecture 11"
             }
           }
         ]
@@ -180,9 +182,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b5276412b1733741",
+  "active": "8466ed6c6b82ad65",
   "lastOpenFiles": [
+    "Fall2025/ECSE250/ECSE 250 Lecture 11.md",
     "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
+    "Fall2025/MATH338/MATH 338 Lecture 20.md",
+    "Fall2025/MATH133/MATH 133 Tutorial 7.md",
+    "Excalidraw/MATH 338 Lecture 20 2025-10-20.excalidraw.md",
+    "Excalidraw/MATH 133 Tutorial 7 2025-10-20.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 17 2025-10-06.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 17.md",
     "Fall2025/MATH338/MATH 338 Lecture 18.md",
@@ -204,11 +211,6 @@
     "Fall2025/ECSE222/ECSE 222 Lecture 10.md",
     "Fall2025/FACC100/FACC 100 Lecture 4.md",
     "Fall2025/MATH314/MATH 314 Lecture 4.md",
-    "Excalidraw/MATH 314 Lecture 4 2025-10-09.excalidraw.md",
-    "Excalidraw/MATH 133 Lecture 1008 - 13 2025-10-08.excalidraw.md",
-    "Fall2025/ECSE250/Practice Exam 1.md",
-    "Fall2025/MATH314/MATH 314 Lecture 3.md",
-    "Excalidraw/MATH 314 Lecture 3 2025-10-07.excalidraw.md",
     "Assets/image-7.png",
     "Assets/image-6.png",
     "Assets/image-5.png",

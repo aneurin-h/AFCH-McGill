@@ -50,3 +50,18 @@ Linked list has:
 - Reference to first node (head)
 - Reference to last node (tail)
 
+Typical implementation
+```java
+public class SLinkedList{
+	private SNode head;
+	private SNode tail;
+	private int size;
+	
+	...
+	
+	private class SNode{
+		Object element
+		SNode next;
+	}
+}
+```

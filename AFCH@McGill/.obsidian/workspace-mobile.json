@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Midterm Prep"
             }
-          },
-          {
-            "id": "6b2d22809d022157",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Midterm Prep 2025-10-17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Midterm Prep 2025-10-17.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +166,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b2d22809d022157",
+  "active": "dd17975ee771c2bf",
   "lastOpenFiles": [
     "Excalidraw/Midterm Prep 2025-10-17.excalidraw.md",
     "Fall2025/MATH314/Midterm Prep.md",

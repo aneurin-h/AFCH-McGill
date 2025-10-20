@@ -65,3 +65,9 @@ public class SLinkedList{
 	}
 }
 ```
+Extra Operations
+- `addFirst(e)`
+- `addLast(e)`
+- `removeFirst(e)`Removes first occurrence of element from the list (if present)
+- `removedLast(e)`Removes last occurrence of element from the list (if present)
+

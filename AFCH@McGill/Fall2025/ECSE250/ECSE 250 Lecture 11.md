@@ -70,6 +70,7 @@ Extra Operations
 - `addLast(e)`
 - `removeFirst(e)`Removes first occurrence of element from the list (if present)
 - `removedLast(e)`Removes last occurrence of element from the list (if present)
+## Example Implementations of Common Methods
 ### Add First:
 ```java
 SNode newNode = new SNode(); // Node for e

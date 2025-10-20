@@ -145,3 +145,14 @@ size--;
 return out.element;
 ```
 Loops: $O(N)$
+### Get:
+```java
+SNode node = head;
+
+for(int k = 0; k < i; k++){
+	node = node.next;
+}
+
+return node
+```
+Loops: $O(N)$

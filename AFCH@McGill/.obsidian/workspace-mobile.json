@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a1eb92c4f7fdc410",
+        "id": "e0200b785b3fa4e9",
         "type": "tabs",
         "children": [
           {
-            "id": "dd17975ee771c2bf",
+            "id": "a7dcd1a8c3be9564",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
+                "file": "Fall2025/MATH133/MATH 133 Tutorial 7.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
+              "icon": "lucide-file",
+              "title": "MATH 133 Tutorial 7"
             }
           },
           {
-            "id": "e672594fa7ca4ef4",
+            "id": "e8f40db95e54320d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/MATH 338 Lecture 20 2025-10-20.excalidraw.md"
+                "file": "Excalidraw/MATH 133 Tutorial 7 2025-10-20.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 20 2025-10-20.excalidraw"
+              "title": "MATH 133 Tutorial 7 2025-10-20.excalidraw"
             }
           }
         ],
@@ -177,8 +179,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e672594fa7ca4ef4",
+  "active": "e8f40db95e54320d",
   "lastOpenFiles": [
+    "Fall2025/MATH133/MATH 133 Tutorial 7.md",
+    "Excalidraw/MATH 133 Tutorial 7 2025-10-20.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
     "Excalidraw/MATH 338 Lecture 20 2025-10-20.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 18.md",
@@ -204,8 +208,6 @@
     "Fall2025/MATH133/MATH 133 Lecture 1006 - 12.md",
     "Fall2025/MATH133/MATH 133 Tutorial 6.md",
     "Excalidraw/MATH 133 Tutorial 6 2025-10-06.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 10.md",
-    "Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
     "Fall2025/ECSE222/Untitled.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
     "Assets/image.png",

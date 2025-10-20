@@ -35,4 +35,13 @@ Worst case: Remove first element
 Runs shifting $N$ times
 Overall is $O(N)$
 
+**Get method:**
+No worst case
+$O(1)$
 # Singly Linked Lists
+More efficient if need many add/removes
+
+Elements in List are linked using pointers
+Nodes are "connected" with pointers to 0 or 1 other nodes
+Linear collection of nodes
+

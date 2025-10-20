@@ -45,3 +45,8 @@ Elements in List are linked using pointers
 Nodes are "connected" with pointers to 0 or 1 other nodes
 Linear collection of nodes
 
+Linked list has:
+- Size
+- Reference to first node (head)
+- Reference to last node (tail)
+

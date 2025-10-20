@@ -111,10 +111,8 @@ if(size == 0){
 	head = newNode;
 	tail = newNode;
 } else {
-	SNode prevLast = tail;
-	prevLast.next = newNode;
-
-	tail = newNode;
+	tail.next = newNode;
+	tail = tail.next;
 }
 
 size++;
@@ -141,6 +139,8 @@ while(temp.next != tail){
 tail = temp;
 SNode out = temp.next;
 temp.next = null;
+
+size--;
 
 return out.element;
 ```

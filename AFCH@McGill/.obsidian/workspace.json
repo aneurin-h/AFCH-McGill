@@ -11,13 +11,26 @@
             "id": "b5276412b1733741",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
+            }
+          },
+          {
+            "id": "48504c85e064c365",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +191,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b5276412b1733741",
+  "active": "48504c85e064c365",
   "lastOpenFiles": [
+    "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
+    "Fall2025/MATH338/MATH 338 Lecture 18.md",
+    "Excalidraw/MATH 338 Lecture 19 2025-10-10.excalidraw.md",
+    "Fall2025/MATH338/MATH 338 Lecture 19.md",
     "Fall2025/MATH133/MATH 133 Lecture 1008 - 13.md",
     "Fall2025/MATH133/MATH 133 Lecture 1006 - 12.md",
     "Fall2025/MATH133/MATH 133 Lecture 1001 - 11.md",
@@ -195,11 +212,7 @@
     "Fall2025/FACC100/FACC 100 Lecture 7.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 10.md",
     "Fall2025/FACC100/FACC 100 Lecture 4.md",
-    "Fall2025/MATH338/MATH 338 Lecture 19.md",
-    "Excalidraw/MATH 338 Lecture 19 2025-10-10.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 18.md",
     "Fall2025/MATH314/MATH 314 Lecture 4.md",
-    "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
     "Excalidraw/MATH 314 Lecture 4 2025-10-09.excalidraw.md",
     "Excalidraw/MATH 133 Lecture 1008 - 13 2025-10-08.excalidraw.md",
     "Fall2025/ECSE250/Practice Exam 1.md",

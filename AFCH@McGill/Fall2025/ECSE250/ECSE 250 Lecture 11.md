@@ -83,5 +83,65 @@ if(size==0){
 
 size++; // Update size
 ```
-No Loops: $O(N)=1$ 
-### Remove First
+No Loops: $O(1)$ 
+### Remove First:
+```java
+if(size == 0){
+	// Raise exception
+}
+
+SNode temp = head; // Copy element to be removed
+head = temp.next; // Unlink it from list
+
+size--;
+
+if(size == 0){
+	tail == null; // If this was the only element, we shouldn't have a tail
+}
+
+return temp.element; // Return removed element
+```
+No Loops: $O(1)$
+### Add Last:
+```java
+SNode newNode = new SNode();
+newNode.element = e;
+
+if(size == 0){
+	head = newNode;
+	tail = newNode;
+} else {
+	SNode prevLast = tail;
+	prevLast.next = newNode;
+
+	tail = newNode;
+}
+
+size++;
+```
+No Loops: $O(1)$
+### Remove Last:
+```java
+if(size == 0){
+	// Raise Exception
+}
+
+SNode temp = tail;
+
+if(size == 1){
+	head = null;
+	tail = null;
+	return temp.element;
+}
+
+while(temp.next != tail){
+	temp = temp.next;
+}
+
+tail = temp;
+SNode out = temp.next;
+temp.next = null;
+
+return out.element;
+```
+Loops: $O(N)$

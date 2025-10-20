@@ -70,4 +70,18 @@ Extra Operations
 - `addLast(e)`
 - `removeFirst(e)`Removes first occurrence of element from the list (if present)
 - `removedLast(e)`Removes last occurrence of element from the list (if present)
+### Add First:
+```java
+SNode newNode = new SNode(); // Node for e
+newNode.element = e; // Put e into that Node
+newNode.next = head; // Link it to the list
+head = newNode; // Update head
 
+if(size==0){
+	tail = newNode; // If this is the only element, it should also be the tail
+}
+
+size++; // Update size
+```
+No Loops: $O(N)=1$ 
+### Remove First

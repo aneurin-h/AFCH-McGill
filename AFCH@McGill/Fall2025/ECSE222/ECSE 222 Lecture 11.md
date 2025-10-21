@@ -52,3 +52,12 @@ Given a positive n-digit number P in radix r
 	$K_{r-1}=(r^n-1) - P$
 Equivalent to flipping each bit
 $P+K_{r-1}=(r^n-1)$
+
+### 2's Complement (or r's complement)
+Given a positive n-digit number P in radix r
+	The equivalent n-digit negative number is $K_r=r^n-P$
+Example: 4 digit num in radix 2$
+$P=5 = 0101$
+$K_r = 1011 = 1010 + 1$
+Flip bits and add 1
+$K_r=10000-0101= 1011$

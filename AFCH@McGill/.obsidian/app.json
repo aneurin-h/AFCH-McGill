@@ -25,7 +25,7 @@
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Assets",
+  "attachmentFolderPath": "Fall2025/Assets",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

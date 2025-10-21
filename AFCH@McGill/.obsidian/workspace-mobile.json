@@ -4,37 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e0200b785b3fa4e9",
+        "id": "a60530d04d4f68a2",
         "type": "tabs",
         "children": [
           {
-            "id": "a7dcd1a8c3be9564",
+            "id": "920ca05515ed631e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2025/MATH133/MATH 133 Tutorial 7.md",
+                "file": "Fall2025/MATH314/MATH 314 Lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH 133 Tutorial 7"
+              "title": "MATH 314 Lecture 5"
             }
           },
           {
-            "id": "e8f40db95e54320d",
+            "id": "7f91ac78c8096c51",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/MATH 133 Tutorial 7 2025-10-20.excalidraw.md"
+                "file": "Excalidraw/MATH 314 Lecture 5 2025-10-21.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MATH 133 Tutorial 7 2025-10-20.excalidraw"
+              "title": "MATH 314 Lecture 5 2025-10-21.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,54 +178,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e8f40db95e54320d",
+  "active": "920ca05515ed631e",
   "lastOpenFiles": [
+    "Excalidraw/MATH 314 Lecture 5 2025-10-21.excalidraw.md",
+    "Fall2025/MATH314/MATH 314 Lecture 5.md",
+    "Excalidraw",
     "Fall2025/MATH133/MATH 133 Tutorial 7.md",
-    "Excalidraw/MATH 133 Tutorial 7 2025-10-20.excalidraw.md",
-    "Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
-    "Excalidraw/MATH 338 Lecture 20 2025-10-20.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 18.md",
-    "Fall2025/MATH338/MATH 338 Lecture 19.md",
-    "Fall2025/MATH338/MATH 338 Lecture 20.md",
-    "Excalidraw/MATH 338 Lecture 17 2025-10-06.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 17.md",
-    "Excalidraw/MATH 338 Lecture 19 2025-10-10.excalidraw.md",
-    "Fall2025/MATH314/Midterm Prep.md",
-    "Excalidraw/Midterm Prep 2025-10-17.excalidraw.md",
-    "Excalidraw/Midterm Prep 2025-10-16.excalidraw.md",
-    "I. . ..md",
-    "Fall2025/MATH314/MATH 314 Lecture 4.md",
-    "Excalidraw/MATH 314 Lecture 4 2025-10-09.excalidraw.md",
-    "Excalidraw/MATH 133 Lecture 1008 - 13 2025-10-08.excalidraw.md",
-    "Fall2025/MATH133/MATH 133 Lecture 1008 - 13.md",
-    "Fall2025/ECSE250/ECSE 250 Lecture 10.md",
-    "Fall2025/ECSE222/Problems.md",
+    "Fall2025/ECSE250/ECSE 250 Lecture 11.md",
+    "Fall2025/ECSE222/ECSE 222 Lecture 11.md",
+    "Fall2025/-Excalidraw/Template.excalidraw.md",
+    "Fall2025/-Excalidraw/Scratchpad 2025-09-27.excalidraw.md",
+    "Fall2025/-Excalidraw/Midterm Prep 2025-10-17.excalidraw.md",
+    "Fall2025/-Excalidraw/Midterm Prep 2025-10-16.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 20 2025-10-20.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 19 2025-10-10.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 17 2025-10-06.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 16 2025-10-03.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 15 2025-10-01.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 11 2025-09-22 08.30.35.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 314 Lecture n 2025-09-30.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 314 Lecture 4 2025-10-09.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 314 Lecture 3 2025-10-07.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 314 Lecture 2 2025-10-02.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 133 Tutorial 7 2025-10-20.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 133 Tutorial 6 2025-10-06.excalidraw.md",
+    "Fall2025/-Excalidraw",
+    "Fall2025/-Assets/Pasted image 20251002090658.png",
+    "Fall2025/-Assets/Pasted image 20250930093936.png",
+    "Fall2025/-Assets/Pasted image 20250929170348.png",
+    "Fall2025/-Assets/Pasted image 20250929163430.png",
+    "Fall2025/-Assets/Pasted image 20250929162521.png",
+    "Fall2025/-Assets/Pasted image 20250925094842.png",
+    "Fall2025/-Assets/Pasted image 20250925091707.png",
+    "Fall2025/-Assets/Pasted image 20250925091447.png",
+    "Fall2025/-Assets/Pasted image 20250925090124.png",
+    "Fall2025/-Assets/Pasted image 20250924163633.png",
+    "Fall2025/-Assets",
     "Fall2025/MATH133/Untitled",
-    "Fall2025/MATH314/MATH 314 Lecture 3.md",
-    "Excalidraw/MATH 314 Lecture 3 2025-10-07.excalidraw.md",
-    "Excalidraw/MATH 133 Lecture 1006 - 12 2025-10-06.excalidraw.md",
-    "Fall2025/MATH133/MATH 133 Lecture 1006 - 12.md",
-    "Fall2025/MATH133/MATH 133 Tutorial 6.md",
-    "Excalidraw/MATH 133 Tutorial 6 2025-10-06.excalidraw.md",
     "Fall2025/ECSE222/Untitled.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
-    "Assets/image.png",
-    "Assets/image-2.png",
-    "Assets/image-1.png",
     "Fall2025/ECSE250/MATH133",
     "Fall2025/MATH314",
-    "Assets/Pasted image 20250925094842.png",
-    "Assets/Pasted image 20250925091707.png",
-    "Assets/Pasted image 20250925091447.png",
-    "Assets/Pasted image 20250925090124.png",
     "Fall2025/ECSE222/PP1_-_F25 work.pdf",
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
-    "Assets/Pasted image 20250923094425.png",
-    "Assets/Pasted image 20250923094418.png",
-    "Assets/Pasted image 20250923094346.png",
-    "Fall2025/ECSE222/PP1_-_F251.pdf",
-    "Fall2025/ECSE222",
-    "Fall2025/MATH133",
     "Untitled.canvas"
   ]
 }

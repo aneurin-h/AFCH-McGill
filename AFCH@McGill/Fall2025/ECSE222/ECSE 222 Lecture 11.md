@@ -48,3 +48,4 @@ $-5 \rightarrow{}10101$
 
 ### 1's Complement (or (r-1)'s Complement)
 Given a positive n-digit number P in radix r
+	The equivalent n-digit negative number $K_{r-}

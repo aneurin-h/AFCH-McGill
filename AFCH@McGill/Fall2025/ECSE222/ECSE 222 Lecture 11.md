@@ -46,3 +46,5 @@ A signed 4 bit integer is actually 5 bits, because of the sign bit
 $5\rightarrow{}00101$
 $-5 \rightarrow{}10101$
 
+### 1's Complement (or (r-1)'s Complement)
+Given a positive n-digit number P in radix r

@@ -35,25 +35,19 @@ RCA Latency
 	$\tau{}_{RCA}=2n$
 
 ## Signed Numbers
-Three ways to represent negatived numbers
-- Sign and magnitude
-- 1s complement
-- 2s complement
-
-### Sign and Magnitude
+### Different forms of Representation
+#### Sign and Magnitude
 1 bit for sign (first/leftmost)
 A signed 4 bit integer is actually 5 bits, because of the sign bit
 $5\rightarrow{}00101$
 $-5 \rightarrow{}10101$
-
-### 1's Complement (or (r-1)'s Complement)
+#### 1s Complement (or (r-1)'s Complement)
 Given a positive n-digit number P in radix r
 	The equivalent n-digit negative number $K_{r-1}$ (radix r -1) is obtained as follows
 	$K_{r-1}=(r^n-1) - P$
 Equivalent to flipping each bit
 $P+K_{r-1}=(r^n-1)$
-
-### 2's Complement (or r's complement)
+#### 2's Complement (or r's complement)
 Given a positive n-digit number P in radix r
 	The equivalent n-digit negative number is $K_r=r^n-P$
 Example: 4 digit num in radix 2$
@@ -61,3 +55,13 @@ $P=5 = 0101$
 $K_r = 1011 = 1010 + 1$
 Flip bits and add 1
 $K_r=10000-0101= 1011$
+$K_r + P = 0$
+### Advantages and Disadvantages
+1's complement
+- Easy to obtain
+- Some arithmetic operations are difficult and require corrections
+- Two representations for 0, 0000 & 1111
+2's complement
+- Complement is not easy to obtain, but there are ways around
+- Arithmetic operations are straight forward and easy
+- Single representation for 0, 0000

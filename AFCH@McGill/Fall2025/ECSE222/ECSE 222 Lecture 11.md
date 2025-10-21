@@ -50,3 +50,5 @@ $-5 \rightarrow{}10101$
 Given a positive n-digit number P in radix r
 	The equivalent n-digit negative number $K_{r-1}$ (radix r -1) is obtained as follows
 	$K_{r-1}=(r^n-1) - P$
+Equivalent to flipping each bit
+$P+K_{r-1}=(r^n-1)$

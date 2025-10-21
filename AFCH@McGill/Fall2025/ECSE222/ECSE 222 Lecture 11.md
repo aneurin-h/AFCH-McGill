@@ -21,6 +21,28 @@ $c_{i+1} = x_iy_i + x_ic_i+y_ic_i$ 3 AND gates and 1 OR gate
 $s_i=x_i\oplus{}y_i\oplus{}c_i$
 ![[image-10.png|343x190]]
 
-Multiple stages implemented together using Ripple Carry Adders
+Multiple stages implemented together using Ripple Carry Adders (RCA)
 Several Full Adders chained
 ![[image-11.png|501x129]]
+
+### Latency of RCA
+Depends on the ripple (propagation) of the carry
+	Assume x&y arrive together at start
+Latency of FA (Critical path)
+	$\tau{}_{FA\_carry} = 2$
+	$\tau{}_{FA\_sum} = 1$
+RCA Latency
+	$\tau{}_{RCA}=2n$
+
+## Signed Numbers
+Three ways to represent negatived numbers
+- Sign and magnitude
+- 1s complement
+- 2s complement
+
+### Sign and Magnitude
+1 bit for sign (first/leftmost)
+A signed 4 bit integer is actually 5 bits, because of the sign bit
+$5\rightarrow{}00101$
+$-5 \rightarrow{}10101$
+

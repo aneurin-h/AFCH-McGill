@@ -5,10 +5,10 @@ Matrix Inverses
 ![[MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw#^frame=g1k_azF4xApiloDCAEL7S]]
 
 Finding Inverses
-![[MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw#^frame=G1G0VPkCvSBt5CBdd9I6n]]
+![[Excalidraw/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md#^frame=G1G0VPkCvSBt5CBdd9I6n]]
 
 Properties of Inverses
-![[MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw#^frame=hIico6ksAS8REglH_HSG3]]
+![[Excalidraw/MATH133 Lecture 0922 - 8 2025-09-22 17.28.34.excalidraw.md#^frame=hIico6ksAS8REglH_HSG3]]
 
 
 

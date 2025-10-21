@@ -19,4 +19,8 @@ This is a full adder (Because it uses carry-in)
 Boolean functions for full adder
 $c_{i+1} = x_iy_i + x_ic_i+y_ic_i$ 3 AND gates and 1 OR gate
 $s_i=x_i\oplus{}y_i\oplus{}c_i$
-![[image-10.png]]
+![[image-10.png|343x190]]
+
+Multiple stages implemented together using Ripple Carry Adders
+Several Full Adders chained
+![[image-11.png|501x129]]

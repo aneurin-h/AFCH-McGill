@@ -56,6 +56,10 @@ $K_r = 1011 = 1010 + 1$
 Flip bits and add 1
 $K_r=10000-0101= 1011$
 $K_r + P = 0$
+
+**Method to Obtain**
+Find first 1 (from right)
+Flip all other bits in a more significant position
 ### Advantages and Disadvantages
 1's complement
 - Easy to obtain

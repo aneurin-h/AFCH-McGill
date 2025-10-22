@@ -65,7 +65,7 @@ public get(int i){
 ```
 # Dummy Node
 Edge cases require more code
-	size = 0, size = 1 cases etc
+	size = 0, size = 1 cases etc.
 Exist at head and tail of an empty Linked List
 Stores nothing
 Helps with edge cases:
@@ -112,3 +112,12 @@ public Node removeFirst(){
 # Space Complexity
 All three data structures use space O(N) for a list of size N
 Linked lists use 2x (Single) or 3x (Double), the memory when compared to an array
+
+# Java List Libraries
+Disallowed on assignments
+Types specified with a type parameter
+## ArrayList
+Uses an array as underlying data structure
+Grows by 50% not 100% during a resize
+## Linked List
+Doubly Linked List

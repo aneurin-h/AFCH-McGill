@@ -81,3 +81,12 @@ public Node remove(int i){
 	return node;
 }
 ```
+```java
+public Node removeLast(){
+	Node out = dummyTail.prev;
+	
+	dummyTail.prev = dummyTail.prev.prev;
+	
+	return out;
+}
+```

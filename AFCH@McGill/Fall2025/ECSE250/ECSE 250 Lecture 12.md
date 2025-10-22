@@ -72,6 +72,7 @@ Helps with edge cases:
 No need for if statements when removing Nodes!
 ```java
 public Node remove(int i){
+	if(size = 0 || i < 0 || i >= size){throw new Exception();}
 	Node node = getNode(i);
 	// Pretty Neat, erases self
 	node.prev.next = node.next;
@@ -84,21 +85,26 @@ public Node remove(int i){
 ```
 ```java
 public Node removeLast(){
-	if(size = 0){throw new Exception}
+	if(size = 0){throw new Exception();}
 	Node out = dummyTail.prev;
 	
 	node.prev.next = node.next;
 	node.next.prev = node.prev;
+	
+	size--;
 	
 	return out;
 }
 ```
 ```java
 public Node removeFirst(){
+	if(size = 0){throw new Exception();}
 	Node out = dummyHead.next;
 	
 	node.prev.next = node.next;
 	node.next.prev = node.prev;
+	
+	size--;
 	
 	return out;
 }

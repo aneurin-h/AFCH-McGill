@@ -109,3 +109,6 @@ public Node removeFirst(){
 	return out;
 }
 ```
+# Space Complexity
+All three data structures use space O(N) for a list of size N
+Linked lists use 2x (Single) or 3x (Double), the memory when compared to an array

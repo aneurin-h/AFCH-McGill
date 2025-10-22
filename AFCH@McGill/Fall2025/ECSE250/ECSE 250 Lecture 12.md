@@ -84,15 +84,22 @@ public Node remove(int i){
 ```
 ```java
 public Node removeLast(){
+	if(size = 0){throw new Exception}
 	Node out = dummyTail.prev;
 	
-	node.prev.next = node.
+	node.prev.next = node.next;
+	node.next.prev = node.prev;
 	
 	return out;
 }
 ```
 ```java
 public Node removeFirst(){
+	Node out = dummyHead.next;
 	
+	node.prev.next = node.next;
+	node.next.prev = node.prev;
+	
+	return out;
 }
 ```

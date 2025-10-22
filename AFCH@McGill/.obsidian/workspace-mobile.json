@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a60530d04d4f68a2",
+        "id": "c6d959d6c5f06972",
         "type": "tabs",
         "children": [
           {
-            "id": "920ca05515ed631e",
+            "id": "d6419943eed4626a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH314/MATH 314 Lecture 5.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MATH 314 Lecture 5"
-            }
-          },
-          {
-            "id": "7f91ac78c8096c51",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MATH 314 Lecture 5 2025-10-21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 314 Lecture 5 2025-10-21.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +162,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7f91ac78c8096c51",
+  "active": "d6419943eed4626a",
   "lastOpenFiles": [
     "Fall2025/MATH314/MATH 314 Lecture 5.md",
     "Excalidraw/MATH 314 Lecture 5 2025-10-21.excalidraw.md",

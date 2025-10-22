@@ -69,6 +69,7 @@ Edge cases require more code
 Exist at head and tail of an empty Linked List
 Stores nothing
 Helps with edge cases:
+No need for if statements when removing Nodes!
 ```java
 public Node remove(int i){
 	Node node = getNode(i);
@@ -85,8 +86,13 @@ public Node remove(int i){
 public Node removeLast(){
 	Node out = dummyTail.prev;
 	
-	dummyTail.prev = dummyTail.prev.prev;
+	node.prev.next = node.
 	
 	return out;
+}
+```
+```java
+public Node removeFirst(){
+	
 }
 ```

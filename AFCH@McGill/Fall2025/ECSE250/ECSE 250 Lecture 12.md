@@ -11,6 +11,7 @@ class Node {
 ```
 ### Functions
 #### Remove Last
+O(1)
 ```java
 public Node removeLast(){
 	if(size == 0){
@@ -30,7 +31,13 @@ public Node removeLast(){
 	return out;
 }
 ```
-#### 
-```
-
+#### Get Node
+```java
+private getNode(int i){
+	Node node = head;
+	for(int k = 0; k < i; k++){
+		node = node.next;
+	}
+	return node;
+}
 ```

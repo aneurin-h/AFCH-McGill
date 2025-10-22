@@ -68,3 +68,16 @@ Edge cases require more code
 	size = 0, size = 1 cases etc
 Exist at head and tail of an empty Linked List
 Stores nothing
+Helps with edge cases:
+```java
+public Node remove(int i){
+	Node node = getNode(i);
+	// Pretty Neat, erases self
+	node.prev.next = node.next;
+	node.next.prev = node.prev;
+	
+	size--;
+	
+	return node;
+}
+```

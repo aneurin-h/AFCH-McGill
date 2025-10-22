@@ -32,12 +32,34 @@ public Node removeLast(){
 }
 ```
 #### Get Node
+O(N)
 ```java
-private getNode(int i){
+public get(int i){
+	if(/* i is outside range*/){
+		//Throw Exception
+	}
+	
+	
 	Node node = head;
 	for(int k = 0; k < i; k++){
 		node = node.next;
 	}
 	return node;
+	
+	//OR 
+	
+	Node node;
+	if(i > size/2){
+		node = tail
+		for(int k = size -1; k>i; k--){
+			node = node.prev;
+		}
+	} else {
+		for(int k = 0; k<i; k++){
+			node = node.next;
+		}
+	}
+	return node;	
 }
 ```
+#### 

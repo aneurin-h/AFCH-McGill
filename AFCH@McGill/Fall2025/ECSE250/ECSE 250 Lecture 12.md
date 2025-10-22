@@ -28,6 +28,7 @@ public Node removeLast(){
 	out = tail;
 	tail = tail.prev;
 	tail.next = null;
+	size--;
 	return out;
 }
 ```
@@ -62,4 +63,8 @@ public get(int i){
 	return node;	
 }
 ```
-#### 
+# Dummy Node
+Edge cases require more code
+	size = 0, size = 1 cases etc
+Exist at head and tail of an empty Linked List
+Stores nothing

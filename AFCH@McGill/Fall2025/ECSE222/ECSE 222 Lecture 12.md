@@ -35,6 +35,7 @@ For positive numbers
 For negative numbers
 	Complex
 ### 2's Complement
+Real circuits use this, nice and easy
 #### Addition
 No Carry out
 	Straight forward

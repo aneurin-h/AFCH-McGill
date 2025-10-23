@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00ca18a7064e03a8",
+        "id": "dde4c45994568395",
         "type": "tabs",
         "children": [
           {
-            "id": "e5af5d85309bbfe2",
+            "id": "be44f423da78b7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,11 +179,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5af5d85309bbfe2",
+  "active": "be44f423da78b7ef",
   "lastOpenFiles": [
-    "Fall2025/-Assets/image-12.png",
+    "Fall2025/-Assets/image-13.png",
     "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 12.md",
+    "Fall2025/-Assets/image-12.png",
     "Fall2025/ECSE250/ECSE 250 Lecture 12.md",
     "Fall2025/MATH133/MATH 133 Lecture 1022 - 15.md",
     "Fall2025/-Excalidraw/MATH 133 Lecture 1022 - 15 2025-10-22.excalidraw.md",
@@ -219,7 +220,6 @@
     "Fall2025/ECSE222/PP2 F25.pdf",
     "Fall2025/-Assets/image-4.png",
     "Fall2025/-Assets/image-3.png",
-    "Fall2025/-Assets/Pasted image 20251002090658.png",
     "Fall2025/MATH133",
     "Fall2025/MATH314",
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",

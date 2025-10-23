@@ -13,4 +13,4 @@ Different signs:
 	Small number (Absolute Value) must be subtracted from large number (absolute value)
 	Keep sign of larger number
 	![[image-12.png|424x109]]
-	
+ 

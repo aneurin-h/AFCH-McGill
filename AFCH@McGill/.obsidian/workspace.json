@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2025/ECSE250/ECSE 250 Lecture 12.md",
+                "file": "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECSE 250 Lecture 12"
+              "title": "MATH 133 Lecture 0922 - 8"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,9 +181,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5af5d85309bbfe2",
+  "active": "c91ba8b6767a2314",
   "lastOpenFiles": [
     "Fall2025/ECSE250/ECSE 250 Lecture 12.md",
+    "Fall2025/MATH133/MATH 133 Lecture 1022 - 15.md",
+    "Fall2025/-Excalidraw/MATH 133 Lecture 1022 - 15 2025-10-22.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 0922 - 8.md",
     "Fall2025/MATH133/MATH 133 Lecture 0929 - 10.md",
     "Fall2025/MATH133/MATH 133 Lecture 0924 - 9.md",
@@ -210,8 +213,6 @@
     "Fall2025/MATH338/MATH 338 Lecture 18.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 19 2025-10-10.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 19.md",
-    "Fall2025/-Excalidraw/MATH 133 Lecture 0924 - 9 2025-09-24.excalidraw.md",
-    "Fall2025/MATH314/Midterm Prep.md",
     "Fall2025/-Assets/image-8.png",
     "Fall2025/-Assets/image-7.png",
     "Fall2025/-Assets/image-6.png",

@@ -59,3 +59,9 @@ y xor 1 = not y
 ![[image-14.png|408x193]]
 XOR circuitry + Carry in converts y to 2's complement of y if control signal is 1
 
+### Arithmetic Overflow
+Range of an n-bit number in 2's complement is -2^n-1 to 2^n-1 
+If the result of addition/subtraction does not fit in this range arithmetic overflow occurs
+
+If the last two carry bits are different, overflow has occurred
+

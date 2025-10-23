@@ -58,3 +58,4 @@ y xor 1 = not y
 
 ![[image-14.png|408x193]]
 XOR circuitry + Carry in converts y to 2's complement of y if control signal is 1
+

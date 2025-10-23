@@ -40,3 +40,6 @@ No Carry out
 	Straight forward
 Carry out
 	Ignore carry out
+#### Subtraction
+Negate subtrahend with 2's complement
+Preform addition

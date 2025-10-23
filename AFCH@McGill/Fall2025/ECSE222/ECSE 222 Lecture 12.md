@@ -29,3 +29,8 @@ Result without carry out
 Result with carry out
 	Add Carry out to result
 	Additional circuitry required (extra addition step)
+#### Subtraction
+For positive numbers
+	Straightforward
+For negative numbers
+	Complex

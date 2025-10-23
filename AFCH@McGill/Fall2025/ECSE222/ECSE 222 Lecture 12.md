@@ -65,3 +65,9 @@ If the result of addition/subtraction does not fit in this range arithmetic over
 
 If the last two carry bits are different, overflow has occurred
 
+$c_{n-1} \oplus{} c_n$ = 1 overflow has occured
+
+How to rectify overflow in addition
+	Add bits to increase range
+	Duplicate sign bit and append to left
+	After extension preform addition as before

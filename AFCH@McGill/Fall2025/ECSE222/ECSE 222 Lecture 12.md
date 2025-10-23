@@ -44,3 +44,8 @@ Carry out
 #### Subtraction
 Negate subtrahend with 2's complement
 Preform addition
+
+### Adder/Subtractor Unit
+Given two n-bit numbers in 2's complement representation
+Design a circuit that can preform both x+y and y+x
+Type of operation controlled by a control signal $\bar{Add}$ / $Sub$ 

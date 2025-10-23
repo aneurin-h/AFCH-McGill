@@ -49,3 +49,10 @@ Preform addition
 Given two n-bit numbers in 2's complement representation
 Design a circuit that can preform both x+y and y+x
 Type of operation controlled by a control signal $\bar{Add}$ / $Sub$ 
+$\bar{Add}$ / $Sub$ = 0, add
+$\bar{Add}$ / $Sub$ = 1 subtract
+
+2's Complement of y = 1's complement of y + 1
+y xor 0 = y
+y xor 1 = not y
+

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "MATH 314 Lecture 6"
             }
+          },
+          {
+            "id": "0155aca8f7dff2f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Excalidraw/MATH 314 Lecture 6 2025-10-23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 314 Lecture 6 2025-10-23.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,9 +179,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "da28104204cc5b08",
+  "active": "0155aca8f7dff2f1",
   "lastOpenFiles": [
     "Fall2025/MATH314/MATH 314 Lecture 6.md",
+    "Fall2025/-Excalidraw/MATH 314 Lecture 6 2025-10-23.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 1022 - 15.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 12.md",
     "Fall2025/-Assets/image-14.png",
@@ -197,7 +211,6 @@
     "Fall2025/-Excalidraw/MATH 338 Lecture 15 2025-10-01.excalidraw.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
-    "Fall2025/-Excalidraw/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
     "Fall2025/-Excalidraw",
     "Fall2025/-Assets/Pasted image 20251002090658.png",
     "Fall2025/-Assets/Pasted image 20250930093936.png",

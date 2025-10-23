@@ -34,3 +34,5 @@ For positive numbers
 	Straightforward
 For negative numbers
 	Complex
+### 2's Complement
+#### Addition

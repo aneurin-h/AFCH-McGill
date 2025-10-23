@@ -24,6 +24,8 @@ Different signs
 
 ### 1's Complement
 #### Addition
-Result with carry out
+Result without carry out
 	Straightforward
-	
+Result with carry out
+	Add Carry out to result
+	Additional circuitry required (extra addition step)

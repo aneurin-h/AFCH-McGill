@@ -11,10 +11,14 @@
             "id": "c29844732ba7a2d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH338/MATH 338 Lecture 12.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MATH 338 Lecture 12"
             }
           }
         ]

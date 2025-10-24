@@ -25,4 +25,3 @@ Top 10 Contributions of Mech E
 # ECSE - Electrical Computer & Software Engineering
 Electrical
 	Harnessing the motion of electrons to do work and process information
-	

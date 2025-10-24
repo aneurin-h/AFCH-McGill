@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Fall2025/ECSE222/ECSE 222 Lecture 12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ECSE 222 Lecture 12"
             }
           },
           {
@@ -159,7 +160,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3f8e68249314ef",
+        "id": "b474137affebafd8",
         "type": "tabs",
         "children": [
           {
-            "id": "c5586e0391c1fe2a",
+            "id": "c29844732ba7a2d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH338/Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Scratchpad"
-            }
-          },
-          {
-            "id": "67f71fab9d5929c0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Excalidraw/Scratchpad 2025-10-23.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Scratchpad 2025-10-23.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +162,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "67f71fab9d5929c0",
+  "active": "c29844732ba7a2d7",
   "lastOpenFiles": [
-    "Fall2025/MATH338/Scratchpad.md",
     "Fall2025/-Excalidraw/Scratchpad 2025-10-23.excalidraw.md",
+    "Fall2025/MATH338/Scratchpad.md",
     "Fall2025/MATH314/MATH 314 Lecture 6.md",
     "Fall2025/-Excalidraw/MATH 314 Lecture 6 2025-10-23.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 1022 - 15.md",

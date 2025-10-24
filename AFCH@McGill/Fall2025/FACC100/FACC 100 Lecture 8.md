@@ -6,3 +6,6 @@ Aerogel
 	Lightest solid in existence
 	Nanosized fibers
 	Good insulator
+1. Understand material Structure
+2. Optimize Properties
+3. Design new materials/processes

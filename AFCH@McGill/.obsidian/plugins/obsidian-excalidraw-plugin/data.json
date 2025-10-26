@@ -119,7 +119,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "compactModeOnTablets": true,
+  "compactModeOnTablets": false,
   "previousRelease": "2.16.1",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,

@@ -11,14 +11,12 @@
             "id": "be44f423da78b7ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Fall2025/MATH338/LaTeX.md",
-                "mode": "source",
-                "source": false
+                "file": "Fall2025/ECSE222/PP3 F25.pdf"
               },
-              "icon": "lucide-file",
-              "title": "LaTeX"
+              "icon": "lucide-file-text",
+              "title": "PP3 F25"
             }
           }
         ]
@@ -181,10 +179,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b50ab165f386577",
+  "active": "be44f423da78b7ef",
   "lastOpenFiles": [
-    "Fall2025/ECSE222/PP3 F25.pdf",
     "Fall2025/MATH338/LaTeX.md",
+    "Fall2025/ECSE222/PP3 F25.pdf",
     "Fall2025/FACC100/FACC 100 Lecture 8.md",
     "Fall2025/MATH338/Scratchpad.md",
     "Fall2025/MATH314/MATH 314 Lecture 6.md",
@@ -227,7 +225,6 @@
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
     "Fall2025/ECSE222/PP1_-_F25 work.pdf",
     "Fall2025/ECSE222/ECSE222 PP1.pdf",
-    "Fall2025/ECSE222/PP1 F25.pdf",
-    "Excalidraw/Test.excalidraw"
+    "Fall2025/ECSE222/PP1 F25.pdf"
   ]
 }

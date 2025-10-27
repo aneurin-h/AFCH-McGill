@@ -9,6 +9,9 @@ Fields are by default public static and final
 Cannot be instantiated directly
 
 Can use polymorphism with interface label
+
+Extension of two classes is not allowed, but implementation of multiple is
+
 ## `Implements` keyword
 Used to denote a class that implements an interface
 

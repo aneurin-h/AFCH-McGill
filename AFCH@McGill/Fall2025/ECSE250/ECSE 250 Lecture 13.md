@@ -8,7 +8,7 @@ Fields are by default public static and final
 
 Cannot be instantiated directly
 
-Can use polymorphism with 
+Can use polymorphism with interface label
 ## `Implements` keyword
 Used to denote a class that implements an interface
 

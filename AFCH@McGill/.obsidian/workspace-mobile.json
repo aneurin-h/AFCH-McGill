@@ -30,21 +30,9 @@
               "icon": "excalidraw-icon",
               "title": "MATH 338 Lecture 20 2025-10-20.excalidraw"
             }
-          },
-          {
-            "id": "02c2b6b046b4d69c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 22 2025-10-27.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 22 2025-10-27.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +177,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "02c2b6b046b4d69c",
+  "active": "0051a0d7dffe5acf",
   "lastOpenFiles": [
     "Fall2025/-Excalidraw/MATH 338 Lecture 20 2025-10-20.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 20.md",

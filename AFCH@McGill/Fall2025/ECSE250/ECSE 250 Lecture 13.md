@@ -24,5 +24,7 @@ Some conventions surrounding type parameter name
 `<T extends TypeName>`
 Restricts the allowable types for the generic type parameter
 Cannot use implements here
-
 # Iterable & Iterators
+Better way of going through all elements
+`hasNext() & next()` methods
+The interface `Iterable` has method `public Iterator<E> iterator()`

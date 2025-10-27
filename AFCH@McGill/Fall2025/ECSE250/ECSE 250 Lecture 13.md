@@ -11,11 +11,10 @@ Cannot be instantiated directly
 Can use polymorphism with interface label
 
 Extension of two classes is not allowed, but implementation of multiple is
-
 ## `Implements` keyword
 Used to denote a class that implements an interface
-
 ## Packages
 If interface being implemented is not in the same package, it must be imported
 # Generics
+Classes with a type parameter
 # Iterable & Iterators

@@ -12,5 +12,7 @@ Can use polymorphism with interface label
 ## `Implements` keyword
 Used to denote a class that implements an interface
 
+## Packages
+If interface being implemented is not in the same package, it must be imported
 # Generics
 # Iterable & Iterators

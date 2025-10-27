@@ -17,4 +17,5 @@ Used to denote a class that implements an interface
 If interface being implemented is not in the same package, it must be imported
 # Generics
 Classes with a type parameter
+`Uses <T>` after class name
 # Iterable & Iterators

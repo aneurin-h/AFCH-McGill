@@ -18,4 +18,10 @@ If interface being implemented is not in the same package, it must be imported
 # Generics
 Classes with a type parameter
 `Uses <T>` after class name
+Some conventions surrounding type parameter name
+![[image-15.png|194x123]]
+## Bounded Types
+`<T extends TypeName>`
+Restricts the allowable types for the generic type parameter
+
 # Iterable & Iterators

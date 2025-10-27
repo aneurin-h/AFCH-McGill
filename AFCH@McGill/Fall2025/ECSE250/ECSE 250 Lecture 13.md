@@ -6,7 +6,9 @@ Uses `interface` rather than `class` keyword
 Methods are by default public and abstract
 Fields are by default public static and final
 
-Cannot be instantiated
+Cannot be instantiated directly
+
+Can use polymorphism with 
 ## `Implements` keyword
 Used to denote a class that implements an interface
 

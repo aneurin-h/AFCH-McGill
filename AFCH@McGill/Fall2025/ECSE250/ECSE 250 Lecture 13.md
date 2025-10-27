@@ -28,3 +28,5 @@ Cannot use implements here
 Better way of going through all elements
 `hasNext() & next()` methods
 The interface `Iterable` has method `public Iterator<E> iterator()`
+
+Implement both Iterable and Iterator in separate classes

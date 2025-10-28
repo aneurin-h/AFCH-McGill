@@ -1,0 +1,1 @@
+- ![[MATH 133 Lecture 1027 - 16 2025-10-27.excalidraw]]

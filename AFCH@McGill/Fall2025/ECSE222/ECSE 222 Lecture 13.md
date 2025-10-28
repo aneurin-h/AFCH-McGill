@@ -12,3 +12,6 @@ Corresponds to which value (0 or 1) appears most often in the inputs
 
 ## Shannon's Expansion
 Set a particular variable to either 0 or 1, -> creates a **cofactor** of f 
+$f_{x_1}=^\Delta{}f(1,x_2,x_3,...,x_n)$
+Any function $f(w_1,w_2,...w_n)$ of $n$ binary variables can be expanded in terms of co-factors
+$f=w_1f_{w_1} + \bar{w_1}f_{\bar{w_1}}$

@@ -1,3 +1,3 @@
 # Lecture 11 Slides
 ## Multiplexer MUX
-Allows selection
+Allows selection between a number of outputs

@@ -25,12 +25,14 @@
             "id": "145a7c06eebda841",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/-Excalidraw/MATH 133 Lecture 1027 - 16 2025-10-27.excalidraw.md"
+                "file": "Fall2025/MATH314/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 133 Lecture 1027 - 16 2025-10-27.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -181,6 +183,8 @@
   },
   "active": "145a7c06eebda841",
   "lastOpenFiles": [
+    "Fall2025/-Excalidraw/MATH 133 Lecture 1027 - 16 2025-10-27.excalidraw.md",
+    "Fall2025/MATH314/Untitled.md",
     "Fall2025/MATH338/MATH 338 Lecture 22.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 13.md",
     "Fall2025/-Assets/image-21.png",
@@ -189,7 +193,6 @@
     "Fall2025/-Assets/image-18.png",
     "Fall2025/-Assets/image-17.png",
     "Fall2025/-Assets/image-16.png",
-    "Fall2025/-Excalidraw/MATH 133 Lecture 1027 - 16 2025-10-27.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 1027 - 16.md",
     "Fall2025/MATH133/MATH 338 Tutorial 8.md",
     "Fall2025/-Excalidraw/MATH 338 Tutorial 8 2025-10-27.excalidraw.md",
@@ -217,7 +220,6 @@
     "Fall2025/-Assets/image-14.png",
     "Fall2025/-Assets/image-13.png",
     "Fall2025/-Assets/image-12.png",
-    "Fall2025/-Excalidraw/MATH 133 Lecture 1022 - 15 2025-10-22.excalidraw.md",
     "Excalidraw",
     "Fall2025/-Excalidraw",
     "Fall2025/-Assets/Pasted image 20251002090658.png",

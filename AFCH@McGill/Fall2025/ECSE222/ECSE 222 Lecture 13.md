@@ -17,3 +17,8 @@ Any function $f(w_1,w_2,...w_n)$ of $n$ binary variables can be expanded in term
 $f=w_1f_{w_1} + \bar{w_1}f_{\bar{w_1}}$
 Can be used to express any function with a 2->1 MUX:
 ![[image-20.png]]
+### Multivariable Co-Factors
+Adds to the size of MUX needed to represent function
+## Look Up Table (LUT)
+![[image-21.png|371x191]]
+LUTs used in FPGAs

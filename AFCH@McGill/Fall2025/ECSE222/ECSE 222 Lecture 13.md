@@ -21,4 +21,4 @@ Can be used to express any function with a 2->1 MUX:
 Adds to the size of MUX needed to represent function
 ## Look Up Table (LUT)
 ![[image-21.png|371x191]]
-LUTs used in FPGAs
+LUTs used in FPGA

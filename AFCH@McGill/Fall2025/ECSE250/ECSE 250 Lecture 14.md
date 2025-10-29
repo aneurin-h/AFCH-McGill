@@ -6,5 +6,6 @@ After first iteration,
 	Smallest element is anywhere except final (N-1) position
 	Largest element is at the end
 Can stop one step earlier, because we know the last element
+Count number of swaps, if none preformed, end
 # Selection Sort
 # Insertion Sort

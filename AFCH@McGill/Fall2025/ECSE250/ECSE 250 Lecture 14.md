@@ -12,6 +12,7 @@ $\Omega(N)\:\&\:O(N^2)$
 # Selection Sort
 Iterate through list looking for smallest element, place that first
 Repeat by iterating though smaller section of list
+Don't need to check on iteration N-1, as 1 element is sorted on its own
 
 $\Omega(N^2)\:\&\:O(N^2)$
 # Insertion Sort

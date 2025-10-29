@@ -8,7 +8,7 @@ After first iteration,
 Can stop one step earlier, because we know the last element
 Count number of swaps, if none preformed, end
 	Track using boolean initialized to false, and set to true on swap
-$\Omega(N)$
+$\Omega(N)\:\&\:O(N^2)$
 # Selection Sort
 # Insertion Sort
 # Best Case Time Complexity

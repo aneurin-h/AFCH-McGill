@@ -33,6 +33,5 @@ Java interface
 Contains `compareTo(T o);` method
 `sort()` method assumes all elements in list implements `Comparable`
 Implemented by many Java classes, including String
-
 # Best Case Time Complexity
 Big Omega, ex: $\Omega{}(N),\:\Omega{}(N^2),\:\Omega{}(Nlog(N)),\:etc$ 

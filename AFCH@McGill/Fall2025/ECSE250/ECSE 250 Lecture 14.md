@@ -16,7 +16,7 @@ Don't need to check on iteration N-1, as 1 element is sorted on its own
 $\Omega(N^2)\:\&\:O(N^2)$
 # Insertion Sort
 Takes next element, moves down until it is in correct space using a sequence of swaps
-
+Must do all loops
 $\Omega(N)\:\&\:O(N^2)$
 # Best Case Time Complexity
 Big Omega, ex: $\Omega{}(N),\:\Omega{}(N^2),\:\Omega{}(Nlog(N)),\:etc$ 

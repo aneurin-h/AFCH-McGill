@@ -31,5 +31,7 @@ ArrayList
 # Comparable
 Java interface
 Contains `compareTo(T o);` method
+`sort()` method assumes all elements in list implements `Comparable`
+
 # Best Case Time Complexity
 Big Omega, ex: $\Omega{}(N),\:\Omega{}(N^2),\:\Omega{}(Nlog(N)),\:etc$ 

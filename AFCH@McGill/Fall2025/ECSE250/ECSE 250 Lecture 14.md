@@ -13,8 +13,8 @@ $\Omega(N)\:\&\:O(N^2)$
 Iterate through list looking for smallest element, place that first
 Repeat by iterating though smaller section of list
 Don't need to check on iteration N-1, as 1 element is sorted on its own
-
 $\Omega(N^2)\:\&\:O(N^2)$
 # Insertion Sort
+Takes next element, moves down until it is in correct space using a sequence of swaps
 # Best Case Time Complexity
 Big Omega, ex: $\Omega{}(N),\:\Omega{}(N^2),\:\Omega{}(Nlog(N)),\:etc$ 

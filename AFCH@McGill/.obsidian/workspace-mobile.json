@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be147fd7b61845e1",
+        "id": "e40f26edbbb65be9",
         "type": "tabs",
         "children": [
           {
-            "id": "d2eeeb3b63b7368f",
+            "id": "ae968aff9ef25388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH338/MATH 338 Lecture 23.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MATH 338 Lecture 23"
-            }
-          },
-          {
-            "id": "10cb906c5915910a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 23 2025-10-29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 23 2025-10-29.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +162,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8265f92459dfbec6",
+  "active": "ae968aff9ef25388",
   "lastOpenFiles": [
     "Fall2025/MATH338/MATH 338 Lecture 23.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 23 2025-10-29.excalidraw.md",
+    "Fall2025/ECSE250/ECSE 250 Lecture 14.md",
     "Fall2025/-Excalidraw/MATH 314 Lecture 7 2025-10-28.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 7.md",
     "Fall2025/MATH133/MATH 133 Lecture 1027 - 16.md",
@@ -214,7 +198,6 @@
     "Fall2025/MATH338/MATH 338 Lecture 12.md",
     "Fall2025/-Excalidraw/Scratchpad 2025-10-23.excalidraw.md",
     "Fall2025/MATH338/Scratchpad.md",
-    "Fall2025/MATH314/MATH 314 Lecture 6.md",
     "Fall2025/-Assets/image-14.png",
     "Fall2025/-Assets/image-13.png",
     "Fall2025/-Assets/image-12.png",

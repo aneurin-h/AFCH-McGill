@@ -18,11 +18,9 @@ $\Omega(N^2)\:\&\:O(N^2)$
 Takes next element, moves down until it is in correct space using a sequence of swaps
 Must do all loops
 $\Omega(N)\:\&\:O(N^2)$
-
 # Operations Needed
 Bubble & Selection -> swap
 Insertion -> insertion
-
 ## Swap
 ArrayList
 ```java
@@ -30,6 +28,8 @@ ArrayList
 	list[i] = list[j];
 	list[j] = tmp;
 	```
-
+# Comparable
+Java interface
+Contains `compareTo(T o);` method
 # Best Case Time Complexity
 Big Omega, ex: $\Omega{}(N),\:\Omega{}(N^2),\:\Omega{}(Nlog(N)),\:etc$ 

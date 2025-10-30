@@ -15,5 +15,4 @@ Program switches to connect
 	Input pins to LUT inputs
 	LUT outputs to LUT inputs
 	LUT outputs to output pins
-
 # Decoders

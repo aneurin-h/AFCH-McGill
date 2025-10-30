@@ -11,13 +11,30 @@
             "id": "c9c49a12850fb9ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH314/MATH 314 Lecture 8.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MATH 314 Lecture 8"
+            }
+          },
+          {
+            "id": "ff8ca03138b752cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Excalidraw/MATH 314 Lecture 8 2025-10-30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 314 Lecture 8 2025-10-30.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +179,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c9c49a12850fb9ef",
+  "active": "ff8ca03138b752cf",
   "lastOpenFiles": [
+    "Fall2025/MATH314/MATH 314 Lecture 8.md",
+    "Fall2025/-Excalidraw/MATH 314 Lecture 8 2025-10-30.excalidraw.md",
     "Fall2025/-Excalidraw/MATH 133 Lecture 1029 - 17 2025-10-29.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Lecture 1029 - 17.md",
     "Fall2025/MATH338/MATH 338 Lecture 23.md",
@@ -196,8 +215,6 @@
     "Fall2025/-Excalidraw/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
     "Fall2025/FACC100/FACC 100 Lecture 8.md",
     "Fall2025/MATH338/MATH 338 Lecture 13.md",
-    "Fall2025/-Excalidraw/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 12.md",
     "Fall2025/-Assets/image-14.png",
     "Fall2025/-Assets/image-13.png",
     "Fall2025/-Assets/image-12.png",

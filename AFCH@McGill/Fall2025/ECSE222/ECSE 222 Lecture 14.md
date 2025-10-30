@@ -28,3 +28,5 @@ If En is 1, exactly 1 output is 1
 ## Building Larger Decoders
 Enable input very useful
 ![[image-25.png|461x216]]
+## Implement 4-1 MUX using 2-4 Decoder
+![[image-26.png|525x188]]

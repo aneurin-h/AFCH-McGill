@@ -23,3 +23,4 @@ If En is 0, no outputs are 1
 If En is 1, exactly 1 output is 1
 	Output is determined by the decimal number represented by inputs
 "one-hot" encoding, only one bit is 1
+![[image-24.png|412x204]]

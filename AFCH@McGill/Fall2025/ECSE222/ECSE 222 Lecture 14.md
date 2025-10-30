@@ -16,3 +16,10 @@ Program switches to connect
 	LUT outputs to LUT inputs
 	LUT outputs to output pins
 # Decoders
+![[image-23.png|387x233]]
+Converter from binary to decimal
+Has an `En` (Enable) pin that activates decoder
+If En is 0, no outputs are 1
+If En is 1, exactly 1 output is 1
+	Output is determined by the decimal number represented by inputs
+"one-hot" encoding, only one bit is 1

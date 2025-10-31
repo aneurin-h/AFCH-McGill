@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dde4c45994568395",
+        "id": "a9e326f473e25236",
         "type": "tabs",
         "children": [
           {
-            "id": "be44f423da78b7ef",
+            "id": "f6ba0af37a5bd569",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/ECSE222/ECSE 222 PP3-work.pdf"
+                "file": "Fall2025/FACC100/FACC 100 Lecture 9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ECSE 222 PP3-work"
+              "icon": "lucide-file",
+              "title": "FACC 100 Lecture 9"
             }
           }
         ]
@@ -180,8 +182,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b50ab165f386577",
+  "active": "f6ba0af37a5bd569",
   "lastOpenFiles": [
+    "Fall2025/FACC100/FACC 100 Lecture 9.md",
+    "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
     "Fall2025/MATH338/MATH 338 Lecture 24.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 24 2025-10-31.excalidraw.md",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
@@ -218,7 +222,6 @@
     "Fall2025/-Excalidraw/MATH 338 Lecture 22 2025-10-27.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 20.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 21 2025-10-22.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 21.md",
     "Fall2025/ECSE222/PP3 F25.pdf",
     "Excalidraw",
     "Fall2025/ECSE222/Untitled.pdf",
@@ -226,7 +229,6 @@
     "Fall2025/MATH133",
     "Fall2025/MATH314",
     "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
-    "Fall2025/ECSE222/PP1_-_F25 work.pdf",
-    "Fall2025/ECSE222/ECSE222 PP1.pdf"
+    "Fall2025/ECSE222/PP1_-_F25 work.pdf"
   ]
 }

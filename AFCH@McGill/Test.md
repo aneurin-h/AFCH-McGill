@@ -1,5 +1,2 @@
-$$
-\left[
-
-\right]
-$$
+$$\left[
+\right]$$

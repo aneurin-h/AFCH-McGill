@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-math-plus",
   "obsidian-excalidraw-plugin",
-  "image-converter"
+  "image-converter",
+  "obsidian-latex-suite",
+  "obsidian-tikzjax"
 ]

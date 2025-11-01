@@ -1,7 +1,5 @@
 $$
-\left[ 
+\left[
 
 \right]
-
-
 $$

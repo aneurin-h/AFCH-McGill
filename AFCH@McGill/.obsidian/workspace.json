@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "FACC 100 Lecture 9"
             }
+          },
+          {
+            "id": "0130621021d07b32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +193,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f6ba0af37a5bd569",
+  "active": "0130621021d07b32",
   "lastOpenFiles": [
-    "Fall2025/ECSE222/PP3 Combined.pdf",
     "Fall2025/FACC100/FACC 100 Lecture 9.md",
+    "Fall2025/ECSE222/PP3 Combined.pdf",
     "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
     "Fall2025/MATH338/MATH 338 Lecture 24.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 24 2025-10-31.excalidraw.md",
@@ -228,7 +239,6 @@
     "Fall2025/ECSE222/PP2 F25.pdf",
     "Fall2025/MATH133",
     "Fall2025/MATH314",
-    "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
-    "Fall2025/ECSE222/PP1_-_F25 work.pdf"
+    "Fall2025/ECSE222/ECSE 222 PP1-work.pdf"
   ]
 }

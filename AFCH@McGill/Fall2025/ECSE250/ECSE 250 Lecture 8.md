@@ -11,7 +11,7 @@ Label type does not affect what type an object is, that depends on the class use
 ![[Pasted image 20250929162521.png]]
 Compile checks label, interpreter (JVM) checks object type
 
-![[Pasted image 20250929163430.png]]
+![[Pasted image 20250929163430.png|499x243]]
 
 ### instanceOf keyword
 returns true or false, depending on whether object is instance of specified type

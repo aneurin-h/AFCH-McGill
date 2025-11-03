@@ -13,3 +13,6 @@ Add element to top of the stack
 Remove element from top of the stack
 ### Peek
 Gets the top element of the stack, without removing it
+## Usages
+Call stack
+Parsing mathematical equations

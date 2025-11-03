@@ -8,6 +8,8 @@ Behavior is most important, details of implementation ignored
 Add to end of queue
 ### Dequeues
 Gets first element of the queue
+## Queues With Circular Arrays
+
 ## Usages
 Keyboard buffer
 CPU Processes (Unless priorities or threads)

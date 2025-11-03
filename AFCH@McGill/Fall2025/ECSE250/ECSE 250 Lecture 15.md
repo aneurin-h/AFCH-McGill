@@ -1,6 +1,7 @@
 # Abstract Data Types
 Behavior is most important, details of implementation ignored
 # Queues
+**FIFO** - First In, First Out
 
 # Stacks
 Type of list
@@ -18,3 +19,5 @@ Call stack
 Parsing mathematical equations
 ## Stack Overflow
 If a stack has a finite capacity, and we attempt to push, error is thrown
+## Stack Underflow
+Popping on an empty stack

@@ -11,28 +11,17 @@
             "id": "174adfe7a8ec7a5a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 24 2025-10-31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 24 2025-10-31.excalidraw"
-            }
-          },
-          {
-            "id": "b1c48620c5b32f25",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-loading",
-              "state": {
-                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 23 2025-10-29.excalidraw.md"
+                "file": "Fall2025/ECSE250/ECSE 250 Lecture 15.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Loading Excalidraw... MATH 338 Lecture 23 2025-10-29.excalidraw"
+              "title": "ECSE 250 Lecture 15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 23 2025-10-29.excalidraw.md",
+                "file": "Fall2025/ECSE250/ECSE 250 Lecture 15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MATH 338 Lecture 23 2025-10-29.excalidraw"
+              "title": "Outline of ECSE 250 Lecture 15"
             }
           },
           {
@@ -192,13 +181,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b1c48620c5b32f25",
+  "active": "174adfe7a8ec7a5a",
   "lastOpenFiles": [
+    "Fall2025/-Excalidraw/MATH 338 Lecture 24 2025-10-31.excalidraw.md",
+    "Fall2025/ECSE250/ECSE 250 Lecture 15.md",
+    "Fall2025/MATH338/MATH 338 Lecture 25.md",
+    "Fall2025/MATH133/MATH 133 Tutorial 9.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 25 2025-11-03.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 23 2025-10-29.excalidraw.md",
+    "Fall2025/-Excalidraw/MATH 133 Tutorial 9 2025-11-03.excalidraw.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 22 2025-10-27.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 22.md",
-    "Fall2025/-Excalidraw/MATH 338 Lecture 23 2025-10-29.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 23.md",
-    "Fall2025/-Excalidraw/MATH 338 Lecture 24 2025-10-31.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 24.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 11.md",
     "Test.md",
@@ -215,11 +209,6 @@
     "Excalidraw/MATH 314 Lecture 5 2025-10-21.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 5.md",
     "Fall2025/MATH314/MATH 314 Lecture 6.md",
-    "Fall2025/-Excalidraw/MATH 314 Lecture 7 2025-10-28.excalidraw.md",
-    "Fall2025/MATH314/MATH 314 Lecture 7.md",
-    "Fall2025/MATH314/MATH 314 Lecture 8.md",
-    "Fall2025/-Excalidraw/MATH 133 Lecture 1027 - 16 2025-10-27.excalidraw.md",
-    "Fall2025/MATH133/MATH 133 Lecture 1027 - 16.md",
     "Fall2025/ECSE222/PP3 Combined.pdf",
     "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",

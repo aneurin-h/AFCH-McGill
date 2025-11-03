@@ -3,6 +3,14 @@ Behavior is most important, details of implementation ignored
 # Queues
 **FIFO** - First In, First Out
 
+## Operations
+### Enqueue
+Add to end of queue
+### Dequeues
+Gets first element of the queue
+## Usages
+Keyboard buffer
+CPU Processes (Unless priorities or threads)
 # Stacks
 Type of list
 No operation to access element $i$ directly

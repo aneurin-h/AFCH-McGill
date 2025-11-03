@@ -14,9 +14,20 @@ tail = (head + size - 1) mod length
 **When enqueueing:**
 tail = (tail + 1) mod length
 queue\[tail\] = element
+size++
 
 **When dequeueing:**
+element = queue\[head\]
 head = (head + 1) mod length
+size--
+return element
+### Resizing
+Careful when copying, tail = (head + size - 1) mod length must always be true
+When coping elements over:
+	Copy head at position
+	Copy all others sequentially
+OR:
+	Copy all elements sequentially (head->tail) into the beginning of the list
 
 ## Usages
 Keyboard buffer

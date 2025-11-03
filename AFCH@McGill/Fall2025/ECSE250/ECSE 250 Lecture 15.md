@@ -28,7 +28,6 @@ When coping elements over:
 	Copy all others sequentially
 OR:
 	Copy all elements sequentially (head->tail) into the beginning of the list
-
 ## Usages
 Keyboard buffer
 CPU Processes (Unless priorities or threads)

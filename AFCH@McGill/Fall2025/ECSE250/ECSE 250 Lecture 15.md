@@ -9,6 +9,14 @@ Add to end of queue
 ### Dequeues
 Gets first element of the queue
 ## Queues With Circular Arrays
+tail = (head + size - 1) mod length
+
+**When enqueueing:**
+tail = (tail + 1) mod length
+queue\[tail\] = element
+
+**When dequeueing:**
+head = (head + 1) mod length
 
 ## Usages
 Keyboard buffer

@@ -16,3 +16,5 @@ Gets the top element of the stack, without removing it
 ## Usages
 Call stack
 Parsing mathematical equations
+## Stack Overflow
+If a stack has a finite capacity, and we attempt to push, error is thrown

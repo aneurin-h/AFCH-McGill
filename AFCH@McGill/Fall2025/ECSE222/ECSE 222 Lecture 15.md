@@ -29,5 +29,6 @@ NOT ONE-HOT ENCODED
 Encoders may also have an additional output  `z` which is 0 if all inputs are 0
 	`z` is analogous to the enable input of the decoder
 
+
 # Code Converters
 # Unsigned Number Multiplication

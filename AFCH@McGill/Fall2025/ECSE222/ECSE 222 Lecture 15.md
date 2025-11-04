@@ -32,5 +32,6 @@ Encoders may also have an additional output  `z` which is 0 if all inputs are 0
 # Code Converters
 Converting between different data encodings:
 Ex: BCD -> 7-segment converter/decoder
+![[image-29.png|366x211]]
 
 # Unsigned Number Multiplication

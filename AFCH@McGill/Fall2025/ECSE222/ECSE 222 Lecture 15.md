@@ -8,5 +8,10 @@ $2^n$ input pins $n$ outputs
 Outputs binary address of activated input pin
 No enable pin
 
+## Example: 4->2 Encoder
+Many unused inputs
+All unused inputs set to `don't care`
+Only inputs that we do care about are those with *exactly* one input bit 1
+
 # Code Converters
 # Unsigned Number Multiplication

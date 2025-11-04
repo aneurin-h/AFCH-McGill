@@ -29,6 +29,9 @@ NOT ONE-HOT ENCODED
 Encoders may also have an additional output  `z` which is 0 if all inputs are 0
 	`z` is analogous to the enable input of the decoder
 ![[image-28.png|194x135]]
-
 # Code Converters
+Converting different data encoders:
+Ex:
+	BCD -> 7-segment converter/decoder
+
 # Unsigned Number Multiplication

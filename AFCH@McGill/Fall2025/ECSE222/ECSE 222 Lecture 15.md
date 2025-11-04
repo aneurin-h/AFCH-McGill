@@ -21,6 +21,7 @@ Truth table:
 | 0   | 1     | 0      | 0   | **1**       | **0**       |
 | 1   | 0     | 0      | 0   | **1**       | **1**       |
 | Any | Other | Inputs |     | $\emptyset$ | $\emptyset$ |
+![[image-27.png|456x152]]
 
 # Code Converters
 # Unsigned Number Multiplication

@@ -34,3 +34,8 @@ Converting between different data encodings:
 Ex: BCD -> 7-segment converter/decoder
 ![[image-29.png|366x211]]
 # Unsigned Number Multiplication
+1 bit multiplication is an AND gate
+For larger M and Q:
+![[image-30.png|494x74]]![[image-31.png|351x140]]
+Circuit Diagram:
+![[image-32.png|312x250]]

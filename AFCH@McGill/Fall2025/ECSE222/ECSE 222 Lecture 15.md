@@ -28,7 +28,7 @@ If 2+ inputs are 1, then the highest priority input determines the output
 NOT ONE-HOT ENCODED
 Encoders may also have an additional output  `z` which is 0 if all inputs are 0
 	`z` is analogous to the enable input of the decoder
-
+![[image-28.png|194x135]]
 
 # Code Converters
 # Unsigned Number Multiplication

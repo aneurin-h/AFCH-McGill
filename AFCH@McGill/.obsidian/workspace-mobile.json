@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6633cf7a130225ff",
+        "id": "773c86e6d62a0d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd21fec9bb6c6d0",
+            "id": "16d035be6fa6fe11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/MATH338/MATH 338 Lecture 26.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MATH 338 Lecture 26"
-            }
-          },
-          {
-            "id": "195dff0b65a11de0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 26 2025-11-05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 26 2025-11-05.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +162,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c99c7d6c82c6cddc",
+  "active": "16d035be6fa6fe11",
   "lastOpenFiles": [
+    "Fall2025/MATH133/Untitled",
     "Fall2025/MATH338/MATH 338 Lecture 26.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 26 2025-11-05.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 9.md",
@@ -212,7 +196,6 @@
     "Fall2025/-Assets/image-18.png",
     "Fall2025/-Assets/image-17.png",
     "Fall2025/-Assets/image-16.png",
-    "Fall2025/MATH133/MATH 338 Tutorial 8.md",
     "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
     "Fall2025/ECSE222/PP3 F25.pdf",
     "Fall2025/-Assets/image-14.png",
@@ -222,7 +205,6 @@
     "Fall2025/-Excalidraw",
     "Fall2025/-Assets/Pasted image 20251002090658.png",
     "Fall2025/-Assets",
-    "Fall2025/MATH133/Untitled",
     "Fall2025/ECSE222/Untitled.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
     "Fall2025/ECSE250/MATH133",

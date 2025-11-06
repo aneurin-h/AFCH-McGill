@@ -43,5 +43,7 @@ Contents of sequential circuit blocks contain the state of the circuit
 ## Memory Elements
 ![[image-38.png]]
 Not optimal as we cannot set Q
-## 
+Better Version:
+![[image-39.png|251x236]]
+Allows 
 # Basic Memory Elements - SR Latch

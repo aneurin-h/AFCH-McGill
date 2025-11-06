@@ -35,6 +35,6 @@ Supports writing
 Implemented using a latch (SRAM)
 Regular structure in an array fashion
 Also has a select line (1 = write, 0 = read)
-
 # Sequential Circuits
+
 # Basic Memory Elements - SR Latch

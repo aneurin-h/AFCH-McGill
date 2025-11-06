@@ -20,7 +20,10 @@ If not enabled, output is Z (high impedance/open circuit)
 	Implemented with pass gates
 ### 4 Types of Tri-State Buffer
 ![[image-37.png|309x186]]
-
+## Tri-State Bus
+Multiple Tri-State Buffers, with outputs wired together
+Enable pins selected by decoder
+Using 1-hot encoding, only one input writes to the bus at a time
 # Regular Structures
 # Sequential Circuits
 # Basic Memory Elements - SR Latch

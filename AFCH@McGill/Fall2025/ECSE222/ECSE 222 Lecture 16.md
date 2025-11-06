@@ -36,5 +36,12 @@ Implemented using a latch (SRAM)
 Regular structure in an array fashion
 Also has a select line (1 = write, 0 = read)
 # Sequential Circuits
-
+Sequential Circuits "remember" previous state
+Output at time $t$ depends on inputs at time $t$ and on previous inputs
+Require memory elements
+Contents of sequential circuit blocks contain the state of the circuit
+## Memory Elements
+![[image-38.png]]
+Not optimal as we cannot set Q
+## 
 # Basic Memory Elements - SR Latch

@@ -45,5 +45,13 @@ Contents of sequential circuit blocks contain the state of the circuit
 Not optimal as we cannot set Q
 Better Version:
 ![[image-39.png|251x236]]
-Allows 
+If s=0, signal remains the same
+If s=1, signal can be changed, s=1, Q(t) = 0 -> Q(t+1)=1
+To reset to 0 is more complex
 # Basic Memory Elements - SR Latch
+![[image-40.png|373x119]]
+Expands on previous to allow resetting of memory element
+Q(t) = 1, s=0, R=1 -> Q(t+1)=0
+
+
+![[image-41.png]]

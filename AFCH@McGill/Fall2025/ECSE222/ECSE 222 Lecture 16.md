@@ -18,6 +18,8 @@ Used to delay signal for timing benefits
 Has three ports, (IN, OUT, & EN)
 If not enabled, output is Z (high impedance/open circuit)
 	Implemented with pass gates
+### 4 Types of Tri-State Buffer
+![[image-37.png|309x186]]
 
 # Regular Structures
 # Sequential Circuits

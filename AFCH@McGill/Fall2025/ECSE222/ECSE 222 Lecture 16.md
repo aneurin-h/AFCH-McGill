@@ -53,5 +53,5 @@ To reset to 0 is more complex
 Expands on previous to allow resetting of memory element
 Q(t) = 1, s=0, R=1 -> Q(t+1)=0
 
-
-![[image-41.png]]
+Equivalently drawn as:
+![[image-41.png|373x182]]

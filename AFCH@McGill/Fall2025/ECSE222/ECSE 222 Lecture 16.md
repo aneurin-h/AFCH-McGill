@@ -25,5 +25,7 @@ Multiple Tri-State Buffers, with outputs wired together
 Enable pins selected by decoder
 Using 1-hot encoding, only one input writes to the bus at a time
 # Regular Structures
+## ROM (Read Only Memory)
+
 # Sequential Circuits
 # Basic Memory Elements - SR Latch

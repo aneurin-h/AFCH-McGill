@@ -26,6 +26,15 @@ Enable pins selected by decoder
 Using 1-hot encoding, only one input writes to the bus at a time
 # Regular Structures
 ## ROM (Read Only Memory)
+Preset regular structure of memory - permanent 0s or 1s
+Address line to choose certain memory cell
+Permanent memory - stored through power off
+Cannot be written to
+## RAM (Random Access Memory)
+Supports writing
+Implemented using a latch (SRAM)
+Regular structure in an array fashion
+Also has a select line (1 = write, 0 = read)
 
 # Sequential Circuits
 # Basic Memory Elements - SR Latch

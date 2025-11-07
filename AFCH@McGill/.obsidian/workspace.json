@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "FACC 100 Lecture 10"
             }
+          },
+          {
+            "id": "a0e53fe453948884",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Excalidraw/Template.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Template.excalidraw"
+            }
           }
         ]
       }
@@ -183,6 +195,7 @@
   },
   "active": "080b37acacc937e3",
   "lastOpenFiles": [
+    "Fall2025/-Excalidraw/Template.excalidraw.md",
     "Fall2025/FACC100/FACC 100 Lecture 10.md",
     "Fall2025/MATH338/MATH 338 Lecture 27.md",
     "Fall2025/MATH314/MATH 314 Lecture 10.md",
@@ -218,7 +231,6 @@
     "Fall2025/-Excalidraw/MATH 133 Tutorial 9 2025-11-03.excalidraw.md",
     "Fall2025/-Excalidraw/MATH 338 Lecture 22 2025-10-27.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 22.md",
-    "Fall2025/MATH338/MATH 338 Lecture 23.md",
     "Fall2025/ECSE222/PP3 Combined.pdf",
     "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",

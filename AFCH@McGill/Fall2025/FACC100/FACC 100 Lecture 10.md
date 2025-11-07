@@ -1,1 +1,4 @@
-# EDI
+Ethical Conduct
+Professional Competence
+Social Commitment
+Responsibility

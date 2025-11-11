@@ -15,3 +15,7 @@ Removes $S=R=1$ case
 Means that we can only read when `CLK=0`
 ![[image-49.png]]![[image-50.png|218x162]]
 # Master-Slave D Flip-Flop
+![[image-51.png|309x191]]
+Like a latch, but *edge triggered*
+If the edge is rising, 
+If the edge is falling, 

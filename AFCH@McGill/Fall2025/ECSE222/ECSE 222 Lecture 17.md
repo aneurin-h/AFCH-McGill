@@ -23,6 +23,5 @@ Q takes on the value of D at the falling edge, holds until the next falling edge
 ## Notation
 Triangle denotes edge-triggered
 Dot denotes negative (falling) edge
-
 ## Positive Edge Triggered Master-Slave DFF
 Q latches on D, precisely at the rising (positive) edges of `CLK`

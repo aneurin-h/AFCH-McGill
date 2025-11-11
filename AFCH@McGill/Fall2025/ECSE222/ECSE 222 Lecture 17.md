@@ -25,3 +25,5 @@ Triangle denotes edge-triggered
 Dot denotes negative (falling) edge
 ## Positive Edge Triggered Master-Slave DFF
 Q latches on D, precisely at the rising (positive) edges of `CLK`
+
+If `CLK` and D have edges at the same time, that is a design error

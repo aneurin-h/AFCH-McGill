@@ -17,5 +17,6 @@ Means that we can only read when `CLK=0`
 # Master-Slave D Flip-Flop
 ![[image-51.png|309x191]]
 Like a latch, but *edge triggered*
-If the edge is rising, 
-If the edge is falling, 
+NOT LEVEL SENSITIVE
+Q latches on D, precisely at the falling edge of `CLK`
+Q takes on the value of D at the falling edge, holds until the next falling edge

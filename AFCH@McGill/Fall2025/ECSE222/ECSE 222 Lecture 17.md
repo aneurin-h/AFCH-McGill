@@ -9,3 +9,8 @@ Has a `CLK` Input, operate as SR Latch while `CLK=1`, hold state otherwise
 ![[image-46.png|304x147]]![[image-47.png|181x186]]![[image-48.png]]
 Level sensitive: Change depends on the *level* of `CLK`
 Can be implemented using either AND and NOR gates, or simply all NAND gates
+## Gated Data (D)-Latch
+Has a D input, which is connected to both S and R, with a NOT gate on R
+Removes $S=R=1$ case
+Means that we can only read when `CLK=0`
+![[image-49.png]]![[image-50.png]]

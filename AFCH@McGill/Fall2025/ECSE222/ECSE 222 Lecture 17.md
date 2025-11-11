@@ -13,4 +13,4 @@ Can be implemented using either AND and NOR gates, or simply all NAND gates
 Has a D input, which is connected to both S and R, with a NOT gate on R
 Removes $S=R=1$ case
 Means that we can only read when `CLK=0`
-![[image-49.png]]![[image-50.png]]
+![[image-49.png]]![[image-50.png|218x162]]

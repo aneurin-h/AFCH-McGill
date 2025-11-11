@@ -15,8 +15,11 @@ Removes $S=R=1$ case
 Means that we can only read when `CLK=0`
 ![[image-49.png]]![[image-50.png|218x162]]
 # Master-Slave D Flip-Flop
-![[image-51.png|309x191]]
+![[image-51.png|309x191]]![[image-52.png|194x189]]
 Like a latch, but *edge triggered*
 NOT LEVEL SENSITIVE
 Q latches on D, precisely at the falling edge of `CLK`
 Q takes on the value of D at the falling edge, holds until the next falling edge
+## Notation
+Triangle denotes edge-triggered
+Dot denotes negative (falling) edge

@@ -10,3 +10,4 @@ Less trivial to analyze for recursive functions
 $T(n) = kc+T(n-k)$
 $T(n) = (n-1)c+T(1)$
 $T(n) = (n-1)c+b$
+

@@ -17,3 +17,6 @@ $T(n) = (n-1)c+b$
 $T(1) = a$
 $T(n) = b + cn + T(n-1)$
 $T(n) = c(n+(n-1)+(n-2)+\dots{}+2) + T(1)$
+
+## Tower of Hanoi
+ 

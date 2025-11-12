@@ -19,4 +19,6 @@ $T(n) = b + cn + T(n-1)$
 $T(n) = c(n+(n-1)+(n-2)+\dots{}+2) + T(1)$
 
 ## Tower of Hanoi
- 
+ 1. Move n-1 disks from Start to Other
+ 2. Move nth disk from Start to Finish
+ 3. Move n-1 disks from Other to Finish

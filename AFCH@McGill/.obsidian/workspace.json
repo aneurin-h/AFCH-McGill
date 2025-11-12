@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8c86293a4af2a8",
+        "id": "7e9f7a4ad0e1588c",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7ccacfa816cb3b",
+            "id": "777b90231271aae9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Fall2025/ECSE250/ECSE 250 Lecture 17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "ECSE 250 Lecture 17"
             }
           }
         ]
@@ -180,8 +182,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eb7ccacfa816cb3b",
+  "active": "777b90231271aae9",
   "lastOpenFiles": [
+    "Fall2025/ECSE250/ECSE 250 Lecture 17.md",
+    "Fall2025/MATH338/MATH 338 Lecture 29.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 29 2025-11-12.excalidraw.md",
     "Fall2025/FACC100/FACC 100 Lecture 10.md",
     "Fall2025/MATH314/MATH 314 Lecture 11.md",
     "Fall2025/-Excalidraw/MATH 314 Lecture 11 2025-11-11.excalidraw.md",
@@ -217,9 +222,6 @@
     "Fall2025/MATH314/MATH 314 Lecture 10.md",
     "Fall2025/-Excalidraw/MATH 314 Lecture 10 2025-11-06.excalidraw.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 16.md",
-    "Fall2025/ECSE250/ECSE 250 Lecture 16.md",
-    "Fall2025/MATH133/MATH 133 Lecture 1105 - 19.md",
-    "Fall2025/-Excalidraw/MATH 133 Lecture 1105 - 19 2025-11-05.excalidraw.md",
     "Fall2025/ECSE222/PP3 Combined.pdf",
     "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",

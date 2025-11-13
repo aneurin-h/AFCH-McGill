@@ -21,4 +21,7 @@ $t_{cq}+t_{NOT}\geq t_{h}$
 Clear and Preset are negated inputs
 Clear = 0, Q is forced to 0
 Preset = 0, Q is forced to 1,
-both 0, undefined(?)
+## Asynchronous
+Clear/Preset are overrides, allowing value to change outside of Clock cycles
+Normal operation resumes at next clock edge
+## Synchronous

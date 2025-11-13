@@ -11,3 +11,5 @@ Hold time $t_{h}$ : D must be stable for $t_{h}$ *after* the positive edge of th
 ## Avoiding Violations
 1. Make sure that clock period is sufficiently long to avoid setup time violations
 2. Check for hold time violations
+![[image-55.png|441x209]]
+$T\geq t_{su} + t_{cq}+t_{gates}$ Minimum clock period is the sum of setup, clock-to-Q time, and any gates between flipflops

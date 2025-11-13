@@ -11,12 +11,12 @@
             "id": "6131ebc66406c6b7",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
+              "type": "pdf",
               "state": {
-                "file": "Fall2025/-Assets/Tldraw 2025-11-13 4.50PM.md"
+                "file": "Testing/test.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tldraw 2025-11-13 4.50PM"
+              "icon": "lucide-file-text",
+              "title": "test"
             }
           }
         ]

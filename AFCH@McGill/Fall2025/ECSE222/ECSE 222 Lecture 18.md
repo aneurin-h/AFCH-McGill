@@ -25,3 +25,4 @@ Preset = 0, Q is forced to 1,
 Clear/Preset are overrides, allowing value to change outside of Clock cycles
 Normal operation resumes at next clock edge
 ## Synchronous
+Clear and Preset changes only have effect at the next positive clock edge

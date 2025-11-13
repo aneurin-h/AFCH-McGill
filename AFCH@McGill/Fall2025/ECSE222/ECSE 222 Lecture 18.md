@@ -1,2 +1,4 @@
 Lecture 16 Slides
 # Timing in Sequential Circuits
+## Timing Parameters and Violations
+$t_{cq}$ changes to Q occur after the positive edge of the clock

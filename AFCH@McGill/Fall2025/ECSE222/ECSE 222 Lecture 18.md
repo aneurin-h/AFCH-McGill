@@ -14,3 +14,4 @@ Hold time $t_{h}$ : D must be stable for $t_{h}$ *after* the positive edge of th
 Two Flip Flop Example
 ![[image-55.png|441x209]]
 $T\geq t_{su} + t_{cq}+t_{gates}$ Minimum clock period is the sum of setup, clock-to-Q time, and any gates between flipflops
+$t_{cq}+t_{NOT}\geq t_{h}$

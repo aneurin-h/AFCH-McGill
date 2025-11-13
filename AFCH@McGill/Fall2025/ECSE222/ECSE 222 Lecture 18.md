@@ -8,3 +8,6 @@ Setup time $t_{su}$ : D must be stable for $t_{su}$ before the positive edge of 
 Hold time $t_{h}$ : D must be stable for $t_{h}$ *after* the positive edge of the CLK
 	Important for same reasons as $t_{su}$
 	Violation: D changes less than $t_{h}$ after the positive edge of the CLK
+## Avoiding Violations
+1. Make sure that clock period is sufficiently long to avoid setup time violations
+2. Check for hold time violations

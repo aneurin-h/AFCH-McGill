@@ -40,4 +40,3 @@ If J & K toggle
 Combines TFF and SR Latch
 	J=S, K=R
 	Exception is J=K=1, which toggles
-	

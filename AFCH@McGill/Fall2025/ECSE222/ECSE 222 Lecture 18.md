@@ -4,3 +4,7 @@ Lecture 16 Slides
 Clock-to-Q time $t_{cq}$ : changes to Q occur after the positive edge of CLK
 Setup time $t_{su}$ : D must be stable for $t_{su}$ before the positive edge of CLK
 	Important because CLK edge may vary by a few nanoseconds
+	Violation: D changes less than $t_{su}$ before the positive edge of the CLK
+Hold time $t_{h}$ : D must be stable for $t_{h}$ *after* the positive edge of the CLK
+	Important for same reasons as $t_{su}$
+	Violation: D changes less than $t_{h}$ after the positive edge of the CLK

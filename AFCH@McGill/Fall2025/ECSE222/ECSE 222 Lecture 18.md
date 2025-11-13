@@ -17,3 +17,8 @@ $T\geq t_{su} + t_{cq}+t_{gates}$ Minimum clock period is the sum of setup, cloc
 $t_{cq}+t_{NOT}\geq t_{h}$
 100>=25+40+20 -> 100>=85 Y
 18+10 >= 22 -> 28 >=22 Y
+# DFF with Clear and Preset Inputs
+Clear and Preset are negated inputs
+Clear = 0, Q is forced to 0
+Preset = 0, Q is forced to 1,
+both 0, undefined(?)

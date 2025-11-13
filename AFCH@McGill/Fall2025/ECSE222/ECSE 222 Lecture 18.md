@@ -26,3 +26,18 @@ Clear/Preset are overrides, allowing value to change outside of Clock cycles
 Normal operation resumes at next clock edge
 ## Synchronous
 Clear and Preset changes only have effect at the next positive clock edge
+# Toggle Flip Flop
+![[image-56.png|140x119]]![[image-57.png|123x119]]![[image-58.png|254x119]]
+Maintains state when T=0, toggles when T = 1
+Still works on Clock signal
+Useful in counters
+# JKFF
+![[image-59.png|123x119]]![[image-60.png|108x119]]![[image-61.png|218x119]]
+If J & K are 0, read from memory,
+If only K, reset,
+If only J set
+If J & K toggle
+Combines TFF and SR Latch
+	J=S, K=R
+	Exception is J=K=1, which toggles
+	

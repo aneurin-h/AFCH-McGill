@@ -1,10 +1,10 @@
 {
   "disableDoubleClickTextEditing": true,
-  "folder": "Fall2025/-Excalidraw",
+  "folder": "Fall2025/-Drawings",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": true,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "templateFilePath": "Fall2025/-Drawings/Template",
   "scriptFolderPath": "Excalidraw/Scripts",
   "fontAssetsPath": "Excalidraw/CJK Fonts",
   "loadChineseFonts": false,

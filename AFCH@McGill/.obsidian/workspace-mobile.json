@@ -11,13 +11,30 @@
             "id": "326384e76adb9be1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/MATH338/MATH 338 Lecture 30.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MATH 338 Lecture 30"
+            }
+          },
+          {
+            "id": "f026657bf218c79b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 30 2025-11-14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 338 Lecture 30 2025-11-14.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +181,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "326384e76adb9be1",
+  "active": "f026657bf218c79b",
   "lastOpenFiles": [
+    "Fall2025/MATH338/MATH 338 Lecture 30.md",
+    "Fall2025/-Excalidraw/MATH 338 Lecture 30 2025-11-14.excalidraw.md",
+    "Fall2025/-Excalidraw",
+    "Fall2025/MATH338/-Drawings/Tldraw 2025-11-14 8.31AM.md",
+    "Fall2025/MATH338/-Drawings",
     "-Drawings/Tldraw 2025-11-13 5.17PM.md",
     "A.md",
     "-Drawings/Tldraw 2025-11-13 5.14PM.md",
@@ -204,14 +226,9 @@
     "Fall2025/-Assets/image-46.png",
     "Fall2025/-Drawings/MATH 133 Tutorial 10 2025-11-10.excalidraw.md",
     "Fall2025/MATH133/MATH 133 Tutorial 10.md",
-    "Fall2025/MATH338/MATH 338 Lecture 27.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 28 2025-11-10.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 28.md",
     "Fall2025/ECSE222/ECSE 222 PP4-work.pdf",
     "Fall2025/ECSE222/ECSE 222 PP4 Combined.pdf",
     "Fall2025/MATH133/Untitled",
-    "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
-    "Fall2025/ECSE222/PP3 F25.pdf",
     "Untitled.canvas"
   ]
 }

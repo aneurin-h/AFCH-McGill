@@ -29,6 +29,6 @@ Preorder Traversal
 	Visit a node
 	Preorder Traversal of each subtree (its children)
 	VISIT ROOT BEFORE CHILDREN
-	
 Postorder Traversal
-	
+	Subtree traversed first
+	Then node is visited

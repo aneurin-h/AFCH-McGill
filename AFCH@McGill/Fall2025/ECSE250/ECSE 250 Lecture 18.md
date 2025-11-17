@@ -46,3 +46,6 @@ height(node){
 }
 ```
 # Recursive Search
+## Depth First Search (DFS)
+Start at initial cell
+Recursively explore neighbors

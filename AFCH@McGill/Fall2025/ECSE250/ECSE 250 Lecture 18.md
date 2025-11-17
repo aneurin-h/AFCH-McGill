@@ -28,4 +28,7 @@ For each level, visit all nodes at that level
 Preorder Traversal
 	Visit a node
 	Preorder Traversal of each subtree (its children)
+	VISIT ROOT BEFORE CHILDREN
+	
+Postorder Traversal
 	

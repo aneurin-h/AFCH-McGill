@@ -49,3 +49,7 @@ height(node){
 ## Depth First Search (DFS)
 Start at initial cell
 Recursively explore neighbors
+Backtrack if no solution
+
+Use a boolean array to track which cells are visited
+Mark cell as visited when we arrive

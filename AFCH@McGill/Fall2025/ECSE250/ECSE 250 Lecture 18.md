@@ -32,3 +32,17 @@ Preorder Traversal
 Postorder Traversal
 	Subtree traversed first
 	Then node is visited
+## Computing Height
+```java
+height(node){
+	if(node has no children){
+		return 0;
+	} else {
+		h = 0;
+		for each child
+			h = max(h, height(child))
+		return 1 + h;
+	}
+}
+```
+# Recursive Search

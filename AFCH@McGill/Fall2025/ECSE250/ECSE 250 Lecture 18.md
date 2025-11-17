@@ -53,3 +53,19 @@ Backtrack if no solution
 
 Use a boolean array to track which cells are visited
 Mark cell as visited when we arrive
+```java
+DFS(current){
+	if current is target
+		add current to front of path
+		return true;
+	
+	mark current as visitited
+	
+	for each direction
+		if neighbor is not visited and is free
+			if(DFS(neighbor))
+				add current to front of path
+				return true;
+	return false;
+}
+```

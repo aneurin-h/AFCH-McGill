@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ad56dab7de7fb08c",
+        "id": "51cc3573c289e6d4",
         "type": "tabs",
         "children": [
           {
-            "id": "326384e76adb9be1",
+            "id": "920c185cea3c8580",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 30 2025-11-14.excalidraw.md"
+                "file": "Fall2025/ECSE222/Exam 2 Prep.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 30 2025-11-14.excalidraw"
+              "icon": "lucide-file",
+              "title": "Exam 2 Prep"
+            }
+          },
+          {
+            "id": "a8c18e5fc9df4159",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-view",
+              "state": {
+                "file": "Fall2025/ECSE222/-Drawings/Tldraw 2025-11-16 5.32PM.md"
+              },
+              "icon": "lucide-file",
+              "title": "Tldraw 2025-11-16 5.32PM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +181,17 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "326384e76adb9be1",
+  "active": "a8c18e5fc9df4159",
   "lastOpenFiles": [
-    "Fall2025/MATH338/MATH 338 Lecture 30.md",
+    "Fall2025/-Assets/7c9d42de-626a-4185-a853-52b8cb727e05-asset-svg.svg+xml",
+    "Fall2025/ECSE222/Exam 2 Prep.md",
+    "Fall2025/ECSE222/-Drawings/Tldraw 2025-11-16 5.32PM.md",
+    "Fall2025/ECSE222/-Drawings",
+    "Fall2025/-Assets/image-1.png",
+    "-Drawings/Tldraw 2025-11-16 5.28PM.md",
+    "-Drawings",
     "Fall2025/-Drawings/MATH 338 Lecture 30 2025-11-14.excalidraw.md",
+    "Fall2025/MATH338/MATH 338 Lecture 30.md",
     "Fall2025/-Drawings/Template.excalidraw.md",
     "Fall2025/-Excalidraw",
     "Fall2025/MATH338/-Drawings/Tldraw 2025-11-14 8.31AM.md",
@@ -177,7 +199,6 @@
     "-Drawings/Tldraw 2025-11-13 5.17PM.md",
     "A.md",
     "-Drawings/Tldraw 2025-11-13 5.14PM.md",
-    "-Drawings",
     "Fall2025/ECSE222/ECSE 222 Lecture 6.md",
     "Fall2025/-Drawings/Tldraw 2025-11-13 5.13PM.md",
     "Tldraw 2025-11-13 5.08PM.md",
@@ -200,20 +221,14 @@
     "Fall2025/-Drawings/MATH 338 Lecture 29 2025-11-12.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 11.md",
     "Fall2025/-Drawings/MATH 314 Lecture 11 2025-11-11.excalidraw.md",
-    "Fall2025/MATH133/MATH 133 Lecture 1110 - 20.md",
-    "Fall2025/ECSE222/ECSE 222 Lecture 17.md",
-    "Fall2025/-Drawings/MATH 133 Lecture 1110 - 20 2025-11-10.excalidraw.md",
     "Fall2025/-Assets/image-52.png",
     "Fall2025/-Assets/image-51.png",
     "Fall2025/-Assets/image-50.png",
     "Fall2025/-Assets/image-49.png",
     "Fall2025/-Assets/image-48.png",
     "Fall2025/-Assets/image-47.png",
-    "Fall2025/-Assets/image-46.png",
-    "Fall2025/-Drawings/MATH 133 Tutorial 10 2025-11-10.excalidraw.md",
     "Fall2025/ECSE222/ECSE 222 PP4-work.pdf",
     "Fall2025/ECSE222/ECSE 222 PP4 Combined.pdf",
-    "Fall2025/MATH133/Untitled",
     "Untitled.canvas"
   ]
 }

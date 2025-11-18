@@ -69,3 +69,4 @@ DFS(current){
 	return false;
 }
 ```
+Mark as visited before next recursive call, otherwise will have potential to loop

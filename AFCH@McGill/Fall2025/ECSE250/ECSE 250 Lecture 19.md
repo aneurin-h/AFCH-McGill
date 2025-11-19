@@ -65,4 +65,22 @@ $\Omega(1),O(n)$
 	Find Node
 		If present, remove and replace with closest node
 			If missing a subtree replace with the only present one
+		If both subtrees are present:
+			Find the node with the closest element
+			Either: Smallest in right subtree, or largest in left subtree
+```java
+remove(key){
+	BSTNode node = find(root, key)
+	if(node == null) return null
+	
+	if(node.left != null){
+		if(node.right != null){
+			node = findMax(node.left) // Arbitrary Choice over findMin(node.right)
+		} else{
+			node = node.left
+		}
+	} else {
 		
+	}
+}
+```

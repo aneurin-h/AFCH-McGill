@@ -69,18 +69,22 @@ $\Omega(1),O(n)$
 			Find the node with the closest element
 			Either: Smallest in right subtree, or largest in left subtree
 ```java
-remove(key){
-	BSTNode node = find(root, key)
-	if(node == null) return null
-	
-	if(node.left != null){
-		if(node.right != null){
-			node = findMax(node.left) // Arbitrary Choice over findMin(node.right)
-		} else{
-			node = node.left
-		}
-	} else {
+remove(node, key){
+	if(node == null)
+		return null
+	else if (key < node.key)
+		node.left = remove(node.left, key)
+	else if (key > node.key)
+		node.right = remove(node.right, key)
+	//Found node to remove
+	else if (node.left == null)
+		node = node.right
+	else if (node.right == null)
+		node = node.left
+	else
+		node.key = findMin(node.right) // Arbitrary vs findMax(node.left)
+		node.right = remove(node.right, node.key)
 		
-	}
+	reurn node
 }
 ```

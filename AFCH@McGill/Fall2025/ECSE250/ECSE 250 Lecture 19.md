@@ -40,6 +40,10 @@ $\Omega(1), O(n)$
 **Find Key**
 ```java
 find(node, key){
-	if n
+	if(node == null) return null
+	if(node.key == key) return node
+	
+	if(node.key.compareTo(key)) return find(node.left, key)
+	else return find(nod)
 }
 ```

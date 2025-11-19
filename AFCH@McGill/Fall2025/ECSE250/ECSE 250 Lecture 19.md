@@ -44,6 +44,7 @@ find(node, key){
 	if(node.key == key) return node
 	
 	if(node.key.compareTo(key) < 0) return find(node.left, key)
+	
 	else return find(node.right, key)
 }
 ```
@@ -59,3 +60,9 @@ add(node, key){
 	return node;
 }
 ```
+$\Omega(1),O(n)$
+**Remove**
+	Find Node
+		If present, remove and replace with closest node
+			If missing a subtree replace with the only present one
+		

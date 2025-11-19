@@ -18,3 +18,21 @@ In-order traversal sorts the list
 	Thus sorting algorithm is unnecessary (an improvement over $O(N)$)
 ## Finding Elements in BST
 **Find Min** - Always descend to the left child, until not present
+```java
+findMin(node){
+	if(node == null) return null
+	if(node.left == null) return node;
+	
+	return findMin(node.left);
+}
+```
+**Find Max** - Always descend to the right child, until not present
+```java
+findMax(node){
+	if(node == null) return null
+	if(node.right == null) return node;
+	
+	return findMax(node.right);
+}
+```
+**Find With Key (get)** - 

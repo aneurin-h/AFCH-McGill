@@ -43,7 +43,8 @@ find(node, key){
 	if(node == null) return null
 	if(node.key == key) return node
 	
-	if(node.key.compareTo(key)) return find(node.left, key)
-	else return find(nod)
+	if(node.key.compareTo(key) < 0) return find(node.left, key)
+	else return find(node.right, key)
 }
 ```
+$\Omega(1),O(n)$

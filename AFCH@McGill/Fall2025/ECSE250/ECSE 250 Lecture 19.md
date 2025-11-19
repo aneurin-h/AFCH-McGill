@@ -91,3 +91,4 @@ remove(node, key){
 $\Omega(1),O(n)$
 ## Balanced vs Unbalanced
 Balanced if difference between the height of the children is at most 1 for every node
+

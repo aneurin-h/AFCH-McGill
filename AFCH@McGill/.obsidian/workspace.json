@@ -11,10 +11,14 @@
             "id": "a2d33930c22973f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/ECSE250/ECSE 250 Lecture 18.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ECSE 250 Lecture 18"
             }
           }
         ]
@@ -180,8 +184,14 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "a2d33930c22973f7",
+  "active": "4b50ab165f386577",
   "lastOpenFiles": [
+    "Fall2025/MATH314/MATH 314 Lecture 13.md",
+    "Fall2025/MATH133/MATH 133 Lecture 1117 - 22.md",
+    "Fall2025/-Drawings/Templates/Template.excalidraw.md",
+    "Fall2025/-Drawings/Templates",
+    "Fall2025/-Drawings/MATH 314 Lecture 13 2025-11-18.excalidraw.md",
+    "Fall2025/-Drawings/MATH 133 Lecture 1117 - 22 2025-11-17.excalidraw.md",
     "Fall2025/ECSE250/ECSE 250 Lecture 18.md",
     "Fall2025/MATH338/MATH 338 Lecture 31.md",
     "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md",
@@ -206,11 +216,6 @@
     "Fall2025/-Drawings/MATH 338 Tutorial 8 2025-10-27.excalidraw.md",
     "Fall2025/-Drawings/MATH 338 Lecture 28 2025-11-10.excalidraw.md",
     "Fall2025/-Drawings/MATH 338 Lecture 27 2025-11-07.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 26 2025-11-05.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 25 2025-11-03.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 24 2025-10-31.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 23 2025-10-29.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 22 2025-10-27.excalidraw.md",
     "Fall2025/-Drawings",
     "Fall2025/-Assets/image-61.png",
     "Fall2025/-Assets/image-60.png",
@@ -226,7 +231,6 @@
     "Fall2025/ECSE222/PP4 F25.pdf",
     "Fall2025/ECSE222/PP3 Combined.pdf",
     "Fall2025/ECSE222/ECSE 222 PP3-work.pdf",
-    "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
-    "Fall2025/ECSE222/PP3 F25.pdf"
+    "Fall2025/ECSE222/ECSE 222 PP2-work.pdf"
   ]
 }

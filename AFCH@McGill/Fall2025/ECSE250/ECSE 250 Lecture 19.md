@@ -52,8 +52,10 @@ $\Omega(1),O(n)$
 ```java
 add(root, n)
 add(node, key){
-	if(node == null) node.element = key
+	if(node == null) node = new BSTNode(key)
 	if(key < node.key) node.left = add(node.left, key)
-	if(key > node.key) node.right = add(node.right)
+	if(key > node.key) node.right = add(node.right, key)
+	
+	return node;
 }
 ```

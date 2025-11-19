@@ -37,7 +37,7 @@ findMax(node){
 }
 ```
 $\Omega(1), O(n)$
-**Find Key**
+**Find Key** - finds the node con
 ```java
 find(node, key){
 	if(node == null) return null
@@ -48,3 +48,6 @@ find(node, key){
 }
 ```
 $\Omega(1),O(n)$
+**Add** - Add element, while respecting ordering rules
+```
+```

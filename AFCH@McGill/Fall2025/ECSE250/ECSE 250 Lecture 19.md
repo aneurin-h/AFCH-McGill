@@ -26,6 +26,7 @@ findMin(node){
 	return findMin(node.left);
 }
 ```
+$\Omega(1), O(n)$
 **Find Max** - Always descend to the right child, until not present
 ```java
 findMax(node){
@@ -35,5 +36,10 @@ findMax(node){
 	return findMax(node.right);
 }
 ```
-
-$$
+$\Omega(1), O(n)$
+**Find Key**
+```java
+find(node, key){
+	if n
+}
+```

@@ -88,3 +88,5 @@ remove(node, key){
 	return node
 }
 ```
+$\Omega(1),O(n)$
+## Balanced BST

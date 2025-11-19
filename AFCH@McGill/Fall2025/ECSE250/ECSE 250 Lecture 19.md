@@ -50,8 +50,10 @@ find(node, key){
 $\Omega(1),O(n)$
 **Add** - Add element, while respecting ordering rules
 ```java
-add(node = root, key){
+add(root, n)
+add(node, key){
 	if(node == null) node.element = key
-	if()
+	if(key < node.key) node.left = add(node.left, key)
+	if(key > node.key) node.right = add(node.right)
 }
 ```

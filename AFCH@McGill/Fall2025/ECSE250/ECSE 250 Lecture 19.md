@@ -7,4 +7,14 @@ Adds **inorder** traversal, where node is visited between left and right child
 Elements are comparable and UNIQUE
 For each node, all descendants in left subtree are less than the node's element
 	likewise the opposite is true for the right subtree
-	
+```java
+class BSTNode<K>{
+	K key;
+	BSTNode<K> leftNode;
+	BSTNode<K> rightNode;
+}
+```
+In-order traversal sorts the list
+	Thus sorting algorithm is unnecessary (an improvement over $O(N)$)
+## Finding Elements in BST
+**Find Min** - Always descend to the left child, until not present

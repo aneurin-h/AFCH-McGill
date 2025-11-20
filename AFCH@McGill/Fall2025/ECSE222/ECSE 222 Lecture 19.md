@@ -8,3 +8,6 @@ Otherwise, on a CLK rising edge, the state is output
 n DFFs, all tied to same CLK signal
 D pins are driven by a MUX switching on load, with the current state and the input as its inputs
 # Shift Registers
+Inputs: $In\:\&\: Clk$
+Shifts outputs to the next ($n\to n+1$) output on $Clk$ rising edge
+Last bit is discarded

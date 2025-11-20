@@ -23,5 +23,9 @@ Used for parallel to serial conversion, or for serial to parallel conversion
 # Counters
 ## Up-Counters
 Counts up, at positive Clk edge
+## 1-Bit counter
+Counts modulo 2, ie $0\to 1 \to 0 \to 1 \to 0 \to 1 \to\dots$
+Implemented via TFF
+Frequency divider, will halve the frequency of the Clk input
 ## Down-Counters
 Counts down, at positive Clk edge

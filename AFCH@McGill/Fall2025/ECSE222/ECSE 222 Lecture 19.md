@@ -31,6 +31,9 @@ Frequency divider, will halve the frequency of the CLK input
 Counts up through 0,1,2,3 and then overflows and repeats
 $Q_{1} \text{ changes at the falling edge of }Q_{0}$
 Implementation, 2 TFFs, with the CLK of the second driven by the negation of output of the first
-
+## 3-Bits (Asynchronous Up)
+Same as above, but 0-7 counting, ie modulo 8
+Implementation:
+Same as above, with the third TFF also being set to the falling edge of the second TFF
 ## Down-Counters
 Counts down, at positive CLK edge

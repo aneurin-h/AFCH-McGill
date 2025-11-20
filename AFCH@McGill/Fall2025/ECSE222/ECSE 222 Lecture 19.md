@@ -19,3 +19,4 @@ Inputs: load/shift, In, Clk, as well as parallel inputs
 Outputs: Parallel outputs, and serial out
 load/shift = 0, Input is shifted in at next clock cycle
 load/shift = 1, Loads from parallel input at next clock cycle
+Used for parallel to serial conversion, or for serial to parallel conversion

@@ -42,3 +42,4 @@ TFFs toggle on positive edges of the previous
 
 # Asynchronous
 Due to $t_{cq}$ delay, changes have to ripple through counter
+if $nt_{cq}$ exceeds clock period, can cause errors when reading parallel out

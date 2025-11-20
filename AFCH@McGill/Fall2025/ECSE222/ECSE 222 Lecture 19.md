@@ -7,4 +7,4 @@ Otherwise, on a CLK rising edge, the state is output
 ## Implementation
 n DFFs, all tied to same CLK signal
 D pins are driven by a MUX switching on load, with the current state and the input as its inputs
-# Shift
+# Shift Registers

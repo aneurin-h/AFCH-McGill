@@ -39,3 +39,6 @@ Same as above, with the third TFF also being set to the falling edge of the seco
 Counts down, at positive CLK edge
 ## 3 Bit (Asynchronous Down)
 TFFs toggle on positive edges of the previous
+
+# Asynchronous
+Due to $t_{cq}$ delay, changes have to ripple through counter

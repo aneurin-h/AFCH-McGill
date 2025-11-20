@@ -17,3 +17,5 @@ D input is driven by output of previous flip flop, or the input in the n=0 case
 # Parallel Access Shift Register
 Inputs: load/shift, In, Clk, as well as parallel inputs
 Outputs: Parallel outputs, and serial out
+load/shift = 0, Input is shifted in at next clock cycle
+load/shift = 1, Loads from parallel input at next clock cycle

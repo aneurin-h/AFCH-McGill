@@ -27,5 +27,10 @@ Counts up, at positive CLK edge
 Counts modulo 2, i.e. $0\to 1 \to 0 \to 1 \to 0 \to 1 \to\dots$
 Implemented via TFF
 Frequency divider, will halve the frequency of the CLK input
+## 2-Bit Asynchronous Up-Counter
+Counts up through 0,1,2,3 and then overflows and repeats
+$Q_{1} \text{ changes at the falling edge of }Q_{0}$
+Implementation, 2 TFFs, with the CLK of the second driven by the negation of output of the first
+
 ## Down-Counters
 Counts down, at positive CLK edge

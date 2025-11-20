@@ -14,3 +14,6 @@ Last bit is discarded
 ## Implementation
 n DFFs
 D input is driven by output of previous flip flop, or the input in the n=0 case
+# Parallel Access Shift Register
+Inputs: load/shift, In, Clk, as well as parallel inputs
+Outputs: Parallel outputs, and serial out

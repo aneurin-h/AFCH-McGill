@@ -11,3 +11,6 @@ D pins are driven by a MUX switching on load, with the current state and the inp
 Inputs: $In\:\&\: Clk$
 Shifts outputs to the next ($n\to n+1$) output on $Clk$ rising edge
 Last bit is discarded
+## Implementation
+n DFFs
+D input is driven by output of previous flip flop, or the input in the n=0 case

@@ -11,10 +11,14 @@
             "id": "2f9499b4ad56d728",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fall2025/FACC100/FACC 100 Lecture 11.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "FACC 100 Lecture 11"
             }
           }
         ]

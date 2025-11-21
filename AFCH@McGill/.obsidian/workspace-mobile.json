@@ -11,14 +11,12 @@
             "id": "2b2d3cbd0e8ef363",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Fall2025/MATH338/MATH 338 Lecture 32.md",
-                "mode": "source",
-                "source": false
+                "file": "Fall2025/ECSE222/PP5 F25.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MATH 338 Lecture 32"
+              "icon": "lucide-file-text",
+              "title": "PP5 F25"
             }
           }
         ]
@@ -170,8 +168,8 @@
   },
   "active": "2b2d3cbd0e8ef363",
   "lastOpenFiles": [
-    "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 32.md",
+    "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 13.md",
     "Fall2025/-Drawings/MATH 314 Lecture 13 2025-11-18.excalidraw.md",
     "Fall2025/-Drawings/MATH 133 Lecture 1117 - 22 2025-11-17.excalidraw.md",

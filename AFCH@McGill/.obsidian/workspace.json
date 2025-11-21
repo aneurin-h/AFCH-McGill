@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b293dd565ff9798f",
+        "id": "59cc10a0ee9c5e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "a2d33930c22973f7",
+            "id": "2f9499b4ad56d728",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/FACC100/FACC 100 Lecture 11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FACC 100 Lecture 11"
+              "title": "New tab"
             }
           }
         ]
@@ -184,10 +180,12 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "a2d33930c22973f7",
+  "active": "2f9499b4ad56d728",
   "lastOpenFiles": [
-    "Fall2025/ECSE222/ECSE 222 Lecture 19.md",
+    "Fall2025/Written/MATH314 - Copy.svgz",
+    "Fall2025/Written/MATH314 - Copy.svg",
     "Fall2025/FACC100/FACC 100 Lecture 11.md",
+    "Fall2025/ECSE222/ECSE 222 Lecture 19.md",
     "Fall2025/Written/MATH338.svgz",
     "Fall2025/Written/MATH314.svgz",
     "Fall2025/Written/MATH133.svgz",
@@ -219,7 +217,6 @@
     "Fall2025/-Drawings/Template.excalidraw.md",
     "Fall2025/-Drawings/Scratchpad 2025-10-23.excalidraw.md",
     "Fall2025/-Drawings/Scratchpad 2025-09-27.excalidraw.md",
-    "Fall2025/-Drawings/Midterm Prep 2025-10-17.excalidraw.md",
     "Fall2025/-Drawings",
     "Fall2025/-Assets/image-61.png",
     "Fall2025/-Assets/image-60.png",
@@ -229,8 +226,6 @@
     "Fall2025/-Assets/image-56.png",
     "Fall2025/-Assets/image-55.png",
     "Fall2025/-Assets/image-54.png",
-    "Fall2025/-Assets/image-53.png",
-    "Fall2025/-Assets/image-52.png",
-    "Fall2025/ECSE222/ECSE 222 PP4-work.pdf"
+    "Fall2025/-Assets/image-53.png"
   ]
 }

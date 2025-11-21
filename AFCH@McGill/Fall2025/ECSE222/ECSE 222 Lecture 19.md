@@ -44,3 +44,5 @@ TFFs toggle on positive edges of the previous
 Due to $t_{cq}$ delay, changes have to ripple through counter
 if $nt_{cq}$ exceeds clock period, can cause errors when reading parallel out
 # Synchronous
+Toggle at positive edge of clock, as long as both current and previous are $1$
+All FFs use same clock signal, no cascaded delay

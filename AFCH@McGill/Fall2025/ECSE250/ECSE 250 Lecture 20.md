@@ -81,4 +81,11 @@ getSmallerChildIndex(i)
 			return rightChildIndex
 		return leftChildIndex
 ```
-## Finding
+## Finding Shortest Path
+Node Class
+```java
+Node
+	Point p
+	int distance
+	Node parent
+```

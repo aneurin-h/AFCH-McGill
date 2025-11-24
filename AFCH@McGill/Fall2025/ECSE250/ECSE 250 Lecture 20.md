@@ -18,8 +18,20 @@ DOES NOT HAVE TO ADHERE TO THE LEFT < RIGHT RULE FROM BINARY SEARCH TREE
 Ordering of elements in a level don't matter for heapness
 ## Add
 Put in next available spot, and then **heapify** (swap with parent until inequalities are satisfied (IE child is greater than parent in min heap))
-Timing
+**Timing:**
 	Worst Case:
-	$O(\lfloor \log(n) \rfloor)$
+	$O(\lfloor \log(n) \rfloor)$ More efficient over BST due to our placement rules
 	Best Case:
 	$\Omega(1)$
+## Remove
+Remove the root, replace with the latest added element, heapify
+- SWAP WITH SMALLEST CHILD NODE
+![[image-64.png|147x102]]Put at root
+![[image-65.png|147x135]]Swap with smallest child
+No More Swaps needed
+## Implementation
+Most commonly implemented using an array
+Put into array using the priority numberings (except for index 0)
+![[image-66.png|319x186]]
+Incomplete tree would cause a gap in the array (hence we can't use them)
+

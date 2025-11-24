@@ -13,5 +13,6 @@ Options to implement
 	Heaps
 # Heap
 A **complete binary tree with comparable keys**
-DOES NOT HAVE TO ADHERE TO HTE LEFT < RIGHT FROM BINARY SEARCH TREE
+DOES NOT HAVE TO ADHERE TO THE LEFT < RIGHT RULE FROM BINARY SEARCH TREE
 ![[image-63.png|348x130]]
+Ordering of elements in a level don't matter for heapness

@@ -52,8 +52,17 @@ add()
 	i = size;
 	while(i > 1 & heap[i] < heap[i/2])
 		// Swap upwards
-		T temp = heap[i];
-		heap[i] = heap[i/2];
-		heap[i/2] = temp;
+		T temp = heap[i]
+		heap[i] = heap[i/2]
+		heap[i/2] = temp
 		i = i/2 //INTEGER DIVISION IMPORTANT
+		
+removeMin()
+	temp = heap[1]
+	heap[1] = heap[size]
+	size--
+	heapifyDown()
+
+heapifyDown()
+	
 ```

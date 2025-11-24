@@ -11,10 +11,12 @@
             "id": "09559bf0985acbcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 338 Lecture 31 2025-11-17.excalidraw"
             }
           }
         ]
@@ -166,6 +168,7 @@
   },
   "active": "09559bf0985acbcf",
   "lastOpenFiles": [
+    "Fall2025/MATH338/MATH 338 Lecture 31.md",
     "Fall2025/ECSE222/PP5 F25.pdf",
     "Fall2025/MATH338/MATH 338 Lecture 32.md",
     "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md",
@@ -177,7 +180,6 @@
     "Fall2025/-Drawings/Templates",
     "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 30.md",
-    "Fall2025/MATH338/MATH 338 Lecture 31.md",
     "Fall2025/ECSE222/Exam 2 Prep.md",
     "Fall2025/ECSE222/-Drawings/Tldraw 2025-11-16 5.32PM.md",
     "Fall2025/-Assets/7c9d42de-626a-4185-a853-52b8cb727e05-asset-svg.svg+xml",
@@ -211,7 +213,6 @@
     "Fall2025/-Assets/image-49.png",
     "Fall2025/-Assets/image-48.png",
     "Fall2025/-Assets/image-47.png",
-    "Fall2025/ECSE222/ECSE 222 PP4-work.pdf",
     "Untitled.canvas"
   ]
 }

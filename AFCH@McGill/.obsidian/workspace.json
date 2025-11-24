@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9acd7799e43536ba",
+            "id": "d9c594af35fab040",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 338 Lecture 31 2025-11-17.excalidraw"
+            }
+          },
+          {
+            "id": "e3adcdb814e59cc3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 338 Lecture 32 2025-11-19.excalidraw"
             }
           }
         ]
@@ -180,8 +194,13 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "4b50ab165f386577",
+  "active": "d9c594af35fab040",
   "lastOpenFiles": [
+    "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md",
+    "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md",
+    "Fall2025/MATH338/MATH 338 Lecture 32.md",
+    "Fall2025/MATH338/MATH 338 Lecture 31.md",
+    "Fall2025/MATH338/MATH 338 Lecture 30.md",
     "Fall2025/ECSE222/PP5 F25-Copy.pdf",
     "Fall2025/ECSE222/PP5 F25.pdf",
     "Fall2025/Written/test.svgz",
@@ -195,25 +214,19 @@
     "Fall2025/Written",
     "Fall2025/ECSE250/ECSE 250 Lecture 19.md",
     "Fall2025/ECSE250/ECSE 250 Lecture 18.md",
-    "Fall2025/MATH338/MATH 338 Lecture 32.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 13.md",
     "Fall2025/MATH133/MATH 133 Lecture 1117 - 22.md",
     "Fall2025/-Drawings/Templates/Template.excalidraw.md",
     "Fall2025/-Drawings/Templates",
     "Fall2025/-Drawings/MATH 314 Lecture 13 2025-11-18.excalidraw.md",
     "Fall2025/-Drawings/MATH 133 Lecture 1117 - 22 2025-11-17.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 31.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 28.md",
     "Fall2025/MATH338/MATH 338 Lecture 29.md",
     "Fall2025/-Drawings/MATH 338 Lecture 29 2025-11-12.excalidraw.md",
     "Fall2025/-Drawings/MATH 338 Lecture 30 2025-11-14.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 30.md",
     "Fall2025/ECSE222/Exam 2 Prep.md",
     "Fall2025/ECSE222/-Drawings/Tldraw 2025-11-16 5.32PM.md",
     "Fall2025/ECSE222/-Drawings",
-    "Fall2025/-Assets/7c9d42de-626a-4185-a853-52b8cb727e05-asset-svg.svg+xml",
     "Fall2025/FACC100/-Drawings/Tldraw 2025-11-13 5.35PM.md",
     "Fall2025/FACC100/FACC 100 Lecture 10.md",
     "Fall2025/-Drawings/Template.excalidraw.md",

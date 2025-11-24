@@ -1,6 +1,9 @@
 # Balanced & Unbalanced Trees
 Difference in height is at most 1 between children
 Aims to prevent BST from being essentially a linear data structure (and thus slower)
+
+## Complete Binary Tree
+Binary tree of height $h$ such that every level less than $h$ is full, and all elements in level $h$ are as far to the left as possible.
 # Priority Queue
 Add whatever elements we want
 Remove the element with the highest priority first

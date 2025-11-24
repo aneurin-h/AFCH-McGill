@@ -89,3 +89,12 @@ Node
 	int distance // Distance to target
 	Node parent
 ```
+Search (Dijkstra's?)
+```java
+heap.add(root)
+while !heap.isEmpty()
+	cur = heap.poll()
+	check cur
+	visit cur
+	add all children
+```

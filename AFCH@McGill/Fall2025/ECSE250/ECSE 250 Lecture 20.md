@@ -18,4 +18,8 @@ DOES NOT HAVE TO ADHERE TO THE LEFT < RIGHT RULE FROM BINARY SEARCH TREE
 Ordering of elements in a level don't matter for heapness
 ## Add
 Put in next available spot, and then **heapify** (swap with parent until inequalities are satisfied (IE child is greater than parent in min heap))
-
+Timing
+	Worst Case:
+	$O(\log(n)=height)$
+	Best Case:
+	$\Omega(1)$

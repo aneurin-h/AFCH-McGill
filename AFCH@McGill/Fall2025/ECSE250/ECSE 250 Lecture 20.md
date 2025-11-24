@@ -12,5 +12,6 @@ Options to implement
 	Use binary search tree to store in order of priority
 	Heaps
 # Heap
-A **complete binary tree with comparable keys** 
+A **complete binary tree with comparable keys**
+DOES NOT HAVE TO ADHERE TO HTE LEFT < RIGHT FROM BINARY SEARCH TREE
 ![[image-63.png|348x130]]

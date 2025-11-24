@@ -17,4 +17,5 @@ DOES NOT HAVE TO ADHERE TO THE LEFT < RIGHT RULE FROM BINARY SEARCH TREE
 ![[image-63.png|348x130]]
 Ordering of elements in a level don't matter for heapness
 ## Add
-Put in next available spot, and then **heapify** (swap with parent until inequalities are satisfied)
+Put in next available spot, and then **heapify** (swap with parent until inequalities are satisfied (IE child is greater than parent in min heap))
+

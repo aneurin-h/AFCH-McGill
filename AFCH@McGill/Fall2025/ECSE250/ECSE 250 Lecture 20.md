@@ -86,6 +86,6 @@ Node Class
 ```java
 Node
 	Point p
-	int distance
+	int distance // Distance to target
 	Node parent
 ```

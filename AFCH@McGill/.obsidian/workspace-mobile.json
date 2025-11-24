@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23c9dd9b264e08e5",
+        "id": "fd03a5e0ef5b1f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b2d3cbd0e8ef363",
+            "id": "09559bf0985acbcf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fall2025/ECSE222/PP5 F25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "PP5 F25"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +164,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "2b2d3cbd0e8ef363",
+  "active": "09559bf0985acbcf",
   "lastOpenFiles": [
+    "Fall2025/ECSE222/PP5 F25.pdf",
     "Fall2025/MATH338/MATH 338 Lecture 32.md",
     "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 13.md",
@@ -203,7 +202,6 @@
     "Testing",
     "Fall2025/-Drawings/MATH 314 Lecture 12 2025-11-13.excalidraw.md",
     "Fall2025/MATH314/MATH 314 Lecture 12.md",
-    "Fall2025/MATH338/LaTeX.md",
     "Fall2025/-Assets/image-55.png",
     "Fall2025/-Assets/image-54.png",
     "Fall2025/-Assets/image-53.png",

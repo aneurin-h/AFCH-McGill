@@ -65,9 +65,14 @@ removeMin()
 
 heapifyDown(i)
 	while(2i <= size)
+		smallerChildInde
 	
-		leftChildIndex = 2i
-		if(2i+1 <= size)
-			rightChildIndex = 2i + 1
-			if(heap[rightChildIndex] < heap[leftChildI])
+
+getSmallerChildIndex(i)
+	leftChildIndex = 2i
+	if(2i+1 <= size)
+		rightChildIndex = 2i + 1
+		if(heap[rightChildIndex] < heap[leftChildIndex])
+			return rightChildIndex
+		return leftChildIndex
 ```

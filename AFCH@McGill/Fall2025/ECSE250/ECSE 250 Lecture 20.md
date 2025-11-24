@@ -34,4 +34,26 @@ Most commonly implemented using an array
 Put into array using the priority numberings (except for index 0)
 ![[image-66.png|319x186]]
 Incomplete tree would cause a gap in the array (hence we can't use them)
+From Parent
+	$\text{Left Child at index } 2i$
+	$\text{Right Child at index }2i+1$
+From Child
+	$\text{Parent at index}\lfloor \frac{i}{2} \rfloor$
+### Pseudocode
+```java
+class minHeap
+	int size
+	T[] heap
 
+add()
+	size++
+	heap[size] = key
+	
+	i = size;
+	while(i > 1 & heap[i] < heap[i/2])
+		// Swap upwards
+		T temp = heap[i];
+		heap[i] = heap[i/2];
+		heap[i/2] = temp;
+		i = i/2 //INTEGER DIVISION IMPORTANT
+```

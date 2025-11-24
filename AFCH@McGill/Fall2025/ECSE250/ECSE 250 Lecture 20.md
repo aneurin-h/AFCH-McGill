@@ -63,6 +63,7 @@ removeMin()
 	size--
 	heapifyDown()
 
-heapifyDown()
-	
+heapifyDown(i)
+	while(2i < size)
+		
 ```

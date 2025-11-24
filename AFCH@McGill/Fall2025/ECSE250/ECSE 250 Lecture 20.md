@@ -56,7 +56,7 @@ add()
 		heap[i] = heap[i/2]
 		heap[i/2] = temp
 		i = i/2 //INTEGER DIVISION IMPORTANT
-		
+
 removeMin()
 	temp = heap[1]
 	heap[1] = heap[size]
@@ -65,8 +65,13 @@ removeMin()
 
 heapifyDown(i)
 	while(2i <= size)
-		smallerChildInde
-	
+		smallerIndex = smallerChildIndex(i)
+		
+		if(heap[smallerIndex] < heap[i])
+			swap(i, smallerIndex)
+			i = smallerIndex
+		else
+			break
 
 getSmallerChildIndex(i)
 	leftChildIndex = 2i
@@ -76,3 +81,4 @@ getSmallerChildIndex(i)
 			return rightChildIndex
 		return leftChildIndex
 ```
+## Finding

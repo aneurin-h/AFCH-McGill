@@ -12,3 +12,4 @@ Options to implement
 	Use binary search tree to store in order of priority
 	Heaps
 # Heap
+A **complete binary tree with comparable keys** 

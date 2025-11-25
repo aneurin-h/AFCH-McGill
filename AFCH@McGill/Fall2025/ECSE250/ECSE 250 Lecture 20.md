@@ -70,7 +70,7 @@ heapifyDown(i)
 		if(heap[smallerIndex] < heap[i])
 			swap(i, smallerIndex)
 			i = smallerIndex
-		else
+			else
 			break
 
 getSmallerChildIndex(i)

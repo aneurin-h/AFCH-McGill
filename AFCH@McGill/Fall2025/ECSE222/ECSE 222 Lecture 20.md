@@ -35,3 +35,6 @@ Can fix problem form earlier about not holding value of k for long enough
 # Concatenating Counters with Enable and Output Carry
 Use output carry of first counter as enable for second
 	Thus the second will only tick when the first is full
+# BCD 2 Digit Counter
+![[image-73.png|431x139]]
+The AND gate driving Load on the MSB counter must also have the load signal of the LSB counter as an input

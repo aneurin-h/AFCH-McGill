@@ -45,4 +45,4 @@ Doesn't count in binary
 Initialization is required
 ![[image-75.png|354x110]]
 The active bit propagates in a loop
-Essentially shift register with a loopbac
+Essentially shift register with a loopback

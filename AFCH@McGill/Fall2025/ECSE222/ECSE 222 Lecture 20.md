@@ -8,4 +8,4 @@ Holds value of k for less than one clock cycle, as clear is asynchronous
 
 ## Synchronous 4-bit Up Counter w/ Enable
 ![[image-69.png|459x235]]
-XOR Gate makes DFF into a T
+XOR gate makes DFF into a TFF

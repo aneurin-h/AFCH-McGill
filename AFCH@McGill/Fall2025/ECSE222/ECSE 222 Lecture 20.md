@@ -32,3 +32,6 @@ Similar to how the clear was used previously
 Can fix problem form earlier about not holding value of k for long enough
 	Load only takes effect at the rising edge of the clock
 ![[image-72.png|257x137]]
+# Concatenating Counters with Enable and Output Carry
+Use output carry of first counter as enable for second
+	Thus the second will only tic

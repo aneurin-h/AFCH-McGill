@@ -9,3 +9,7 @@ Holds value of k for less than one clock cycle, as clear is asynchronous
 ## Synchronous 4-bit Up Counter w/ Enable
 ![[image-69.png|459x235]]
 XOR gate makes DFF into a TFF
+Output carry can be used to concatenate multiple counters
+	2 4-bit counters -> 1 8-bit counter
+### Timing
+$Q_{0}$ has $t_{cq}$ delay, + delay of all and gates to reach $Q_{3}$ 

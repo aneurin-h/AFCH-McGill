@@ -28,3 +28,7 @@ Critical path is reduced to one AND gate
 ![[image-71.png|197x209]]
 Used to start the counter counting from a different point than 0
 Similar to how the clear was used previously
+# Counters with Parallel Load
+Can fix problem form earlier about not holding value of k for long enough
+	Load only takes effect at the rising edge of the clock
+![[image-72.png|257x137]]

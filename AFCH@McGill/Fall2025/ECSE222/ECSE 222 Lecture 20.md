@@ -38,3 +38,9 @@ Use output carry of first counter as enable for second
 # BCD 2 Digit Counter
 ![[image-73.png|431x139]]
 The AND gate driving Load on the MSB counter must also have the load signal of the LSB counter as an input
+# Ring Counter
+Doesn't count in binary
+	Moves the active bit around
+	Uses one-hot encoding
+Initialization is required
+![[image-75.png|354x110]]

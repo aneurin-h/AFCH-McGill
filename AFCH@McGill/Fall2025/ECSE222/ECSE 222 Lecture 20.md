@@ -44,3 +44,4 @@ Doesn't count in binary
 	Uses one-hot encoding
 Initialization is required
 ![[image-75.png|354x110]]
+The active bit propagates in a loop

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e2d23828f4e057",
+        "id": "9217a1d40bc7004b",
         "type": "tabs",
         "children": [
           {
-            "id": "64aebb35d2ada932",
+            "id": "5e0d1626914dc5b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/Written/MATH133.svg"
+                "file": "Fall2025/ECSE222/ECSE 222 Lecture 20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "MATH133"
+              "icon": "lucide-file",
+              "title": "ECSE 222 Lecture 20"
             }
           }
         ]
@@ -182,8 +184,9 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "64aebb35d2ada932",
+  "active": "5e0d1626914dc5b0",
   "lastOpenFiles": [
+    "Fall2025/Written/MATH133.svg",
     "Fall2025/ECSE222/ECSE 222 Lecture 20.md",
     "Fall2025/-Assets/image-75.png",
     "Fall2025/-Assets/image-74.png",
@@ -194,7 +197,6 @@
     "Fall2025/-Assets/image-69.png",
     "Fall2025/-Assets/image-68.png",
     "Fall2025/-Assets/image-67.png",
-    "Fall2025/Written/MATH133.svg",
     "Fall2025/ECSE250/ECSE 250 Lecture 20.md",
     "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md",
     "Fall2025/-Drawings/MATH 338 Lecture 32 2025-11-19.excalidraw.md",

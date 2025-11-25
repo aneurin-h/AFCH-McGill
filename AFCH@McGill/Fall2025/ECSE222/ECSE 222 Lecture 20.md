@@ -24,3 +24,7 @@ $t_{cq}+t_{XOR}\geq{}t_{h}$
 Increase fan-in
 ![[image-70.png|251x240]]
 Critical path is reduced to one AND gate
+## Synchronous 4-bit Up Counter with Enable and Parallel Load
+![[image-71.png|197x209]]
+Used to start the counter counting from a different point than 0
+Similar to how the clear was used previously

@@ -12,4 +12,10 @@ XOR gate makes DFF into a TFF
 Output carry can be used to concatenate multiple counters
 	2 4-bit counters -> 1 8-bit counter
 ### Timing
-$Q_{0}$ has $t_{cq}$ delay, + delay of all and gates to reach $Q_{3}$ 
+$Q_{0}$ has $t_{cq}$ delay, + delay of all AND gates & the XOR,  to reach $Q_{3}$ 
+Setup Time and Max Frequency
+$T \geq{}t_{cQ}+3t_{AND}+t_{XOR}+t_{su}$
+$f_{max}=\frac{1}{t_{cq}+3t_{AND}+t_{XOR}+t_{su}}$
+Hold Time:
+Find shortest delay path starting and ending at FF
+$t_{cq}+t_{XOR}\geq{}t_{h}$

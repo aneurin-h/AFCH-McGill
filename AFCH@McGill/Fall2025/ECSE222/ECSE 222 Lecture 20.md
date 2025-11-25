@@ -13,9 +13,14 @@ Output carry can be used to concatenate multiple counters
 	2 4-bit counters -> 1 8-bit counter
 ### Timing
 $Q_{0}$ has $t_{cq}$ delay, + delay of all AND gates & the XOR,  to reach $Q_{3}$ 
-Setup Time and Max Frequency
+Setup Time and Max Frequency:
+Find Critical Path (3AND + XOR)
 $T \geq{}t_{cQ}+3t_{AND}+t_{XOR}+t_{su}$
 $f_{max}=\frac{1}{t_{cq}+3t_{AND}+t_{XOR}+t_{su}}$
 Hold Time:
-Find shortest delay path starting and ending at FF
+Find shortest delay path starting and ending at FF (XOR)
 $t_{cq}+t_{XOR}\geq{}t_{h}$
+### Improving Timing
+Increase fan-in
+![[image-70.png|251x240]]
+Critical path is reduced to one AND gate

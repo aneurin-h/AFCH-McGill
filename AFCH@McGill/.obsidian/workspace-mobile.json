@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd03a5e0ef5b1f5a",
+        "id": "4c580d8cc85133a2",
         "type": "tabs",
         "children": [
           {
-            "id": "09559bf0985acbcf",
+            "id": "1b0852a3ca9d1b9a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 31 2025-11-17.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +164,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "09559bf0985acbcf",
+  "active": "1b0852a3ca9d1b9a",
   "lastOpenFiles": [
+    "Fall2025/Written/MATH133.svg",
+    "Fall2025/MATH338/LaTeX.md",
+    "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 31.md",
     "Fall2025/ECSE222/PP5 F25.pdf",
     "Fall2025/MATH338/MATH 338 Lecture 32.md",
@@ -178,7 +179,6 @@
     "Fall2025/MATH133/MATH 133 Lecture 1117 - 22.md",
     "Fall2025/MATH338/MATH 338 Lecture 29.md",
     "Fall2025/-Drawings/Templates",
-    "Fall2025/-Drawings/MATH 338 Lecture 31 2025-11-17.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 30.md",
     "Fall2025/ECSE222/Exam 2 Prep.md",
     "Fall2025/ECSE222/-Drawings/Tldraw 2025-11-16 5.32PM.md",
@@ -203,7 +203,6 @@
     "Testing/TLDraw",
     "Testing",
     "Fall2025/-Drawings/MATH 314 Lecture 12 2025-11-13.excalidraw.md",
-    "Fall2025/MATH314/MATH 314 Lecture 12.md",
     "Fall2025/-Assets/image-55.png",
     "Fall2025/-Assets/image-54.png",
     "Fall2025/-Assets/image-53.png",

@@ -71,3 +71,26 @@ Initialization
 	1. `dist[v]` contains the shortest path length to $v$
 	2. `pred[v]` contains the predecessor of $v$ on the shortest path (repeat to find the entire path)
 Because nodes that are adjacent to those that have been explored have their `dist` modified, they will be removed first
+### Pseudocode
+```java
+initialize(V)
+	for each v in V
+		dist[v] = infinity
+		pred[v] = null;
+		queue.enqueue(v)
+
+relax(u, v, w)
+	if(dist[v] > dist[u] + w)
+		dist[v] = dist[u] + w
+		pred[v] = u		
+
+dijkstra(V, E, w, S){
+	initialize(V)
+	dist[s] = 0
+	while(!queue.isEmpty())
+		p = queue.dequeue()
+		
+		for each vertex a in adj(v)
+			relax(p, a, w(p, a))
+}
+```

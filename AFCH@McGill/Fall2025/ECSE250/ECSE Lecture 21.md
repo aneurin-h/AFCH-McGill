@@ -35,7 +35,7 @@ depthFirstGraph(v) // Preorder
 # Graph Traversal (Non Recursive)
 ```java
 graphTraversalUsingStack(v)
-	stack add v
+	stack push v
 	while(stack isnt empty)
 		v1 = stack pop
 		visit v1

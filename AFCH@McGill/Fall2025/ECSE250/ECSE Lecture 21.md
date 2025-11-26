@@ -45,3 +45,11 @@ graphTraversalUsingStack(v)
 ```
 Also works with Queue and Priority Queue
 # Single Source Shortest Path Problem
+Input 
+	Directed Graph $G=(V,E)$
+	Weight Function for edges $w(v_{i},v_{j})$
+	Source $s$
+Weight of a path
+	Sum of edge weights on a path
+	$\sum_{k=1}^{n}w(v_{k-1},v_{k})$
+	

@@ -37,6 +37,10 @@ depthFirstGraph(v) // Preorder
 graphTraversalUsingStack(v)
 	stack add v
 	while(stack isnt empty)
-		
+		v1 = stack pop
+		visit v1
+		mark v1 as visited
+		for all unvisited adjacents of v1
+			add to stack
 ```
 # Single Source Shortest Path Problem

@@ -61,6 +61,7 @@ Shortest Path from $s$ to $v$
 ## Dijkstra
 Initialization
 	All vertices `dist[v]` to $\infty$, `pred[v]` = null, add to the priority queue
-1. Remove smallest from priority queue
-2. Relax the adjacent vertices
-	1. Adjust their `dist`
+1. Remove smallest from priority queue : v
+2. Relax the adjacent vertices of `v`
+	1. Adjust their `dist` using the weight of edge $(v, a_{1})$, plus the `dist` of current vertex `v`
+	2. 

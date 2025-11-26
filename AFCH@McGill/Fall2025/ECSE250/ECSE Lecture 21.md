@@ -43,4 +43,6 @@ graphTraversalUsingStack(v)
 		for all unvisited adjacents of v1 that havent already been added to stack
 			add to stack
 ```
+Also works with Queue and Priority Queue
+
 # Single Source Shortest Path Problem

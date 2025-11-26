@@ -40,7 +40,7 @@ graphTraversalUsingStack(v)
 		v1 = stack pop
 		visit v1
 		mark v1 as visited
-		for all unvisited adjacents of v1
+		for all unvisited adjacents of v1 that havent already been added to stack
 			add to stack
 ```
 # Single Source Shortest Path Problem

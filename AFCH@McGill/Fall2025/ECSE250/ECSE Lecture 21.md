@@ -63,5 +63,7 @@ Initialization
 	All vertices `dist[v]` to $\infty$, `pred[v]` = null, add to the priority queue
 1. Remove smallest from priority queue : v
 2. Relax the adjacent vertices of `v`
-	1. Adjust their `dist` using the weight of edge $(v, a_{1})$, plus the `dist` of current vertex `v`
-	2. 
+	1. If the `dist` of the adjacent is > than `dist[v] + weight`:
+	2. Adjust their `dist` using the weight of edge $(v, a_{1})$, plus the `dist` of current vertex `v`
+	3. Assign predecessor of $a_{1}$ as $v$
+3. 

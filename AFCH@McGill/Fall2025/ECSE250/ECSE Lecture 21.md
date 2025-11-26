@@ -59,4 +59,5 @@ Shortest Path from $s$ to $v$
 		`dist[v]` is the estimate of the shortest path
 		`pred[v]` is the predecessor of the estimated shortest path
 ## Dijkstra
-Initial
+Initialization
+	All vertices `dist[v]` to $\infty$, `pred[v]` = null, add t

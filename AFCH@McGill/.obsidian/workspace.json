@@ -25,12 +25,12 @@
             "id": "f21fe5ec02ba3721",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Fall2025/ECSE222/PP5 F25-Copy.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file-text",
+              "title": "PP5 F25-Copy"
             }
           }
         ],

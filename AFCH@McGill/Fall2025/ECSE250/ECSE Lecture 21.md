@@ -52,4 +52,9 @@ Input
 Weight of a path
 	Sum of edge weights on a path
 	$\sum_{k=1}^{n}w(v_{k-1},v_{k})$
-	
+Shortest Path from $s$ to $v$
+	find $min(w(v))$ if $w(v)$ exists
+	Not necessarily unique
+	For each vertex v
+	`dist[v]` is the estimate of the shortest path
+	`pred[v]` us the predecessor of the estimated shortest path

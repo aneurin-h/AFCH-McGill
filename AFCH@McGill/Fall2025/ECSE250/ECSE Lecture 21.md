@@ -67,5 +67,7 @@ Initialization
 	2. Adjust their `dist` using the weight of edge $(v, a_{1})$, plus the `dist` of current vertex `v`
 	3. Assign predecessor of $a_{1}$ as $v$
 3. Repeat from (1)
+4. When priority queue is empty
+	1. `dist[v]` contains the shortest path length to $v$
+	2. `pred[v]` contains the predecessor of $v$ on the shortest path (repeat to find the entire path)
 Because nodes that are adjacent to those that have been explored have their `dist` modified, they will be removed first
-	If we remove a node with `dist` = $\infty$ there is no path to that node

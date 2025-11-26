@@ -68,4 +68,4 @@ Initialization
 	3. Assign predecessor of $a_{1}$ as $v$
 3. Repeat from (1)
 Because nodes that are adjacent to those that have been explored have their `dist` modified, they will be removed first
-	If we remove a node with ``
+	If we remove a node with `dist` = $\infty$ there is no path to that node

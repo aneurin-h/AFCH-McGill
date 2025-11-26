@@ -11,10 +11,12 @@
             "id": "1b0852a3ca9d1b9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Fall2025/ECSE222/PP5 F25-Copy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PP5 F25-Copy"
             }
           }
         ]

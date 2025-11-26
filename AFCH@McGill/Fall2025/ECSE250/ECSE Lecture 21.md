@@ -60,4 +60,7 @@ Shortest Path from $s$ to $v$
 		`pred[v]` is the predecessor of the estimated shortest path
 ## Dijkstra
 Initialization
-	All vertices `dist[v]` to $\infty$, `pred[v]` = null, add t
+	All vertices `dist[v]` to $\infty$, `pred[v]` = null, add to the priority queue
+1. Remove smallest from priority queue
+2. Relax the adjacent vertices
+	1. Adjust their `dist`

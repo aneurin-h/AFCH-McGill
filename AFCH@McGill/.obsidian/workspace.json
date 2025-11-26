@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ECSE 250 Lecture 20"
             }
+          },
+          {
+            "id": "f21fe5ec02ba3721",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "5e0d1626914dc5b0",
+  "active": "f21fe5ec02ba3721",
   "lastOpenFiles": [
     "Fall2025/ECSE222/ECSE 222 Lecture 20.md",
     "Fall2025/Written/MATH133.svg",

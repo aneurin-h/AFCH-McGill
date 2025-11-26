@@ -44,5 +44,4 @@ graphTraversalUsingStack(v)
 			add to stack
 ```
 Also works with Queue and Priority Queue
-
 # Single Source Shortest Path Problem

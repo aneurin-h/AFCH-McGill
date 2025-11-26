@@ -66,4 +66,6 @@ Initialization
 	1. If the `dist` of the adjacent is > than `dist[v] + weight`:
 	2. Adjust their `dist` using the weight of edge $(v, a_{1})$, plus the `dist` of current vertex `v`
 	3. Assign predecessor of $a_{1}$ as $v$
-3. 
+3. Repeat from (1)
+Because nodes that are adjacent to those that have been explored have their `dist` modified, they will be removed first
+	If we remove a node with ``

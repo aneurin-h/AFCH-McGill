@@ -16,4 +16,7 @@ Detect two consecutive 1s
    ![[image-78.png|360x202]]
 2. State Table
    ![[image-79.png|359x174]]
-3. 
+3. State Assignment
+   Encode states using 2 bits (as $2^2=4>3$)
+   Store each bit $y_{1}\:\&\:y_{2}$ in an FF
+   

@@ -20,4 +20,5 @@ Detect two consecutive 1s
    Encode states using 2 bits (as $2^2=4>3$)
    Store each bit $y_{1}\:\&\:y_{2}$ in an FF
    Next state variables are represented as $Y_{1}\:\&\:Y_{2}$
+   Choose particular combinations of those bits to correspond to each state
    

@@ -24,4 +24,5 @@ Detect two consecutive 1s
    ![[image-80.png|282x169]]
 4. Make two truth tables, one for next state logic, one for outputs
    ![[image-81.png|149x191]]![[image-82.png|199x166]]
-5. 
+5. Karnaugh Maps for each truth table
+	1. 

@@ -4,6 +4,7 @@ System described using a set of finite states
 ![[image-76.png|370x164]]
 Flip-Flops store the state of the system
 First combinational segment decides next state based on current state and input
+**Mealy vs Moore will be a question on the final**
 ## Mealy FSMs
 In Mealy FSMs, the output is a function of the state *and* the input
 Pictured above
@@ -26,4 +27,5 @@ Detect two consecutive 1s
    ![[image-81.png|149x191]]![[image-82.png|199x166]]
 5. Karnaugh Maps for each truth table
 	1. ![[image-83.png|262x236]]
-	2. 
+	2. ![[image-84.png|183x118]]
+6. 

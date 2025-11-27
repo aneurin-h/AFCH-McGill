@@ -22,4 +22,6 @@ Detect two consecutive 1s
    Next state variables are represented as $Y_{1}\:\&\:Y_{2}$
    Choose particular combinations of those bits to correspond to each state
    ![[image-80.png|282x169]]
-   
+4. Make two truth tables, one for next state logic, one for outputs
+   ![[image-81.png|149x191]]![[image-82.png|157x131]]
+5. 

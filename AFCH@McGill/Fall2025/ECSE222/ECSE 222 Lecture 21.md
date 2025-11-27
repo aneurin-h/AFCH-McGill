@@ -12,4 +12,6 @@ Output is purely a function of the current state![[image-77.png|403x145]]
 ## Design Example - Sequence Detector
 Given a stream of bits arriving at the rate of one bit per clock cycle
 Detect two consecutive 1s
-1. Design FSM
+1. Design FSM (Moore)
+   ![[image-78.png|360x202]]
+2. 

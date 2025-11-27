@@ -30,7 +30,7 @@ Detect two consecutive 1s
 	2. ![[image-84.png|183x118]]
 6. Design that circuit
 ### Summary
-1. Obtain Design Specificaitons
+1. Obtain Design Specifications
 2. Derive a state diagram
 	1. Starting state
 	2. All possible values of inputs must be considered

@@ -28,4 +28,15 @@ Detect two consecutive 1s
 5. Karnaugh Maps for each truth table
 	1. ![[image-83.png|262x236]]
 	2. ![[image-84.png|183x118]]
-6. 
+6. Design that circuit
+### Summary
+1. Obtain Design Specificaitons
+2. Derive a state diagram
+	1. Starting state
+	2. All possible values of inputs must be considered
+3. Generate a state table
+4. State assignment
+	1. Number of state variables
+	2. Assign sequence to each state
+5. Choose kind of flip flops
+6. Determine next-state and output combinational circuits

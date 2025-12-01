@@ -22,4 +22,5 @@ mergesort(list)
 		return merge(list1, list2);
 ```
 $O(n\log_{2}(n))$
+
 # Quick Sort

@@ -41,7 +41,7 @@ In order to implement we need:
 - Partition function
 	- Places pivot correctly
 	- Moves the elements around so that all the lower elements are on the left and all the larger elements are on the right
-- quickSort
+- Quick Sort
 	- pick a pivot
 	- partition
 	- recursive calls to left and right
@@ -52,9 +52,11 @@ partition(list, left, right){
 	wall = left - 1
 	
 	for i = left to right-1 {
-		if(list.get(i) < pivot)
+		if(list.get(i) < pivot){
 			wall++
 			swap(i, wall)
+		}
 	}
+	swap(right, wall+1)
 }
 ```

@@ -8,5 +8,18 @@ Given two smaller lists, interleaf them such that the final list is still sorted
 Choose the smallest non-added value from the 2 lists, and add to the output list
 Once one list is empty, copy all remaining elements into output
 ![[image-85.png|373x251]]
+## Pseudocode
+```java
+mergesort(list)
+	if(list.size() <= 1)
+		return list
+	else
+		mid = (list.size() -1)/2
+		list1 = list.getElements(0,mid)
+		list2 = list.getElements(mid+1,list.size()-1)
+		list1 = mergesort(list1);
+		list2 = mergesort(list2);
+		return merge(list1, list2);
+```
 
 # Quick Sort

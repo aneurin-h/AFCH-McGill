@@ -60,3 +60,4 @@ partition(list, left, right){
 	swap(right, wall+1)
 }
 ```
+$\Omega(n\log_{2}(n))\text{ \& }O(n^{2})$

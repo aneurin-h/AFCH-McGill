@@ -22,5 +22,26 @@ mergesort(list)
 		return merge(list1, list2);
 ```
 $O(n\log_{2}(n))$
-
 # Quick Sort
+Pick an element of the array (the pivot)
+Partition by moving the pivot
+	All smaller elements are on one side
+	All larger elements are on the other
+	Implemented with swapping
+Multiple ways to pick pivot
+	For example, using the last element
+**Example**
+	Pick Pivot
+	Set the wall on the left
+	Go through all elements that are not the pivot, if the element is smaller than the pivot, move the wall right by one, and place the element just behind the wall
+	Move the pivot next to the wall
+	Recur using the left section, and with the right section
+In order to implement we need:
+- Swap function
+- Partition function
+	- Places pivot correctly
+	- Moves the elements around so that all the lower elements are on the left and all the larger elements are on the right
+- quickSort
+	- pick a pivot
+	- partition
+	- recursive calls to left and right

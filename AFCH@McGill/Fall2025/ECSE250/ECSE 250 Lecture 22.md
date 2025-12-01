@@ -45,3 +45,16 @@ In order to implement we need:
 	- pick a pivot
 	- partition
 	- recursive calls to left and right
+Partition Pseudocode
+```java
+partition(list, left, right){
+	pivot = list.get(right)
+	wall = left - 1
+	
+	for i = left to right-1 {
+		if(list.get(i) < pivot)
+			wall++
+			swap(i, wall)
+	}
+}
+```

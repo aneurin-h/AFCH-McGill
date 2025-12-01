@@ -2,9 +2,9 @@
   "obsidian-git",
   "obsidian-math-plus",
   "obsidian-excalidraw-plugin",
-  "image-converter",
   "obsidian-latex-suite",
   "obsidian-tikzjax",
   "tldraw",
-  "handwritten-notes"
+  "handwritten-notes",
+  "image-converter"
 ]

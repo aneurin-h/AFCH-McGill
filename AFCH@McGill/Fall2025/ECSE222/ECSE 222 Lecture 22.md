@@ -13,3 +13,6 @@ Serial data stream, detect two consecutive ones (ie current and immediately prev
 Only need one FF to store the singular state bit that encodes our two states
 **State Assigned Table**
 ![[image-88.png|300x128]]
+Split into next state logic table and output logic tables
+![[image-89.png|162x104]]![[image-90.png|108x104]]
+$Y=w\text{ \& }z=wy$

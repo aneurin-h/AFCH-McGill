@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9217a1d40bc7004b",
+        "id": "5d825d5476e53fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "f21fe5ec02ba3721",
+            "id": "bd4c13989e58db2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall2025/ECSE250/ECSE 250 Lecture 22.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ECSE 250 Lecture 22"
+              "title": "New tab"
             }
           }
         ]
@@ -184,11 +180,11 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "f21fe5ec02ba3721",
+  "active": "bd4c13989e58db2c",
   "lastOpenFiles": [
+    "Fall2025/ECSE250/ECSE 250 Lecture 22.md",
     "Fall2025/-Assets/image-85.png",
     "conflict-files-obsidian-git.md",
-    "Fall2025/ECSE250/ECSE 250 Lecture 22.md",
     "Fall2025/Written/Work-MATH314.svg",
     "Fall2025/ECSE222/ECSE 222 Tutorial 6.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 21.md",
@@ -200,7 +196,6 @@
     "Fall2025/-Assets/image-79.png",
     "Fall2025/-Assets/image-78.png",
     "Fall2025/-Assets/image-77.png",
-    "Fall2025/-Assets/image-76.png",
     "Fall2025/ECSE250/ECSE 250 Lecture 21.md",
     "Fall2025/ECSE250/ECSE 250 Lecture 20.md",
     "Fall2025/ECSE222/PP5 F25-Copy.pdf",

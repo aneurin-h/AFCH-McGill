@@ -16,3 +16,23 @@ Only need one FF to store the singular state bit that encodes our two states
 Split into next state logic table and output logic tables
 ![[image-89.png|162x104]]![[image-90.png|108x104]]
 $Y=w\text{ \& }z=wy$
+# Final Exam Info
+10 questions
+- 1st question
+	- Truth table
+	- K-Map
+	- mystery circuit
+- VHDL Writing
+	- Not from scratch
+- VHDL Analysis
+- Timing Analysis
+	- Respecting violations or not
+- 1's and 2's complements
+- FSM Analysis
+	- Type of FSM, purpose
+- FSM Design
+	- Design based on some info
+- K-Map
+- Counter Design Problem
+- ***Something Else***
+No P/N switches

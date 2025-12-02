@@ -7,4 +7,6 @@ Specify the output for each input state combination
 Sequence Detector
 Serial data stream, detect two consecutive ones (ie current and immediately previous)
 State Diagram
-
+![[image-86.png|586x119]]
+State Table
+![[image-87.png|346x132]]

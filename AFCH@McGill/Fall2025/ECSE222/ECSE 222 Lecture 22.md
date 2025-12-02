@@ -6,3 +6,5 @@ Specify the output for each input state combination
 ## Example
 Sequence Detector
 Serial data stream, detect two consecutive ones (ie current and immediately previous)
+State Diagram
+

@@ -11,12 +11,14 @@
             "id": "3de2edd8dbe2be14",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/ECSE222/PP6 F25.pdf"
+                "file": "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "PP6 F25"
+              "icon": "lucide-file",
+              "title": "ECSE 222 Lecture 22"
             }
           }
         ]
@@ -184,10 +186,11 @@
   },
   "active": "3de2edd8dbe2be14",
   "lastOpenFiles": [
+    "Fall2025/Written/Work-MATH133.svg",
+    "Fall2025/ECSE222/PP6 F25.pdf",
     "Fall2025/ECSE222/PP6 F25-Copy.pdf",
     "Fall2025/ECSE222/ECSE 222 Lecture 21.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
-    "Fall2025/ECSE222/PP6 F25.pdf",
     "Fall2025/-Assets/image-90.png",
     "Fall2025/-Assets/image-89.png",
     "Fall2025/-Assets/image-88.png",
@@ -219,7 +222,6 @@
     "Fall2025/Written/MATH338.svgz",
     "Fall2025/Written/MATH314.svgz",
     "Fall2025/Written/MATH133.svgz",
-    "Fall2025/Written",
     "Fall2025/ECSE250/ECSE 250 Lecture 19.md",
     "Fall2025/ECSE250/ECSE 250 Lecture 18.md",
     "Fall2025/MATH314/MATH 314 Lecture 13.md",

@@ -1,1 +1,0 @@
-![[MATH 133 Tutorial 5 2025-09-29.excalidraw]]

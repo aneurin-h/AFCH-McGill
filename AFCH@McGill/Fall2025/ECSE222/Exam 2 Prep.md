@@ -1,1 +1,0 @@
-![[Fall2025/ECSE222/-Drawings/Tldraw 2025-11-16 5.32PM.md]]

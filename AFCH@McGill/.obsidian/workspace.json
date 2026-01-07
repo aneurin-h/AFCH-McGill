@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "03cfc23e41659bb6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
-            }
-          },
-          {
             "id": "24f8e9aeecb99d55",
             "type": "leaf",
             "state": {
@@ -41,6 +29,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "MATH 338 Lecture 25 2025-11-03.excalidraw"
+            }
+          },
+          {
+            "id": "03cfc23e41659bb6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fall2025/-Drawings/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
             }
           }
         ],
@@ -207,11 +207,13 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "03cfc23e41659bb6",
+  "active": "24f8e9aeecb99d55",
   "lastOpenFiles": [
+    "Fall2025/-Drawings/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
+    "Fall2025/Written/Work-MATH314.svg",
+    "Fall2025/-Drawings/MATH 338 Lecture 25 2025-11-03.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 18.md",
     "Fall2025/-Drawings/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 25 2025-11-03.excalidraw.md",
     "Fall2025/MATH338/MATH 338 Lecture 25.md",
     "Fall2025/MATH338/MATH 338 Lecture 24.md",
     "Fall2025/MATH338/MATH 338 Lecture 23.md",
@@ -244,9 +246,6 @@
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
     "Fall2025/ECSE250/ECSE 250 Lecture 22.md",
     "Fall2025/-Assets/image-85.png",
-    "conflict-files-obsidian-git.md",
-    "Fall2025/Written/Work-MATH314.svg",
-    "Fall2025/ECSE222/ECSE 222 Tutorial 6.md",
     "Fall2025/-Assets/image-84.png",
     "Fall2025/ECSE222/PP5 F25-Copy.pdf",
     "Fall2025/ECSE222/PP5 F25.pdf",

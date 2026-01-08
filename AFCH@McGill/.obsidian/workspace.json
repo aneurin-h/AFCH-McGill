@@ -8,41 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3de2edd8dbe2be14",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 14 2025-09-29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 14 2025-09-29.excalidraw"
-            }
-          },
-          {
             "id": "24f8e9aeecb99d55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "03cfc23e41659bb6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
+                "file": "Winter2026/WCOM206/WCOM206.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
+              "icon": "lucide-file",
+              "title": "WCOM206"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

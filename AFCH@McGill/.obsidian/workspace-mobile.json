@@ -11,10 +11,12 @@
             "id": "251a919f09dd3a47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Winter2026/MATH263/ws02-blank.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ws02-blank"
             }
           }
         ]

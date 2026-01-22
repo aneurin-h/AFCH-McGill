@@ -11,15 +11,30 @@
             "id": "24f8e9aeecb99d55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Winter2026/MATH240/MATH240-A1.pdf"
+                "file": "Winter2026/WCOM206/WCOM206.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MATH240-A1"
+              "icon": "lucide-file",
+              "title": "WCOM206"
+            }
+          },
+          {
+            "id": "af1d53de9fb7b8f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +197,15 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "24f8e9aeecb99d55",
+  "active": "af1d53de9fb7b8f7",
   "lastOpenFiles": [
+    "Winter2026/MATH240/MATH240-A1.pdf",
+    "Winter2026/Written/PHYS142/PHYS142-3.svg",
+    "Winter2026/Written/MATH263/MATH263-3.svg",
+    "Winter2026/Written/MATH240/MATH240-3.svg",
+    "Winter2026/Written/CHEM120/CHEM120-3.svg",
     "Winter2026/MATH240/Assignment1-1.pdf",
     "Winter2026/Written/MATH240/MATH240-A1.svg",
-    "Winter2026/MATH240/MATH240-A1.pdf",
     "Winter2026/WCOM206/WCOM206.md",
     "Winter2026/Written/PHYS142/PHYS142-2.svg",
     "Winter2026/Written/PHYS142",
@@ -218,17 +237,12 @@
     "Fall2025/MATH338/MATH 338 Lecture 12.md",
     "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
     "Fall2025/Written/Work-ECSE222.svg",
-    "Fall2025/Written/Work-MATH133.svg",
     "Fall2025/ECSE222/PP6 F25.pdf",
     "Fall2025/ECSE222/PP6 F25-Copy.pdf",
     "Fall2025/ECSE222/ECSE 222 Lecture 21.md",
-    "Fall2025/-Assets/image-90.png",
-    "Fall2025/-Assets/image-89.png",
-    "Fall2025/-Assets/image-88.png",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
     "Fall2025/ECSE222/PP5 F25-Copy.pdf",
     "Fall2025/ECSE222/PP5 F25.pdf",
-    "Fall2025/Written/test.svgz",
-    "Fall2025/Written/MATH314 - Copy.svgz"
+    "Fall2025/Written/test.svgz"
   ]
 }

@@ -25,12 +25,14 @@
             "id": "af1d53de9fb7b8f7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Winter2026/WCOM206/WCOM206.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "WCOM206"
             }
           }
         ],
@@ -199,6 +201,7 @@
   },
   "active": "af1d53de9fb7b8f7",
   "lastOpenFiles": [
+    "Winter2026/WCOM206/~$OMResearchToolkit_2024.docx",
     "Winter2026/MATH240/MATH240-A1.pdf",
     "Winter2026/Written/PHYS142/PHYS142-3.svg",
     "Winter2026/Written/MATH263/MATH263-3.svg",

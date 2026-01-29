@@ -25,14 +25,12 @@
             "id": "af1d53de9fb7b8f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Winter2026/WCOM206/WCOM206.md",
-                "mode": "source",
-                "source": false
+                "file": "Winter2026/MATH240/MATH240-A1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "WCOM206"
+              "icon": "lucide-file-text",
+              "title": "MATH240-A1"
             }
           }
         ],
@@ -201,6 +199,8 @@
   },
   "active": "af1d53de9fb7b8f7",
   "lastOpenFiles": [
+    "Winter2026/MATH240/Assignment1-1.pdf",
+    "Winter2026/WCOM206/WCOM206.md",
     "Winter2026/Written/PHYS142/Scratchpad.svg",
     "Winter2026/Written/PHYS142/PHYS142-4.svg",
     "Winter2026/Written/MATH263/MATH263-4.svg",
@@ -213,9 +213,6 @@
     "Winter2026/Written/MATH263/MATH263-3.svg",
     "Winter2026/Written/MATH240/MATH240-3.svg",
     "Winter2026/Written/CHEM120/CHEM120-3.svg",
-    "Winter2026/MATH240/Assignment1-1.pdf",
-    "Winter2026/Written/MATH240/MATH240-A1.svg",
-    "Winter2026/WCOM206/WCOM206.md",
     "Winter2026/Written/PHYS142",
     "Winter2026/MATH263/ws03-blank.pdf",
     "Fall2025/-Drawings/MATH 338 Lecture 18 2025-10-08.excalidraw.md",

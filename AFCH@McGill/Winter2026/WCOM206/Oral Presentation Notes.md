@@ -60,3 +60,11 @@
 **Commentary:**
 	Good presentation
 	Examples/Numbers
+
+# 6. Richard, 
+**Topic:**
+	
+**Specific Engineering Problem:**
+	
+**Commentary:**
+	

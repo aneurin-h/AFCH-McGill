@@ -25,12 +25,14 @@
             "id": "af1d53de9fb7b8f7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Winter2026/MATH240/MATH240-A1.pdf"
+                "file": "Winter2026/WCOM206/Oral Presentation Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MATH240-A1"
+              "icon": "lucide-file",
+              "title": "Oral Presentation Notes"
             }
           }
         ],
@@ -199,6 +201,12 @@
   },
   "active": "af1d53de9fb7b8f7",
   "lastOpenFiles": [
+    "Winter2026/Written/PHYS142/PHYS142-5.svg",
+    "Winter2026/Written/MATH263/MATH263-5.svg",
+    "Winter2026/Written/MATH240/MATH240-5.svg",
+    "Winter2026/MATH240/MATH240-A1.pdf",
+    "Winter2026/WCOM206/Oral Presentation Notes.md",
+    "Winter2026/Written/CHEM120/Chem120-5.svg",
     "Winter2026/Written/CHEM120/Scratchpad.svg",
     "Winter2026/MATH240/Assignment1-1.pdf",
     "Winter2026/WCOM206/WCOM206.md",
@@ -209,11 +217,6 @@
     "Winter2026/Written/MATH240/MATH240-4.svg",
     "Winter2026/Written/CHEM120/CHEM120-4.svg",
     "Winter2026/WCOM206/~$OMResearchToolkit_2024.docx",
-    "Winter2026/MATH240/MATH240-A1.pdf",
-    "Winter2026/Written/PHYS142/PHYS142-3.svg",
-    "Winter2026/Written/MATH263/MATH263-3.svg",
-    "Winter2026/Written/MATH240/MATH240-3.svg",
-    "Winter2026/Written/CHEM120/CHEM120-3.svg",
     "Winter2026/Written/PHYS142",
     "Winter2026/MATH263/ws03-blank.pdf",
     "Fall2025/-Drawings/MATH 338 Lecture 18 2025-10-08.excalidraw.md",
@@ -241,7 +244,6 @@
     "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
     "Fall2025/ECSE222/PP6 F25.pdf",
     "Fall2025/ECSE222/PP6 F25-Copy.pdf",
-    "Fall2025/ECSE222/ECSE 222 Lecture 21.md",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
     "Fall2025/ECSE222/PP5 F25-Copy.pdf",
     "Fall2025/ECSE222/PP5 F25.pdf"

@@ -61,7 +61,7 @@
 	Good presentation
 	Examples/Numbers
 
-# 6. Richard, High Temperature Resistant Semiconductors
+# 7. Richard, High Temperature Resistant Semiconductors
 **Topic:**
 	Semiconductors for Venus rovers
 **Specific Engineering Problem:**
@@ -70,7 +70,7 @@
 	Lot of good info on slide
 	Very detailed
 
-# 7. Hussein, RFP Diesel Reduction Roadmap for Open Pit Mine
+# 8. Hussein, RFP Diesel Reduction Roadmap for Open Pit Mine
 **Topic:**
 	Mining Industry decarbonization
 **Specific Engineering Problem:**
@@ -79,7 +79,7 @@
 	Good examples of different aspects of the problem (proposed solutions)
 	Good requirements/selection criteria
 
-# 8. Noah, RFP Pluming Problem: Greece
+# 9. Noah, RFP Pluming Problem: Greece
 **Topic:**
 	Waste Management in Greece
 **Specific Engineering Problem:**
@@ -89,7 +89,7 @@
 	Very clear request
 	Includes requirements/selection criteria
 
-# 9. Elias, Airship Solution for PNR
+# 10. Elias, Airship Solution for PNR
 **Topic:**
 	Airships for cargo transport
 **Specific Engineering Problem:**
@@ -98,7 +98,7 @@
 	Text on slide a little small
 	Good worked logistic example (node/hub and spoke)
 
-# 10. Eren, RFP Coolant for a Tokamak
+# 11. Eren, RFP Coolant for a Tokamak
 **Topic:**
 	Fusion Reactor Cooling using a Breeding Blanket
 **Specific Engineering Problem:**
@@ -108,7 +108,22 @@
 	Features good summary of criteria
 	Presents other options, and indicates problems
 	Very clear request
+# 12. Nye
+N/A
 
+# 13. Nithila, AGHS Airships
+**Topic:**
+	Airship transport for northern Canada
+**Specific Engineering Problem:**
+	AGHS (Automated Ground Handling System) for airships to allow more versatile landing environments
+**Commentary:**
+	Good angle for cost of living
+	Very specific
 
-
-
+# 14. Lucas, 
+**Topic:**
+	
+**Specific Engineering Problem:**
+	
+**Commentary:**
+	

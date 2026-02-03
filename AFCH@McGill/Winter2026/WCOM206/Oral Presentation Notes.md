@@ -51,9 +51,9 @@
 **Commentary:**
 	Little vague on specific requirements
 
-# 6. Pia, 
+# 6. Pia, RFP Removing Space Debris
 **Topic:**
-	
+	Space Debris
 **Specific Engineering Problem:**
 	
 **Commentary:**

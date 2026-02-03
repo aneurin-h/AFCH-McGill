@@ -127,4 +127,13 @@ N/A
 	Wind powered Venus rovers
 **Commentary:**
 	Pretty neat and specific idea
-	
+
+# 15. Layne, RFP Elimination of Fecal Contamination on Beaches
+**Topic:**
+	Fecal contamination from geese on public beaches
+**Specific Engineering Problem:**
+	In-water filtration system for removing fecal contamination
+**Commentary:**
+	Specific topic
+	Good considerations/selection criteria
+

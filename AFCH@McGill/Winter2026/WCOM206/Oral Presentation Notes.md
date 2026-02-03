@@ -23,4 +23,12 @@ Specific Engineering Problem:
 Commentary:
 	Good presentation
 	Good details
-	
+
+# 3. Ryan, Powering a Venus Surface Rover
+Topic:
+	Venus rover power
+Specific Engineering Problem:
+	Venus environment makes powering a rover difficult
+Commentary:
+	Introduces broad context
+	Not very specific

@@ -79,7 +79,7 @@
 	Good examples of different aspects of the problem (proposed solutions)
 	Good requirements/selection criteria
 
-# 8. Noah, Pluming Problem: Greece
+# 8. Noah, RFP Pluming Problem: Greece
 **Topic:**
 	Waste Management in Greece
 **Specific Engineering Problem:**
@@ -98,13 +98,17 @@
 	Text on slide a little small
 	Good worked logistic example (node/hub and spoke)
 
-# 10. Eren, 
+# 10. Eren, RFP Coolant for a Tokamak
 **Topic:**
-	
+	Fusion Reactor Cooling using a Breeding Blanket
 **Specific Engineering Problem:**
-	
+	Design a breeding blanket to cool reactor and breed tritium
 **Commentary:**
-	
+	Cool
+	Features good summary of criteria
+	Presents other options, and indicates problems
+	Very clear request
+
 
 
 

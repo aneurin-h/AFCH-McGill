@@ -55,6 +55,7 @@
 **Topic:**
 	Space Debris
 **Specific Engineering Problem:**
-	
+	Cleaning up large chunks of space debris
 **Commentary:**
-	
+	Good presentation
+	Examples/Numbers

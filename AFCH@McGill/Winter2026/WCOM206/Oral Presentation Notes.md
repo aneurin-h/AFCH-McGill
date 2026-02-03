@@ -1,34 +1,60 @@
 # Num. Name, Title
-Topic:
+**Topic:**
 	
-Specific Engineering Problem:
+**Specific Engineering Problem:**
 	
-Commentary:
+**Commentary:**
 	
 
 # 1. Kevin, High-Temperature Energy Storage Systems for Venus Rovers
-Topic:
+**Topic:**
 	Energy Storage for a Venus Rover
-Specific Engineering Problem:
+**Specific Engineering Problem:**
 	Combatting high temperatures for a battery system on a Venus rover
-Commentary:
+**Commentary:**
 	All memorized
 	Details good
 
 # 2. Tim, RTGs for Venus Surface Rover
-Topic:
+**Topic:**
 	Venus rover power generation
-Specific Engineering Problem:
+**Specific Engineering Problem:**
 	Using an RTG on a Venus rover
-Commentary:
+**Commentary:**
 	Good presentation
 	Good details
 
 # 3. Ryan, Powering a Venus Surface Rover
-Topic:
+**Topic:**
 	Venus rover power
-Specific Engineering Problem:
-	Venus environment makes powering a rover difficult
-Commentary:
+**Specific Engineering Problem:**
+	RTG & Battery Implementation in Venus rover
+**Commentary:**
 	Introduces broad context
 	Not very specific
+
+# 4. Alvaro, A Freight of Heights
+**Topic:**
+	Airships for Canadian North
+**Specific Engineering Problem:**
+	Using hydrogen gas and ammonia for weight control and fuel
+**Commentary:**
+	Very good presentation
+	Specific idea
+	Good response to question
+
+# 5. Camila, RFP Decarbonizing SkyExpress
+**Topic:**
+	Reducing CO2 emissions in aviation industry
+**Specific Engineering Problem:**
+	Maintaining current performance while significantly reducing emissions
+**Commentary:**
+	Little vague on specific requirements
+
+# 6. Pia, 
+**Topic:**
+	
+**Specific Engineering Problem:**
+	
+**Commentary:**
+	

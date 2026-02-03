@@ -89,12 +89,22 @@
 	Very clear request
 	Includes requirements/selection criteria
 
-# 9. Elias, 
+# 9. Elias, Airship Solution for PNR
+**Topic:**
+	Airships for cargo transport
+**Specific Engineering Problem:**
+	Buoyancy Control and Infrastructure for airships
+**Commentary:**
+	Text on slide a little small
+	Good worked logistic example (node/hub and spoke)
+
+# 10. Eren, 
 **Topic:**
 	
 **Specific Engineering Problem:**
 	
 **Commentary:**
 	
+
 
 

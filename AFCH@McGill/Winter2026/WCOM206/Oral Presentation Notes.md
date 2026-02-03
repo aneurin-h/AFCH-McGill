@@ -79,12 +79,14 @@
 	Good examples of different aspects of the problem (proposed solutions)
 	Good requirements/selection criteria
 
-# 8. Noah, 
+# 8. Noah, Pluming Problem: Greece
 **Topic:**
-	
+	Waste Management in Greece
 **Specific Engineering Problem:**
-	
+	Household method to break down toilet paper
 **Commentary:**
+	Very good presentation
+	Very clear request
+	Includes requirements/selection criteria
 	
-
 

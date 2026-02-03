@@ -56,6 +56,7 @@
 	Space Debris
 **Specific Engineering Problem:**
 	Cleaning up large chunks of space debris
+		Capturing the debris
 **Commentary:**
 	Good presentation
 	Examples/Numbers

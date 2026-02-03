@@ -120,10 +120,11 @@ N/A
 	Good angle for cost of living
 	Very specific
 
-# 14. Lucas, 
+# 14. Lucas, Venus Rover Propulsion Mechanisms
 **Topic:**
-	
+	Venus Rover Propulsion
 **Specific Engineering Problem:**
-	
+	Wind powered Venus rovers
 **Commentary:**
+	Pretty neat and specific idea
 	

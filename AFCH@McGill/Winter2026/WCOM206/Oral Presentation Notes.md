@@ -61,10 +61,11 @@
 	Good presentation
 	Examples/Numbers
 
-# 6. Richard, 
+# 6. Richard, High Temperature Resistant Semiconductors
 **Topic:**
-	
+	Semiconductors for Venus rovers
 **Specific Engineering Problem:**
-	
+	Designing a semiconductor computer for a Venus rover
 **Commentary:**
-	
+	Lot of good info on slide
+	Very detailed

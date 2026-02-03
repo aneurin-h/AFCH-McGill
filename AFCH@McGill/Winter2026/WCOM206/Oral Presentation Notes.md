@@ -70,11 +70,12 @@
 	Lot of good info on slide
 	Very detailed
 
-# 7. Hussein, 
+# 7. Hussein, RFP Diesel Reduction Roadmap for Open Pit Mine
 **Topic:**
-	
+	Mining Industry decarbonization
 **Specific Engineering Problem:**
-	
+	How to electrify/decarbonize an open pit mine
 **Commentary:**
-	
+	Good examples of different aspects of the problem (proposed solutions)
+	Good requirements/selection criteria
 

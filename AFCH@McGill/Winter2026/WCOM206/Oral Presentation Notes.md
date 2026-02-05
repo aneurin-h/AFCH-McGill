@@ -137,10 +137,11 @@ N/A
 	Specific topic
 	Good considerations/selection criteria
 
-# Num. Name, Title
+# 16. Tayan, Ballonets-Buoyancy based altitude control
 **Topic:**
-	
+	Buoyancy for airships
 **Specific Engineering Problem:**
-	
+	Controlling buoyancy of airships with ballonets to avoid venting He
 **Commentary:**
+	Good presentation
 	

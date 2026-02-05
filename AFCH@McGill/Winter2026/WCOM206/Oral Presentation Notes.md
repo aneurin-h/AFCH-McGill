@@ -144,4 +144,13 @@ N/A
 	Controlling buoyancy of airships with ballonets to avoid venting He
 **Commentary:**
 	Good presentation
+	Idea is non-novel
+
+# 17. Anastasiia, Venus Rover Wheel Design for Extreme Surface Conditions
+**Topic:**
+	Venus Rover Wheels
+**Specific Engineering Problem:**
+	Designing rover wheels to endure harsh conditions
+**Commentary:**
+	Good figures on presentation slide
 	

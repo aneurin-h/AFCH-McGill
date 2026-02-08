@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Winter2026/MATH240/Assignment1-1.pdf"
+                "file": "Winter2026/MATH240/Assignment2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment1-1"
+              "title": "Assignment2"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "251a919f09dd3a47",
   "lastOpenFiles": [
+    "Winter2026/MATH240/Assignment1-1.pdf",
     "Winter2026/Written/MATH240/MATH240-A1.svg",
     "Winter2026/MATH263/ws03-blank.pdf",
     "Winter2026/MATH263/ws02-blank.pdf",
@@ -213,7 +214,6 @@
     "Fall2025/-Assets/image-51.png",
     "Fall2025/-Assets/image-50.png",
     "Fall2025/-Assets/image-49.png",
-    "Fall2025/-Assets/image-48.png",
     "Untitled.canvas"
   ]
 }

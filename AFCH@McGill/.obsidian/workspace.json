@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Oral Presentation Notes"
             }
+          },
+          {
+            "id": "7eb2c320cafd9074",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "af1d53de9fb7b8f7",
+  "active": "7eb2c320cafd9074",
   "lastOpenFiles": [
     "Winter2026/Written/PHYS142/PHYS142-5.svg",
     "Winter2026/Written/MATH263/MATH263-5.svg",

@@ -39,12 +39,10 @@
             "id": "7eb2c320cafd9074",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -213,6 +211,8 @@
   },
   "active": "7eb2c320cafd9074",
   "lastOpenFiles": [
+    "Winter2026/Written/MATH240/MATH240-A2.svg",
+    "Winter2026/MATH240/MATH240-A2.pdf",
     "Winter2026/Written/PHYS142/PHYS142-5.svg",
     "Winter2026/Written/MATH263/MATH263-5.svg",
     "Winter2026/Written/MATH240/MATH240-5.svg",
@@ -227,7 +227,6 @@
     "Winter2026/Written/MATH263/MATH263-4.svg",
     "Winter2026/Written/MATH240/Scratchpad.svg",
     "Winter2026/Written/MATH240/MATH240-4.svg",
-    "Winter2026/Written/CHEM120/CHEM120-4.svg",
     "Winter2026/WCOM206/~$OMResearchToolkit_2024.docx",
     "Winter2026/Written/PHYS142",
     "Winter2026/MATH263/ws03-blank.pdf",
@@ -257,7 +256,6 @@
     "Fall2025/ECSE222/PP6 F25.pdf",
     "Fall2025/ECSE222/PP6 F25-Copy.pdf",
     "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
-    "Fall2025/ECSE222/PP5 F25-Copy.pdf",
-    "Fall2025/ECSE222/PP5 F25.pdf"
+    "Fall2025/ECSE222/PP5 F25-Copy.pdf"
   ]
 }

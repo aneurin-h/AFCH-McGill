@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winter2026/WCOM206/WCOM206.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WCOM206"
-            }
-          },
-          {
-            "id": "af1d53de9fb7b8f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Winter2026/WCOM206/Oral Presentation Notes.md",
                 "mode": "source",
                 "source": false
@@ -34,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Oral Presentation Notes"
             }
-          },
-          {
-            "id": "7eb2c320cafd9074",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,24 +184,23 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "7eb2c320cafd9074",
+  "active": "24f8e9aeecb99d55",
   "lastOpenFiles": [
+    "Winter2026/WCOM206/WCOM206.md",
+    "Winter2026/Written/PHYS142/PHYS142-6.svg",
+    "Winter2026/Written/MATH263/MATH263-6.svg",
+    "Winter2026/Written/MATH240/MATH240-6.svg",
+    "Winter2026/Written/CHEM120/CHEM120-6.svg",
+    "Winter2026/WCOM206/Oral Presentation Notes.md",
     "Winter2026/Written/MATH240/MATH240-A2.svg",
     "Winter2026/MATH240/MATH240-A2.pdf",
     "Winter2026/Written/PHYS142/PHYS142-5.svg",
     "Winter2026/Written/MATH263/MATH263-5.svg",
     "Winter2026/Written/MATH240/MATH240-5.svg",
     "Winter2026/MATH240/MATH240-A1.pdf",
-    "Winter2026/WCOM206/Oral Presentation Notes.md",
     "Winter2026/Written/CHEM120/Chem120-5.svg",
     "Winter2026/Written/CHEM120/Scratchpad.svg",
     "Winter2026/MATH240/Assignment1-1.pdf",
-    "Winter2026/WCOM206/WCOM206.md",
-    "Winter2026/Written/PHYS142/Scratchpad.svg",
-    "Winter2026/Written/PHYS142/PHYS142-4.svg",
-    "Winter2026/Written/MATH263/MATH263-4.svg",
-    "Winter2026/Written/MATH240/Scratchpad.svg",
-    "Winter2026/Written/MATH240/MATH240-4.svg",
     "Winter2026/WCOM206/~$OMResearchToolkit_2024.docx",
     "Winter2026/Written/PHYS142",
     "Winter2026/MATH263/ws03-blank.pdf",

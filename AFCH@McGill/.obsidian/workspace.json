@@ -11,14 +11,12 @@
             "id": "24f8e9aeecb99d55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Winter2026/WCOM206/WCOM206.md",
-                "mode": "source",
-                "source": false
+                "file": "Winter2026/MATH240/MATH240-A2 (1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "WCOM206"
+              "icon": "lucide-file-text",
+              "title": "MATH240-A2 (1)"
             }
           }
         ]
@@ -186,8 +184,9 @@
   },
   "active": "24f8e9aeecb99d55",
   "lastOpenFiles": [
-    "Winter2026/WCOM206/Oral Presentation Notes.md",
     "Winter2026/WCOM206/WCOM206.md",
+    "Winter2026/MATH240/MATH240-A2 (1).pdf",
+    "Winter2026/WCOM206/Oral Presentation Notes.md",
     "Winter2026/Written/PHYS142/PHYS142-6.svg",
     "Winter2026/Written/MATH263/MATH263-6.svg",
     "Winter2026/Written/MATH240/MATH240-6.svg",
@@ -229,7 +228,6 @@
     "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
     "Fall2025/ECSE222/PP6 F25.pdf",
     "Fall2025/ECSE222/PP6 F25-Copy.pdf",
-    "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
-    "Fall2025/ECSE222/PP5 F25-Copy.pdf"
+    "Fall2025/ECSE222/ECSE 222 PP2-work.pdf"
   ]
 }

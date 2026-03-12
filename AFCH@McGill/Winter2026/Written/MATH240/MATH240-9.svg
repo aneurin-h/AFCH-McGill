@@ -1,0 +1,60 @@
+<svg id="write-document" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect id="write-doc-background" width="100%" height="100%" fill="#808080"/>
+<defs id="write-defs">
+<image id='thumbnail' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAAGQCAYAAACQ1u18AAAFD0lEQVR4Ae3awQnCQBRF0YnEVdpJH+m/FQWjbhTXSuTCOQ2YzWU+8qb9YRzpeh3jfB7A906prwU+CBjCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMLm57LxUJcB/Mj8l1myKTT8hBMawgQMYQKGMAFDmIAhTMAQJmAIEzCECRjCTCkhzJQSwpzQECZgCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIs4WGMFtoCHNCQ5iAIUzAECZgCBMwhAkYwgQMYQKGMAFDmCklhJlSQpgTGsIEDGEChjABQ5iAIUzAECZgCBMwhAkYwkwpIcyUEsKc0BAmYAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCLOFhjBbaAhzQkOYgCFMwBAmYAgTMIQJGMIEDGEChjABQ5gpJYSZUkKYExrCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMJMKSHMlBLCnNAQJmAIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAizhYYwW2gIc0JDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUOYKSWEmVJCmBMawgQMYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhttAQZgsNYU5oCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIM6WEMFNKCHNCQ5iAIUzAECZgCBMwhAkYwgQMYQKGMAFDmCklhJlSQpgTGsIEDGEChjABQ5iAIUzAECZgCBMwhAkYwgQMYbbQEGYLDWFOaAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCDOlhDBTSghzQkOYgCFMwBAmYAgTMIQJGMIEDGEChjABQ5gpJYSZUkKYExrCBAxhAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGG20BBmCw1hTmgIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAgzpYQwU0oIc0JDmIAhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCHMFhrCbKEhzAkNYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhppQQZkoJYU5oCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIM6WEMFNKCHNCQ5iAIUzAECZgCBMwhAkYwgQMYQKGMAFDmIAhzBYawmyhIcwJDWEChjABQ5iAIUzAECZgCBMwhAkYwgQMYaaUEGZKCWFOaAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCDOlhDBTSghzQkOYgCFMwBAmYAgTMIQJGMIEDGEChjABQ5iAIcwWGsJsoSHMCQ1hAoYwAUOYgCFMwBAmYAgTMIQJGMIEDGGmlBBmSglhTmgIEzCECRjCBAxhAoYwAUOYgCFMwBAmYAgTMITZQkOYLTSEOaEhTMAQJmAIEzCECRjCBAxhAoYwAUOYgCHMlBLCTCkhzAkNYQKGMAFDmIAhTMAQJmAIEzCECRjCBAxhppQQZkoJYU5oCBMwhAkYwgQMYQKGMAFDmIAhTMAQJmAIEzCE2UJDmC00hDmhIUzAECZgCBMwhAkYwgQMYQKGMAFDmIAhzJQSwkwpIcwJDWEChjABQ5iAIUzAECZgCBMwhAkYwgQMYaaUEGZKCWFOaAgTMIQJGMIEDGEChjABQ5iAIUzAECZgCBMwhNlCQ5gtNIQ5oSFMwBAmYAgTMIQJGMIEDGEChjABQ5iAIcyUEsJMKSFsWtd1T30x8PJ4gT2HUDUvy5L6YODNv9AQJmAIEzCEzdu2HfqDp30ft2kawPe8wBAmYAgTMIQJGMIEDGF3FfZ1Px8m6E0AAAAASUVORK5CYII='/>
+
+<script type="text/writeconfig">
+  <int name="docFormatVersion" value="2" />
+  <int name="pageNum" value="0" />
+  <float name="xOffset" value="-8.115942" />
+  <float name="yOffset" value="-9.85507202" />
+</script>
+</defs>
+<svg class="write-page" color-interpolation="linearRGB" x="10" y="10" width="844px" height="1366px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g class="write-content write-v3" width="844" height="1366" xruling="0" yruling="40" marginLeft="100" papercolor="#FFFFFF" rulecolor="#9F0000FF">
+    <g class="ruleline write-std-ruling write-scale-down" fill="none" stroke="#0000FF" stroke-opacity="0.624" stroke-width="1" shape-rendering="crispEdges" vector-effect="non-scaling-stroke">
+      <rect class="pagerect" fill="#FFFFFF" stroke="none" x="0" y="0" width="844" height="1366" />
+      <path class="yrule_1" d="M0 40 l844 0" />
+      <path d="M0 80 l844 0" />
+      <path d="M0 120 l844 0" />
+      <path d="M0 160 l844 0" />
+      <path d="M0 200 l844 0" />
+      <path d="M0 240 l844 0" />
+      <path d="M0 280 l844 0" />
+      <path d="M0 320 l844 0" />
+      <path d="M0 360 l844 0" />
+      <path d="M0 400 l844 0" />
+      <path d="M0 440 l844 0" />
+      <path d="M0 480 l844 0" />
+      <path d="M0 520 l844 0" />
+      <path d="M0 560 l844 0" />
+      <path d="M0 600 l844 0" />
+      <path d="M0 640 l844 0" />
+      <path d="M0 680 l844 0" />
+      <path d="M0 720 l844 0" />
+      <path d="M0 760 l844 0" />
+      <path d="M0 800 l844 0" />
+      <path d="M0 840 l844 0" />
+      <path d="M0 880 l844 0" />
+      <path d="M0 920 l844 0" />
+      <path d="M0 960 l844 0" />
+      <path d="M0 1000 l844 0" />
+      <path d="M0 1040 l844 0" />
+      <path d="M0 1080 l844 0" />
+      <path d="M0 1120 l844 0" />
+      <path d="M0 1160 l844 0" />
+      <path d="M0 1200 l844 0" />
+      <path d="M0 1240 l844 0" />
+      <path d="M0 1280 l844 0" />
+      <path d="M0 1320 l844 0" />
+      <path d="M0 1360 l844 0" />
+      <path class="leftmargin" stroke="#FF0000" d="M100 0 l0 1366" />
+    </g>
+  </g>
+</svg>
+<defs>
+<style type="text/css"><![CDATA[
+  #write-document, #write-doc-background { width: 864px;  height: 1386px; }
+]]></style>
+</defs>
+</svg>

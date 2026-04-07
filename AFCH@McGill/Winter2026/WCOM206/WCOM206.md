@@ -1,4 +1,5 @@
 ## Tokamak Presentation
 How manage temp before reactor running/downtime
+Toxicity
 Structure -> Inconel, cost increase?
-Much lower heat capacity (1/2), does cause problems?
+~~Much lower heat capacity (1/2), does cause problems?~~

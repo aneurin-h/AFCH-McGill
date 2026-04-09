@@ -17,7 +17,9 @@ Structure -> Inconel, cost increase?
 ## Venus Presentation
 Lot of detail on chosen alloy, less so on other alloys weaknesses
 Molten Salt is a interesting (good) choice
+	1kWh
 RTG output?
+	83 W
 How to test/prove/readiness
 Benefits of push-pull
 	Especially over 4wd

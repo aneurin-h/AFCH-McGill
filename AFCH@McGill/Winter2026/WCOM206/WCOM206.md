@@ -17,16 +17,18 @@ Structure -> Inconel, cost increase?
 ## Venus Presentation
 Lot of detail on chosen alloy, less so on other alloys weaknesses
 Molten Salt is a interesting (good) choice
+RTG output?
 How to test/prove/readiness
 Benefits of push-pull
 	Especially over 4wd
 Camera: Why 360deg
-What reactions are being done, if steering is purely mechanical
+**What reactions are being done, if steering is purely mechanical**
 Is data filtration necessary on-board? (asked)
 	How to know if something is meaningful
 	Send more, or collect less
 Keep memory free in case of emergencies?
-VHF?? Absorbtion? (100MHZ)
+VHF?? Absorption? (100MHZ)
 Compared to UHF, but not HF? would seem better for thicker atm
 More could have been explained about SiC
 Lot of AI images
+Overall mass, and LV needed for launch/transfer

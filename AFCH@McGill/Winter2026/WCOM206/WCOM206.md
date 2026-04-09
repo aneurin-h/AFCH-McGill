@@ -1,3 +1,9 @@
+Add Questions tonight (due 11:59)
+Respond tomorrow (due 11:59)
+
+Do Oral Critique assignment tomorrow (due 11:59)
+
+Business proposal due 4/16, with meeting minutes
 ## Tokamak Presentation
 How manage temp before reactor running/downtime
 Toxicity hazard for maintenance?

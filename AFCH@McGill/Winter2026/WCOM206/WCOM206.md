@@ -29,3 +29,4 @@ Keep memory free in case of emergencies?
 VHF?? Absorbtion?
 Compared to UHF, but not HF? would seem better for thicker atm
 More could have been explained about SiC
+Lot of AI images

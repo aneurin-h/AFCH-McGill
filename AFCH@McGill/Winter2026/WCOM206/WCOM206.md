@@ -26,3 +26,6 @@ Is data filtration necessary on-board?
 	How to know if something is meaningful
 	Send more, or collect less
 Keep memory free in case of emergencies?
+VHF?? Absorbtion?
+Compared to UHF, but not HF? would seem better for thicker atm
+More could have been explained about SiC

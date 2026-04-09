@@ -25,3 +25,4 @@ What reactions are being done, if steering is purely mechanical
 Is data filtration necessary on-board?
 	How to know if something is meaningful
 	Send more, or collect less
+Keep memory free in case of emergencies?

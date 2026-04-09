@@ -16,3 +16,4 @@ Structure -> Inconel, cost increase?
 
 ## Venus Presentation
 Lot of detail on chosen alloy, less so on other alloys weaknesses
+Molten Salt is a interesting (good) choice

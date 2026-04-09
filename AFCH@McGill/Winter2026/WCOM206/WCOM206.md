@@ -15,3 +15,4 @@ Structure -> Inconel, cost increase?
 ~~Much lower heat capacity (1/2), does cause problems?~~
 
 ## Venus Presentation
+Lot of detail on chosen alloy, less so on other alloys weaknesses

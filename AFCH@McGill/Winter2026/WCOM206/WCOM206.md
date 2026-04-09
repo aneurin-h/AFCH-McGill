@@ -22,7 +22,7 @@ Benefits of push-pull
 	Especially over 4wd
 Camera: Why 360deg
 What reactions are being done, if steering is purely mechanical
-Is data filtration necessary on-board?
+Is data filtration necessary on-board? (asked)
 	How to know if something is meaningful
 	Send more, or collect less
 Keep memory free in case of emergencies?

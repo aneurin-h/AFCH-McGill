@@ -83,7 +83,7 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Test Setup Description: AV Bay with FC, 25.2V from power supply
     * SW commit (with link):
 * Desired Result: FC operates correctly on 25.2V, with CAN communication for Prop Top/Bottom
-* Result: CAN was unable to be tested due to a short in Prop Top (Short is in VBat, runs correctly off USB-C, but not power supply set to 0.2A through backplane). Additionally, the FC 
+* Result: CAN was unable to be tested due to a short in Prop Top (Short is in VBat, runs correctly off USB-C, but not power supply set to 0.2A through backplane). Additionally, the FC was continually resetting after attempting to enable radio power in the 900MHz 
 * Ensuing Design Adjustments:
 * Will a report be provided?: Yes/No
 

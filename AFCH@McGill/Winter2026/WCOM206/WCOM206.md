@@ -60,7 +60,7 @@ Exhaust condensers are not essential to our design, but could be explored during
 
 # Post template
 
-**_2026-04-11 - AV Bay SW Intergration_**
+**_2026-04-11 - AV Bay SW Integration_**
 
 * Goal: Verify SW for FC with Backplane
 * Location: Workshop
@@ -74,20 +74,21 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Will a report be provided?: Yes/No
 
 
-**_2026-04-11 - AV Bay HW Intergration_**
+**_2026-04-11 - AV Bay HW Integration_**
 
-* Goal: Verify HW for FC with Backplane
+* Goal: Verify HW for FC with Backplane at 25V
 * Location: Workshop
 * Personnel:
 * Tested Component(s)/System: FC SN01, Backplane, AV Bay Radio: 433-SN2, PCB
 * Test Setup Description: AV Bay with FC, 25.2V from power supply
     * SW commit (with link):
 * Desired Result: FC operates correctly on 25.2V, with CAN communication for Prop Top/Bottom
-* Result: CAN was unable to be tested due to a short in Prop Top (Short is in VBat, runs correctly off USB-C, but not power supply set to 0.2A through backplane).
+* Result: CAN was unable to be tested due to a power supply issue (short?) in Prop Top (Short is in VBat, runs correctly off USB-C, but not power supply set to 0.2A through backplane). 
   
+  - We were unable to test with FCs other than SN01, due to issues with power cycling.
+  - We were unable to do any testing with the prop system due to the power issues mentioned
   
-  
-  Additionally, the FC was continually resetting after attempting to enable radio power in the 900MHz slot. Tested with known-good radios on 900, so problem is suspected to be in the backplane (Or maybe PCB).
+  Additionally, the FC was continually resetting after attempting to enable radio power in the 900MHz slot. Tested with known-good radios on 900, so problem is suspected to be in the backplane (Or maybe PCB). Worked fine in the 433 slot.
 * Ensuing Design Adjustments:
 * Will a report be provided?: Yes/No
 

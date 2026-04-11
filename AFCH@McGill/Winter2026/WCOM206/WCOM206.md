@@ -41,3 +41,4 @@ A 200 ton payload capacity was chosen to provide substantial cargo capabilities,
 
 
 Envelope Life Cycle
+We recognize that hydrogen is a very hard substance to contain, especially in these volumes. 

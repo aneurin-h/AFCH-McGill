@@ -40,3 +40,4 @@ Given that the current geopolitical situation is rapidly evolving and volatile, 
 A 200 ton payload capacity was chosen to provide substantial cargo capabilities, which allow us to reduce the cost/kg, and operate fewer airships. This also allows us to move both larger and heavier cargoes, which is important to permit growth in the arctic regions, specifically enabling larger water-treatment plants, industrial operations, and potentially transport for defence use cases. This increases our efficiency, as our fixed operational costs are distributed over a much larger cargo. Our proposal neither aims to compete with planes, nor replace them, as our design is fundamentally slower, regardless of payload mass.
 
 
+Envelope Life Cycle

@@ -69,7 +69,7 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Test Setup Description: AV Bay with FC, no CAN, due to a short in Prop Top (Short is in VBat, runs off USB-C, power supply set to 0.2A through backplane)
     * SW commit (with link):
 * Desired Result: FC sends and receives telemetry and commands end to end, while powered off of 25.2V
-* Result: 
+* Result: FC was able to send telemetry, and receive commands, and correctly was able 
 * Ensuing Design Adjustments:
 * Will a report be provided?: Yes/No
 

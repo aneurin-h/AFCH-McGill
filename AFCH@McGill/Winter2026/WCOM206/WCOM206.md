@@ -96,12 +96,15 @@ Good:
 FCSN01
 All Radios Boards
 
-
 Bad:
 Prop Top (Possible short / current limit)
+Backplane (Issue on 900 radio power)
+FCSN02 (Power cycling at 5 & 25V, slightly different points)
+FCSN03 (Power cycling at 25V)
 
 Untested:
 Prop Bottom
+PCB
 
 
 Tested 433SN2, and 900SN2 (Both bodged and unbodged) radio boards. Both 900 boards caused the FC to reset when radio power was enabled. Problem suspected to be in the backplane.

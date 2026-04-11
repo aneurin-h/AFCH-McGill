@@ -65,7 +65,7 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Goal: Verify SW for FC with Backplane
 * Location: Workshop
 * Personnel:
-* Tested Component(s)/System: FC SN01, Backplane, Radios boards: Bodged & unbodged 900-SN2s , 433-SN2, PCB
+* Tested Component(s)/System: FC SN01, Backplane, AV Bay Radio: 433-SN2, PCB
 * Test Setup Description: AV Bay with FC, System A Pad and Control Station radios
     * SW commit (with link):
 * Desired Result: FC sends and receives telemetry and commands end to end, while powered off of 25.2V
@@ -79,11 +79,11 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Goal: Verify HW for FC with Backplane
 * Location: Workshop
 * Personnel:
-* Tested Component(s)/System: FC SN01, Backplane, Radios boards: Bodged & unbodged 900-SN2s , 433-SN2, PCB
+* Tested Component(s)/System: FC SN01, Backplane, AV Bay Radio: 433-SN2, PCB
 * Test Setup Description: AV Bay with FC, 25.2V from power supply
     * SW commit (with link):
 * Desired Result: FC operates correctly on 25.2V, with CAN communication for Prop Top/Bottom
-* Result: CAN was unable to be tested due to a short in Prop Top (Short is in VBat, runs correctly off USB-C, but not power supply set to 0.2A through backplane). Additionally, the FC was reset
+* Result: CAN was unable to be tested due to a short in Prop Top (Short is in VBat, runs correctly off USB-C, but not power supply set to 0.2A through backplane). Additionally, the FC 
 * Ensuing Design Adjustments:
 * Will a report be provided?: Yes/No
 

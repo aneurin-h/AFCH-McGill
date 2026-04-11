@@ -92,8 +92,16 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Ensuing Design Adjustments:
 * Will a report be provided?: Yes/No
 
+Good:
+FCSN01
+All Radios Boards
 
 
+Bad:
+Prop Top (Possible short / current limit)
+
+Untested:
+Prop Bottom
 
 
 Tested 433SN2, and 900SN2 (Both bodged and unbodged) radio boards. Both 900 boards caused the FC to reset when radio power was enabled. Problem suspected to be in the backplane.

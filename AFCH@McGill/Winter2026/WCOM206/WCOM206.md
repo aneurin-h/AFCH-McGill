@@ -60,18 +60,35 @@ Exhaust condensers are not essential to our design, but could be explored during
 
 # Post template
 
-**_2026-04-11 - AV Bay Intergration_**
+**_2026-04-11 - AV Bay SW Intergration_**
 
-* Goal: 
-* Location:
+* Goal: Verify SW for FC with Backplane
+* Location: Workshop
 * Personnel:
 * Tested Component(s)/System: FC SN01, Backplane, Radios boards: Bodged & unbodged 900-SN2s , 433-SN2, PCB
-* Test Setup Description: AV Bay with FC, no CAN, due to a short in Prop Top (Short is in VBat, runs off USB-C, power supply set to 0.2A through backplane)
+* Test Setup Description: AV Bay with FC, System A Pad and Control Station radios
     * SW commit (with link):
 * Desired Result: FC sends and receives telemetry and commands end to end, while powered off of 25.2V
-* Result: FC was able to send telemetry, and receive commands, and correctly was able 
+* Result: FC was able to send telemetry, and receive commands, and correctly was able to send packets with BAD and NAK flags, when the commands were unable to be completed, or was a NOP, respectively. Ground Station correctly parsed the flags in the packet.
 * Ensuing Design Adjustments:
 * Will a report be provided?: Yes/No
+
+
+**_2026-04-11 - AV Bay HW Intergration_**
+
+* Goal: Verify HW for FC with Backplane
+* Location: Workshop
+* Personnel:
+* Tested Component(s)/System: FC SN01, Backplane, Radios boards: Bodged & unbodged 900-SN2s , 433-SN2, PCB
+* Test Setup Description: AV Bay with FC, 25.2V from power supply
+    * SW commit (with link):
+* Desired Result: FC sends and receives telemetry and commands end to end, while powered off of 25.2V
+* Result: FC was able to send telemetry, and receive commands, and correctly was able to send packets with BAD and NAK flags, when the commands were unable to be completed, or was a NOP, respectively. Ground Station correctly parsed the flags in the packet.
+* Ensuing Design Adjustments:
+* Will a report be provided?: Yes/No
+
+
+no CAN due to a short in Prop Top (Short is in VBat, runs off USB-C, power supply set to 0.2A through backplane)
 
 
 Tested 433SN2, and 900SN2 (Both bodged and unbodged) radio boards. Both 900 boards caused the FC to reset when radio power was enabled. Problem suspected to be in the backplane.

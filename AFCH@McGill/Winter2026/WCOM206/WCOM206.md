@@ -65,13 +65,16 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Goal: 
 * Location:
 * Personnel:
-* Tested Component(s)/System:
-* Test Setup Description: FC SN01, Backplane, Radios boards 400-SN2, 900-SN2 (Problematic), & 
+* Tested Component(s)/System: FC SN01, Backplane, Radios boards: Bodged & unbodged 900-SN2s , 433-SN2, PCB
+* Test Setup Description: AV Bay with FC, no CAN, due to a short in Prop Top (Short is in VBat, runs off USB-C, power supply set to 0.2A through backplane)
     * SW commit (with link):
-* Desired Result:
-* Result:
+* Desired Result: FC sends and receives telemetry and commands end to end, while powered off of 25.2V
+* Result: 
 * Ensuing Design Adjustments:
 * Will a report be provided?: Yes/No
 
 
-Radios board had a short, causing FC reset when radio power is enabled, bodged radios board replaced
+Tested 433SN2, and 900SN2 (Both bodged and unbodged) radio boards. Both 900 boards caused the FC to reset when radio power was enabled. Problem suspected to be in the backplane.
+
+All end-to-end testing was done with the 433 radio boards
+

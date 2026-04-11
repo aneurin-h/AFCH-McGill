@@ -34,3 +34,6 @@ Compared to UHF, but not HF? would seem better for thicker atm
 More could have been explained about SiC
 Lot of AI images
 Overall mass, and LV needed for launch/transfer
+
+
+Given that the current geopolitical situation is rapidly evolving and volatile, it is important to note that our current pricing models were developed with historical data. Our airship has been designed in order to minimize the amount of helium used (and especially the amount lost), so we would be affected less by rising helium costs. To obtain large quantities of helium, our proposal would be limited to the current sources, although due to the development timeline, we are not able to determine how much present instability would affect the cost. A 200 tons payload capacity was chosen to provide substantial cargo capabilities, which allow us to reduce the cost/kg, and operate fewer airships. This also allows us to move both larger and heavier cargoes, which is important to permit growth in the arctic regions, specifically enabling larger water-treatment plants, industrial operations, and potentially transport for defen

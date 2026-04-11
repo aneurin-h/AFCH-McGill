@@ -66,7 +66,7 @@ Exhaust condensers are not essential to our design, but could be explored during
 * Location:
 * Personnel:
 * Tested Component(s)/System:
-* Test Setup Description: FC SN01, Backplane, Radios boards 400-SN2, 900-SN2 (Removed), & 
+* Test Setup Description: FC SN01, Backplane, Radios boards 400-SN2, 900-SN2 (Problematic), & 
     * SW commit (with link):
 * Desired Result:
 * Result:

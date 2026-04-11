@@ -46,3 +46,32 @@ We recognize that hydrogen is a very hard substance to contain, especially in th
 
 Fuel Reclamation/Buoyancy
 Exhaust condensers are not essential to our design, but could be explored during the testing phase if necessary. As we model routes more closely, and gain a better understanding of typical fuel burn amounts, we will assess if this recovery is necessary for our desired operating margins. In order to make these vents more economical, we will explore the possibility of venting hydrogen gas through the turbine, where it is combusted, in order to recoup some energy from the gas, decreasing fuel burn slightly, and making our vents less of a flammability hazard. This supplemental system would be thoroughly tested during the testing phase, with the intent to deploy it on the full-scale airship, unless significant issues were observed.
+
+
+
+
+
+
+
+
+
+
+
+
+# Post template
+
+**_2026-04-11 - AV Bay Intergration_**
+
+* Goal: 
+* Location:
+* Personnel:
+* Tested Component(s)/System:
+* Test Setup Description: FC SN01, Backplane, Radios boards 400-SN2, 900-SN2 (Removed), & 
+    * SW commit (with link):
+* Desired Result:
+* Result:
+* Ensuing Design Adjustments:
+* Will a report be provided?: Yes/No
+
+
+Radios board had a short, causing FC reset when radio power is enabled, bodged radios board replaced

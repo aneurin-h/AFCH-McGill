@@ -7,3 +7,4 @@ Review Graphs
 	Colorings, terms, etc
 Review RSA
 	Memorize keygen
+Recurrence Relations

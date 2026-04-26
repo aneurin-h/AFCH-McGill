@@ -8,3 +8,10 @@ Review Graphs
 Review RSA
 	Memorize keygen
 Recurrence Relations
+
+Plan
+Slides for Coloring/Graph
+MT for Modular
+Tutorial for Relations
+MT for RSA
+Tutorial for Modular

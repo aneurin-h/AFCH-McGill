@@ -8,6 +8,7 @@ Review Graphs
 Review RSA
 	Memorize keygen
 Recurrence Relations
+COUNTING - Binomial Coeff
 
 Plan
 Slides for Coloring/Graph

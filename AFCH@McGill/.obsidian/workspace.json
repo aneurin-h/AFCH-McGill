@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d825d5476e53fd6",
+        "id": "6f772c6c44ac5b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "24f8e9aeecb99d55",
+            "id": "aea8088c506ce3ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Winter2026/MATH240/TODO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "New tab"
             }
           }
         ]
@@ -184,10 +180,10 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "24f8e9aeecb99d55",
+  "active": "aea8088c506ce3ae",
   "lastOpenFiles": [
-    "Winter2026/WCOM206/WCOM206.md",
     "Winter2026/MATH240/TODO.md",
+    "Winter2026/WCOM206/WCOM206.md",
     "Winter2026/Written/PHYS142/PHYS142-12.svg",
     "Winter2026/Written/MATH263/MATH263-12.svg",
     "Winter2026/Written/MATH240/MATH240-13.svg",

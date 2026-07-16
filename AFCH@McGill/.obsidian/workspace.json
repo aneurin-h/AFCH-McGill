@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5d825d5476e53fd6",
+        "id": "6f772c6c44ac5b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "3de2edd8dbe2be14",
+            "id": "aea8088c506ce3ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 14 2025-09-29.excalidraw.md"
+                "file": "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 14 2025-09-29.excalidraw"
-            }
-          },
-          {
-            "id": "03cfc23e41659bb6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 18 2025-10-08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 18 2025-10-08.excalidraw"
-            }
-          },
-          {
-            "id": "24f8e9aeecb99d55",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fall2025/-Drawings/MATH 338 Lecture 25 2025-11-03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MATH 338 Lecture 25 2025-11-03.excalidraw"
+              "icon": "lucide-file",
+              "title": "ECSE 222 Lecture 22"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2025/-Excalidraw/MATH 338 Lecture 26 2025-11-05.excalidraw.md",
+                "file": "Winter2026/WCOM206/Oral Presentation Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MATH 338 Lecture 26 2025-11-05.excalidraw"
+              "title": "Outline of Oral Presentation Notes"
             }
           },
           {
@@ -207,53 +184,53 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "03cfc23e41659bb6",
+  "active": "aea8088c506ce3ae",
   "lastOpenFiles": [
-    "Fall2025/MATH338/MATH 338 Lecture 18.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 14 2025-09-29.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 25 2025-11-03.excalidraw.md",
+    "Fall2025/ECSE222/ECSE 222 Lecture 21.md",
+    "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
+    "Fall2025/FACC100/FACC 100 Lecture 9.md",
+    "Fall2025/FACC100/FACC 100 Lecture 8.md",
+    "Fall2025/FACC100/FACC 100 Lecture 7.md",
+    "Fall2025/FACC100/FACC 100 Lecture 6.md",
+    "Fall2025/FACC100/FACC 100 Lecture 5.md",
+    "Fall2025/FACC100/FACC 100 Lecture 4.md",
+    "Fall2025/FACC100/FACC 100 Lecture 10.md",
+    "Fall2025/FACC100/FACC 100 Lecture 11.md",
+    "Fall2025/FACC100",
+    "Fall2025/Written/Work-MATH314.svg",
+    "Fall2025/Written/Work-MATH133.svg",
+    "Fall2025/Written/Work-ECSE222.svg",
+    "Fall2025/Written/PHYS142.svg",
+    "Fall2025/Written/MATH338.svgz",
+    "Fall2025/Written/MATH263.svg",
+    "Fall2025/Written/MATH314.svgz",
+    "Fall2025/Written/CHEM120.svg",
+    "Fall2025/Written/MATH240.svg",
+    "Fall2025/Written/MATH133.svg",
+    "Fall2025/Written",
+    "Fall2025/MATH338/Scratchpad.md",
+    "Fall2025/MATH338/MATH 338 Lecture 32.md",
+    "Fall2025/MATH338/MATH 338 Lecture 31.md",
+    "Fall2025/MATH338/MATH 338 Lecture 30.md",
+    "Fall2025/MATH338/MATH 338 Lecture 29.md",
+    "Fall2025/MATH338/MATH 338 Lecture 27.md",
+    "Fall2025/MATH338/MATH 338 Lecture 28.md",
+    "Fall2025/MATH338/MATH 338 Lecture 26.md",
     "Fall2025/MATH338/MATH 338 Lecture 25.md",
     "Fall2025/MATH338/MATH 338 Lecture 24.md",
     "Fall2025/MATH338/MATH 338 Lecture 23.md",
     "Fall2025/MATH338/MATH 338 Lecture 22.md",
-    "Fall2025/MATH338/MATH 338 Lecture 21.md",
     "Fall2025/MATH338/MATH 338 Lecture 20.md",
+    "Fall2025/MATH338/MATH 338 Lecture 21.md",
     "Fall2025/MATH338/MATH 338 Lecture 19.md",
-    "Fall2025/MATH338/MATH 338 Lecture 29.md",
-    "Fall2025/MATH338/MATH 338 Lecture 28.md",
-    "Fall2025/MATH338/MATH 338 Lecture 27.md",
-    "Fall2025/MATH338/MATH 338 Lecture 16.md",
-    "Fall2025/MATH338/MATH 338 Lecture 15.md",
-    "Fall2025/MATH338/MATH 338 Lecture 14.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 15 2025-10-01.excalidraw.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 13 2025-09-26.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 13.md",
-    "Fall2025/-Drawings/MATH 338 Lecture 12 2025-09-24 08.35.34.excalidraw.md",
-    "Fall2025/MATH338/MATH 338 Lecture 12.md",
-    "Fall2025/ECSE222/ECSE 222 Lecture 22.md",
-    "Fall2025/Written/Work-ECSE222.svg",
-    "Fall2025/Written/Work-MATH133.svg",
+    "Fall2025/MATH338/MATH 338 Lecture 18.md",
+    "Fall2025/MATH338",
+    "Fall2025/MATH314",
+    "Fall2025/MATH133",
+    "Fall2025/ECSE250",
+    "Fall2025/ECSE222/ECSE 222 PP1-work.pdf",
     "Fall2025/ECSE222/PP6 F25.pdf",
-    "Fall2025/ECSE222/PP6 F25-Copy.pdf",
-    "Fall2025/ECSE222/ECSE 222 Lecture 21.md",
-    "Fall2025/-Assets/image-90.png",
-    "Fall2025/-Assets/image-89.png",
-    "Fall2025/-Assets/image-88.png",
-    "Fall2025/-Assets/image-87.png",
-    "Fall2025/-Assets/image-86.png",
-    "Fall2025/ECSE222/ECSE 222 PP2-work.pdf",
-    "Fall2025/ECSE250/ECSE 250 Lecture 22.md",
-    "Fall2025/-Assets/image-85.png",
-    "conflict-files-obsidian-git.md",
-    "Fall2025/Written/Work-MATH314.svg",
-    "Fall2025/ECSE222/ECSE 222 Tutorial 6.md",
-    "Fall2025/-Assets/image-84.png",
-    "Fall2025/ECSE222/PP5 F25-Copy.pdf",
-    "Fall2025/ECSE222/PP5 F25.pdf",
-    "Fall2025/Written/test.svgz",
-    "Fall2025/Written/MATH314 - Copy.svgz",
-    "Fall2025/Written/MATH338.svgz",
-    "Fall2025/Written/MATH314.svgz",
-    "Fall2025/Written/MATH133.svgz"
+    "Fall2025/-Assets/image.png",
+    "Fall2025/-Assets/image-90.png"
   ]
 }

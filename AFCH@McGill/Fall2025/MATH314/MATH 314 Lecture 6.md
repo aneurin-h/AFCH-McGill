@@ -1,1 +1,0 @@
-![[MATH 314 Lecture 6 2025-10-23.excalidraw]]

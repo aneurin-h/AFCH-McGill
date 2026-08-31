@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winter2026/WCOM206/Oral Presentation Notes.md",
+                "file": "Fall2026/ECSE200/ECSE 200 Lecture 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Oral Presentation Notes"
+              "title": "Outline"
             }
           },
           {
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +185,7 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "4b50ab165f386577",
+  "active": "89f6c315c5d8afae",
   "lastOpenFiles": [
     "Fall2026/ECSE200/ECSE 200 Lecture 1.md",
     "Fall2026/ECSE200",

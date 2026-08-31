@@ -1,1 +1,0 @@
-![[Midterm Prep 2025-10-16.excalidraw]]![[Midterm Prep 2025-10-17.excalidraw]]

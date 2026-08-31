@@ -5,3 +5,5 @@ Prof Kanaan
 36% - 12 Quizzes, (only 9 count)
 	- Weekly, starting week of 9/7
 44% - Final Exam
+
+

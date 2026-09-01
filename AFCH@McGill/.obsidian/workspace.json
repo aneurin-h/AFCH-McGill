@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2026/COMP251/COMP 251 Lecture 1.md",
+                "file": "Fall2026/COMP206/COMP 206 Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMP 251 Lecture 1"
+              "title": "COMP 206 Lecture 1"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall2026/COMP251/COMP 251 Lecture 1.md",
+                "file": "Fall2026/COMP206/COMP 206 Lecture 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +188,10 @@
   },
   "active": "5aac55f41a21a600",
   "lastOpenFiles": [
-    "Fall2026/MATH242/w1.svg",
     "Fall2026/COMP251/COMP 251 Lecture 1.md",
+    "Fall2026/COMP206/COMP 206 Lecture 1.md",
+    "Fall2026/COMP206",
+    "Fall2026/MATH242/w1.svg",
     "Fall2026/MATH242",
     "Fall2026/ECSE205/w1.svg",
     "Fall2026/ECSE205",
@@ -231,7 +233,6 @@
     "Fall2025/MATH338/MATH 338 Lecture 24.md",
     "Fall2025/MATH338/MATH 338 Lecture 23.md",
     "Fall2025/MATH338/MATH 338 Lecture 22.md",
-    "Fall2025/MATH338/MATH 338 Lecture 20.md",
-    "Fall2025/MATH338"
+    "Fall2025/MATH338/MATH 338 Lecture 20.md"
   ]
 }

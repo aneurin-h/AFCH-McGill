@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall2026/COMP206/COMP 206 Lecture 1.md",
+                "file": "Fall2026/COMP206/COMP 206 Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMP 206 Lecture 1"
+              "title": "COMP 206 Week 1"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 209.5
   },
   "right": {
     "id": "c7844a5efad921a5",
@@ -189,7 +189,7 @@
   "active": "5aac55f41a21a600",
   "lastOpenFiles": [
     "Fall2026/COMP251/COMP 251 Lecture 1.md",
-    "Fall2026/COMP206/COMP 206 Lecture 1.md",
+    "Fall2026/COMP206/COMP 206 Week 1.md",
     "Fall2026/COMP206",
     "Fall2026/MATH242/w1.svg",
     "Fall2026/MATH242",

@@ -11,14 +11,12 @@
             "id": "a1bb4e3fa3ae1d0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Fall2026/COMP251/COMP 251 Lecture 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Fall2026/MATH242/w1.svg"
               },
-              "icon": "lucide-file",
-              "title": "COMP 251 Lecture 1"
+              "icon": "lucide-image",
+              "title": "w1"
             }
           }
         ]
@@ -186,10 +184,10 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "a1bb4e3fa3ae1d0f",
+  "active": "4b50ab165f386577",
   "lastOpenFiles": [
-    "Fall2026/COMP251/COMP 251 Lecture 3.md",
     "Fall2026/COMP251/COMP 251 Lecture 1.md",
+    "Fall2026/COMP251/COMP 251 Lecture 3.md",
     "Fall2026/COMP206/COMP 206 Week 1.md",
     "Fall2026/COMP206",
     "Fall2026/MATH242/w1.svg",
